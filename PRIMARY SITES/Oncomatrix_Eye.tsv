@@ -1,0 +1,81 @@
+Case	GNAQ	GNA11	SF3B1	BAP1	EIF1AX	CSMD3	MUC16	CYSLTR2	SRSF2	PDGFRA	PTPRD	APC	MUC4	LRP1B	RNF43	FANCA	PRKCB	PREX2	CACNA1D	BRCA2	PDE4DIP	ZNF521	POLD1	MED12	NOTCH2	NSD1	EWSR1	GRIN2A	KTN1	DDR2	PER1	SPECC1	LIFR	RUNX1	CYLD	ALDH2	CLP1	NIN	PAX7	FAT1	ERBB4	FKBP9	ZNF479	ARID1B	MEN1	FAT4	MYH11	SETD2	SMARCA4	NACA
+TCGA-VD-A8KI	NONSENSE,G48*															SILENT,R32=				FRAMESHIFT,F2841Kfs*24																														
+TCGA-V4-A9EC	MISSENSE,Q209P		MISSENSE,T663P		MISSENSE,G9D																																													
+TCGA-WC-AA9E	MISSENSE,Q209L		MISSENSE,R625H			MISSENSE,T1304S													MISSENSE,I1276F																															
+TCGA-VD-A8KB	MISSENSE,Q209P		MISSENSE,R625C												MISSENSE,N602S																																			
+TCGA-VD-A8K9	MISSENSE,Q209P		MISSENSE,R625C																																									MISSENSE,P618Q						
+TCGA-V4-A9E5	MISSENSE,Q209P		MISSENSE,K666T																																											MISSENSE,A3857V				
+TCGA-V4-A9E9	MISSENSE,Q209P		MISSENSE,R625H			SILENT,V685=																																												
+TCGA-V4-A9EA	MISSENSE,Q209L		MISSENSE,R625C																																															
+TCGA-V4-A9ES	MISSENSE,R183Q		MISSENSE,R625H																																															
+TCGA-V4-A9EW	MISSENSE,Q209P		MISSENSE,R625C																																															
+TCGA-V4-A9EZ	MISSENSE,Q209P		MISSENSE,R625H																																								SILENT,S251=							
+TCGA-V4-A9F4	MISSENSE,Q209P		MISSENSE,R625H																																															
+TCGA-WC-A885	MISSENSE,Q209P		MISSENSE,R625H																																															
+TCGA-V4-A9EX	MISSENSE,Q209P			NONSENSE,Q40*																																														
+TCGA-V4-A9F0	MISSENSE,Q209L			FRAMESHIFT,Q456Rfs*115																																														
+TCGA-V4-A9F1	MISSENSE,Q209P			NONSENSE,Y33*																																														
+TCGA-VD-A8KK	MISSENSE,Q209P			FRAMESHIFT,P124Lfs*63																																														
+TCGA-V4-A9EO	MISSENSE,Q209P			MISSENSE,E685V												SILENT,P895=		MISSENSE,H700Y																																
+TCGA-V4-A9F8	MISSENSE,Q209P			MISSENSE,D68G																				MISSENSE,P94S																										
+TCGA-V4-A9EY	MISSENSE,Q209P				MISSENSE,G8R							MISSENSE,L592V																																						
+TCGA-WC-A880	MISSENSE,Q209L				MISSENSE,G6D								MISSENSE,G5022S																																					
+TCGA-VD-A8KE	MISSENSE,Q209P				MISSENSE,G9R																												SILENT,V573=																	
+TCGA-VD-A8KO	MISSENSE,Q209L				PROTEINDEL,K7_G8delinsR																																													
+TCGA-WC-A87U	MISSENSE,Q209P				MISSENSE,G15D																																					SILENT,G340=								
+TCGA-V4-A9E7	MISSENSE,Q209L						MISSENSE,S805N																																											
+TCGA-VD-AA8M	MISSENSE,Q209P						MISSENSE,E13580G																																											
+TCGA-V4-A9EM	MISSENSE,Q209L								PROTEINDEL,Y92_H99del																																							NONSENSE,R2040*		
+TCGA-V4-A9EL	MISSENSE,Q209L													MISSENSE,P3411S													NONSENSE,Y86*																							
+TCGA-YZ-A983	MISSENSE,Q209P										SILENT,Q1804=			MISSENSE,V4066A																																				
+HCM-BROD-1119-C43	MISSENSE,Q209P																																																	
+TCGA-V4-A9EE	MISSENSE,Q209P																																																	
+TCGA-V4-A9EK	MISSENSE,Q209P																																																	
+TCGA-V4-A9F2	MISSENSE,Q209L																																																	
+TCGA-VD-A8K7	MISSENSE,Q209L																																																	
+TCGA-VD-A8KM	MISSENSE,Q209P																																																	
+TCGA-VD-A8KN	MISSENSE,Q209P																																																	
+TCGA-VD-AA8Q	MISSENSE,Q209P																																																	
+TCGA-VD-AA8S	MISSENSE,Q209P																																																	
+TCGA-WC-A87T	MISSENSE,Q209P																																																	
+TCGA-WC-A883	MISSENSE,Q209P																																																	
+TCGA-WC-AA9A		MISSENSE,Q209L	MISSENSE,K666T	MISSENSE,G185R								MISSENSE,Q2804P																																						
+TCGA-YZ-A985		MISSENSE,R183C	MISSENSE,R625C							SILENT,S755=			MISSENSE,G5386R		MISSENSE,R609Q				MISSENSE,T917M			MISSENSE,P119L	SILENT,A778=		SILENT,T637=	MISSENSE,T725M								MISSENSE,T273M			MISSENSE,R206C								MISSENSE,R234H				MISSENSE,T910M	
+TCGA-V4-A9EJ		MISSENSE,Q209L	MISSENSE,R625H																																															
+TCGA-VD-A8KA		MISSENSE,Q209L	MISSENSE,R625C																																															
+TCGA-VD-A8KH		MISSENSE,Q209L	MISSENSE,R625H																																															
+TCGA-WC-A881		MISSENSE,Q209L	MISSENSE,H662R																																															
+TCGA-VD-A8KL		MISSENSE,Q209L		FRAMESHIFT,V27Gfs*42																	MISSENSE,P1681T							MISSENSE,K394N																						
+TCGA-V4-A9EI		MISSENSE,Q209L		FRAMESHIFT,D672Afs*17																											MISSENSE,E1252K							MISSENSE,V219M												
+TCGA-VD-AA8T		MISSENSE,Q209L		FRAMESHIFT,E498*																																											PROTEINDEL,E1543del			
+TCGA-V4-A9E8		MISSENSE,Q209L		FRAMESHIFT,S485Kfs*82																																														
+TCGA-V4-A9EF		MISSENSE,Q209L		NONSENSE,Y223*																																														
+TCGA-V4-A9EU		MISSENSE,Q209L		NONSENSE,Q441*																																														
+TCGA-YZ-A980		MISSENSE,Q209L		FRAMESHIFT,P338Lfs*24																																														
+TCGA-WC-A888		MISSENSE,Q209L		MISSENSE,Y173C					PROTEINDEL,S174_S179del																					SILENT,L412=																				
+TCGA-V4-A9F7		MISSENSE,Q209L			MISSENSE,G15D						MISSENSE,A1424T																																							
+TCGA-V3-A9ZY		MISSENSE,Q209L			MISSENSE,W70R																																													
+TCGA-VD-AA8R		MISSENSE,Q209L			MISSENSE,G6D																																													
+TCGA-WC-A884		MISSENSE,Q209L			MISSENSE,G8R																																													
+TCGA-V4-A9ET		MISSENSE,Q209L				MISSENSE,A843V																																												
+TCGA-WC-A882		MISSENSE,Q209L							PROTEINDEL,Y92_H100del																																MISSENSE,G735C									
+TCGA-V4-A9F3		MISSENSE,Q209L								MISSENSE,V859M																																								
+TCGA-RZ-AB0B		MISSENSE,Q209L															PROTEINALTERING,K582_C586delinsI																																	
+TCGA-V4-A9F5		MISSENSE,Q209L																											MISSENSE,D347G											MISSENSE,D2944N										
+TCGA-VD-A8KG		MISSENSE,Q209L																														MISSENSE,V365I																		
+TCGA-V4-A9EH		MISSENSE,Q209L																																		MISSENSE,G316A														
+TCGA-VD-A8K8		MISSENSE,Q209L																																					MISSENSE,M375L											
+TCGA-V3-A9ZX		MISSENSE,Q209L																																																
+TCGA-V4-A9EQ		MISSENSE,Q209L																																																
+TCGA-V4-A9EV		MISSENSE,Q209L																																																
+TCGA-VD-A8KF		MISSENSE,Q209L																																																
+TCGA-VD-AA8N		MISSENSE,Q209L																SILENT,S565=																																
+TCGA-VD-AA8P		MISSENSE,Q209L																																																
+TCGA-WC-A87W		MISSENSE,Q209L																																																
+TCGA-WC-A87Y		MISSENSE,Q209L																																																
+TCGA-WC-A88A		MISSENSE,Q209L																																																
+TCGA-YZ-A984				FRAMESHIFT,K421Rfs*9																															MISSENSE,S287I															
+TCGA-YZ-A982							MISSENSE,A2828V	MISSENSE,L129Q																																										
+TCGA-V4-A9ED								MISSENSE,L129Q																																										
+TCGA-VD-AA8O								MISSENSE,L129Q																																										
+TCGA-VD-A8KD																	MISSENSE,A568V																																	

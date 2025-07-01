@@ -1,0 +1,1183 @@
+Case	TP53	PIK3CA	MUC16	CDH1	GATA3	KMT2C	MAP3K1	PTEN	NCOR1	FAT3	CSMD3	MAP2K4	NF1	SPEN	FAT1	ARID1A	LRP1B	KMT2D	RUNX1	TBX3	BIRC6	MYH9	FOXA1	AKAP9	FAT4	KMT2A	PTPRD	UBR5	RNF213	PIK3R1	CBFB	PREX2	AKT1	FLNA	CHD4	ERBB2	ATRX	MED12	ATM	MUC4	RB1	MTOR	NOTCH2	ZFHX3	BRCA2	SETD2	BRCA1	KDM6A	GRIN2A	PTPRB
+20BR006	FRAMESHIFT,C242Afs*5	MISSENSE,H1047R	MISSENSE,R13242S					NONSENSE,Y177*	FRAMESHIFT,R296Efs*30					FRAMESHIFT,S1540Cfs*4																																				
+11BR031	FRAMESHIFT,F113Dfs*31	MISSENSE,H1047R	MISSENSE,A8477V							MISSENSE,E1864K							MISSENSE,E3426Q												SILENT,L5035=																					SILENT,V139=
+TCGA-GM-A2DH	NONSENSE,Q331*	MISSENSE,G1007R	MISSENSE,A3879P														MISSENSE,E2622K																				PROTEINDEL,D678_E679del		MISSENSE,D1963Y	SILENT,A4246=										SILENT,L1592=
+TCGA-A8-A075	SPLICE,X187_splice	MISSENSE,E545K	MISSENSE,S10124W																																		FRAMESHIFT,D139Mfs*14													
+TCGA-A2-A0D1	NONSENSE,Q331*	MISSENSE,E542K	MISSENSE,T2565M										SILENT,L1793=																																					
+TCGA-A8-A07B	FRAMESHIFT,Q165Afs*6	MISSENSE,H1047R		FRAMESHIFT,P200Qfs*15																												MISSENSE,I1102T								MISSENSE,R4558H										
+TCGA-AC-A3OD	NONSENSE,Q144*	MISSENSE,E545K		NONSENSE,Q641*																																														
+TCGA-BH-A202	NONSENSE,R213*	MISSENSE,E365V				FRAMESHIFT,M2522Ifs*5													FRAMESHIFT,T219Hfs*15																						NONSENSE,S215*									
+TCGA-A8-A08P	FRAMESHIFT,R156Afs*12	MISSENSE,E545K				NONSENSE,E1486*																																												
+TCGA-E9-A226	FRAMESHIFT,P152Afs*14	MISSENSE,N345K				FRAMESHIFT,E3679Dfs*2																																												
+TCGA-AC-A23C	FRAMESHIFT,R174Sfs*73	MISSENSE,Q546R						FRAMESHIFT,K183Efs*6	NONSENSE,Q1792*				MISSENSE,E716V																									MISSENSE,N1381Y												
+TCGA-AR-A5QQ	FRAMESHIFT,R209Kfs*6	MISSENSE,H1047R						MISSENSE,R130Q													MISSENSE,N3415S																													
+MBCProject_3554	NONSENSE,Q192*	MISSENSE,H1047R						MISSENSE,F206L																																										
+TCGA-AR-A24K	FRAMESHIFT,R110Sfs*14	MISSENSE,D350G							SPLICE,X1505_splice																																									
+TCGA-A8-A08R	FRAMESHIFT,N239*	MISSENSE,F614I				SILENT,Q587=			MISSENSE,S2337F	MISSENSE,Q2668E	MISSENSE,V2242A																	MISSENSE,G2560V																						
+TCGA-D8-A1JK	SPLICE,X331_splice	MISSENSE,E545K							MISSENSE,E693D											FRAMESHIFT,P47Lfs*56					MISSENSE,N3947T																									
+MBCProject_4989	SPLICE,X187_splice	MISSENSE,H1047R											FRAMESHIFT,I679Dfs*21																																					
+TCGA-BH-A18H	NONSENSE,Q331*	MISSENSE,E1037K												NONSENSE,Q3294*																																				
+MBCProject_1819	FRAMESHIFT,G245Rfs*19	MISSENSE,H1047L													MISSENSE,R1340G																																			
+TCGA-GM-A2DI	SPLICE,X261_splice	MISSENSE,E542K														FRAMESHIFT,S617Qfs*2	SILENT,E2375=																																	
+TCGA-BH-A0EE	FRAMESHIFT,H178Pfs*69	MISSENSE,L766F														MISSENSE,P848S					FRAMESHIFT,N1519Mfs*61							MISSENSE,E742K		PROTEINDEL,K567_L570del												MISSENSE,R1612P								
+TCGA-BH-A208	SPLICE,X187_splice	MISSENSE,H1047R															NONSENSE,Q400*																																	
+11BR004	FRAMESHIFT,R213Dfs*34	MISSENSE,H1047R															MISSENSE,S1281I												MISSENSE,H1347R																					
+TCGA-D8-A143	SPLICE,X331_splice	MISSENSE,H1047R															MISSENSE,S3586R																								FRAMESHIFT,I679Rfs*15									
+18BR002	NONSENSE,R196*	PROTEINALTERING,L10_P18delinsQ																MISSENSE,S2834L										MISSENSE,D2499N																						
+TCGA-D8-A1JG	FRAMESHIFT,L289Ffs*65	PROTEINDEL,P447_L455del																MISSENSE,A3459S																																
+TCGA-A2-A0CW	NONSENSE,R196*	MISSENSE,G1049R																	FRAMESHIFT,D96Gfs*15										MISSENSE,R4889C																					
+22BR005	NONSENSE,W91*	MISSENSE,E365K																SILENT,I2368=	FRAMESHIFT,S238Efs*335																															
+MBCProject_2071	FRAMESHIFT,A83Dfs*42	MISSENSE,E542K																			NONSENSE,S449*																													
+18BR007	NONSENSE,R196*	MISSENSE,E545K																				FRAMESHIFT,E53Gfs*15																												
+TCGA-A2-A04P	FRAMESHIFT,G108Vfs*15	MISSENSE,R88Q																						MISSENSE,L1893V																					MISSENSE,Q3206E					
+TCGA-C8-A130	FRAMESHIFT,N131Tfs*39	MISSENSE,H1047R																														MISSENSE,C1086R																		
+TCGA-B6-A0IE	SPLICE,X307_splice	MISSENSE,H1047R																																						MISSENSE,E4431K										
+11BR017	SPLICE,X224_splice	MISSENSE,H1047L																																												FRAMESHIFT,D374*				
+11BR010	NONSENSE,Y327*	MISSENSE,N345K																																																
+18BR009	NONSENSE,R213*	MISSENSE,H1047R																																																
+MBCProject_0524	NONSENSE,W146*	MISSENSE,G1049S																																																
+MBCProject_1197	FRAMESHIFT,L93Pfs*56	MISSENSE,E542K																																																
+TCGA-A8-A06U	FRAMESHIFT,R209Kfs*6	MISSENSE,H1047R																																																
+TCGA-AN-A0AJ	FRAMESHIFT,G108Vfs*15	MISSENSE,H1047R	SILENT,G8651=																																															
+TCGA-AO-A03L	SPLICE,X261_splice	MISSENSE,N345K																																																
+TCGA-E2-A1IO	FRAMESHIFT,P191Sfs*18	MISSENSE,E542K																																																
+TCGA-E9-A1RH	FRAMESHIFT,E339Rfs*6	PROTEINDEL,E103_P104del																																																
+11BR080	NONSENSE,R306*		FRAMESHIFT,V6096Ffs*11																																						NONSENSE,R445*									
+TCGA-AO-A128	NONSENSE,R342*		MISSENSE,I12173T	MISSENSE,A817V				NONSENSE,R130*	MISSENSE,R1628C		MISSENSE,R1236M									MISSENSE,P650L									SILENT,Q2835=		NONSENSE,Q45*			MISSENSE,D1586G		MISSENSE,V797A		SILENT,R1733=		MISSENSE,A561T										
+TCGA-A2-A0D0	NONSENSE,R196*		MISSENSE,S5371F												MISSENSE,K1044R						MISSENSE,S3504N																													
+05BR052	NONSENSE,K139*		MISSENSE,G274E												MISSENSE,E375Q							MISSENSE,K975N						MISSENSE,I2532T														FRAMESHIFT,V1549Cfs*27					FRAMESHIFT,L1153Rfs*2			
+TCGA-AR-A256	FRAMESHIFT,R110Sfs*14		MISSENSE,A14192E																		MISSENSE,S991P																													
+100004012	NONSENSE,R213*		MISSENSE,A4548V																						FRAMESHIFT,S3875Nfs*20																									
+TCGA-B6-A0RE	FRAMESHIFT,S303Afs*42		MISSENSE,T7529S																								MISSENSE,R1623S																FRAMESHIFT,P2297Lfs*9							
+05BR058	FRAMESHIFT,S106Afs*17		MISSENSE,S10037F																									MISSENSE,G2205A																						
+TCGA-A8-A07O	SPLICE,X125_splice		MISSENSE,M7905I																													MISSENSE,R363Q			SILENT,D845=				MISSENSE,N796T											
+TCGA-AO-A124	NONSENSE,R213*		MISSENSE,Q1450K																																										MISSENSE,C3304S					
+TCGA-A2-A0T3	FRAMESHIFT,E287Pfs*9		MISSENSE,T101N																																															
+TCGA-AN-A0FJ	FRAMESHIFT,V157Afs*24		MISSENSE,M8382I																																															
+TCGA-AO-A12D	FRAMESHIFT,C242Afs*5		MISSENSE,E530K																																															
+TCGA-AR-A1AH	FRAMESHIFT,G108Ffs*40		MISSENSE,T5593N																																															
+TCGA-BH-A0C0	FRAMESHIFT,R110Vfs*13		SILENT,S12520=	SPLICE,X440_splice																																														
+TCGA-E9-A6HE	NONSENSE,R306*			FRAMESHIFT,T522Ifs*14																																														
+MBCProject_0984	NONSENSE,R306*				FRAMESHIFT,S413Qfs*94										MISSENSE,V2170I																	MISSENSE,A1284V																		
+MBCProject_0320	FRAMESHIFT,T118Qfs*5				FRAMESHIFT,S426Ifs*81																								MISSENSE,G488A																					
+TCGA-AR-A1AP	NONSENSE,R196*				SPLICE,X308_splice																																													
+TCGA-EW-A1OY	NONSENSE,Q192*					NONSENSE,Q1534*	FRAMESHIFT,Y1276Mfs*12																																											
+TCGA-A8-A094	FRAMESHIFT,R209Kfs*6					FRAMESHIFT,K3784Ifs*8																					MISSENSE,E1296Q				SPLICE,X133_splice		MISSENSE,E17K				FRAMESHIFT,R840Nfs*8													
+TCGA-E9-A1N8	FRAMESHIFT,T256Nfs*8					MISSENSE,H367D				MISSENSE,G1413V																																								
+TCGA-3C-AALI	NONSENSE,S183*		SILENT,A2118=			MISSENSE,S1334C					MISSENSE,S3148C																NONSENSE,L1535*																					MISSENSE,W1096C		
+05BR055	FRAMESHIFT,P309Hfs*25					MISSENSE,E1774Q									MISSENSE,K2981N																																			
+MBCProject_0345	NONSENSE,R213*					MISSENSE,S3439C										NONSENSE,S1791*								MISSENSE,E3396Q	SILENT,L1599=																									
+TCGA-A2-A0YJ	NONSENSE,R342*					PROTEINDEL,E3050del																				MISSENSE,K3045T																								
+TCGA-A7-A6VV	NONSENSE,Q52*					MISSENSE,N4811K																										MISSENSE,I1025V																		
+TCGA-BH-A1F0	FRAMESHIFT,V147Lfs*23					MISSENSE,E1096V																																			SILENT,K548=									
+03BR004	FRAMESHIFT,R333Vfs*12						FRAMESHIFT,N1320Kfs*5	FRAMESHIFT,E242Ffs*10																																				NONSENSE,Y1401*						
+TCGA-D8-A1XA	NONSENSE,R306*						FRAMESHIFT,R1385Kfs*35																																											
+TCGA-A2-A3Y0	NONSENSE,R342*						MISSENSE,N325K			MISSENSE,P963L																FRAMESHIFT,R2268Gfs*6																		MISSENSE,S3587L						
+TCGA-C8-A8HP	NONSENSE,Q136*						MISSENSE,E231Q															MISSENSE,Q943H																						MISSENSE,R1426T						MISSENSE,S1108L
+TCGA-A2-A1G1	SPLICE,X225_splice						MISSENSE,P769S																																											
+TCGA-E9-A1N9	NONSENSE,R196*						MISSENSE,S976F																																											
+TCGA-GM-A2DB	NONSENSE,E294*							FRAMESHIFT,D19Gfs*25																						PROTEINDEL,N453_E458del																				
+20BR002	FRAMESHIFT,R280Efs*65							MISSENSE,H75P																																										
+MBCProject_0343	FRAMESHIFT,T150Afs*16								FRAMESHIFT,A567Pfs*23		MISSENSE,T1007A																		FRAMESHIFT,Y1892Lfs*40																					
+TCGA-B6-A0I6	FRAMESHIFT,H178Pfs*2								MISSENSE,E1841Q	MISSENSE,K2987N																			MISSENSE,D4984G									MISSENSE,N2164D												
+TCGA-E9-A22G	FRAMESHIFT,E271*								MISSENSE,N2260K																MISSENSE,Y2505C															MISSENSE,Q842E										
+TCGA-BH-A1FC	SPLICE,X225_splice								MISSENSE,I2235M																																									
+TCGA-D8-A1XQ	FRAMESHIFT,L252Sfs*93									MISSENSE,P3481A								MISSENSE,S4871R									SILENT,T186=			MISSENSE,G644S				MISSENSE,V711A					SILENT,L2659=	MISSENSE,R914K	MISSENSE,R255Q							NONSENSE,Q611*		
+TCGA-C8-A1HJ	NONSENSE,R196*									MISSENSE,E3754D									MISSENSE,Y162H			MISSENSE,T1030I																												
+TCGA-A8-A09Q	SPLICE,X224_splice	SILENT,L755=								MISSENSE,G2630A																	MISSENSE,G1152R	MISSENSE,K599Q																						
+MBCProject_0040	SPLICE,X257_splice										MISSENSE,E3108K										MISSENSE,E1092Q									MISSENSE,E140K							MISSENSE,E113K													
+MBCProject_4012	NONSENSE,G325*										MISSENSE,R1135C																	MISSENSE,D814V																						
+TCGA-AC-A8OQ	NONSENSE,E294*										MISSENSE,S42R						SILENT,V2638=																																	
+TCGA-AO-A0JB	NONSENSE,R213*										MISSENSE,D666Y														SILENT,F793=																									
+TCGA-D8-A27F	FRAMESHIFT,C242Afs*5										MISSENSE,I103T																																							
+TCGA-E2-A14X	NONSENSE,R213*										MISSENSE,D678N																												SILENT,K1807=											
+TCGA-HN-A2NL	FRAMESHIFT,V143Gfs*11												SPLICE,X1392_splice					FRAMESHIFT,L2292Hfs*28																																
+TCGA-D8-A27M	NONSENSE,R196*												SPLICE,X2397_splice																																		FRAMESHIFT,P1614Qfs*19			
+TCGA-A7-A6VY	FRAMESHIFT,L299Afs*7												MISSENSE,R125P																														MISSENSE,S1388T							
+TCGA-AN-A0XU	FRAMESHIFT,C275Lfs*67													FRAMESHIFT,D73Pfs*6																																	MISSENSE,G1788V			
+MBCProject_4634	FRAMESHIFT,T81Nfs*68													MISSENSE,W661L																																				
+TCGA-A1-A0SP	NONSENSE,S183*															MISSENSE,R2143C																																		
+MBCProject_0698	FRAMESHIFT,P85Lfs*25								SILENT,R977=						SILENT,S3316=		MISSENSE,C2787S			SPLICE,X215_splice														SILENT,V804=												MISSENSE,S477F				
+TCGA-D8-A1XZ	NONSENSE,Q167*																MISSENSE,V4148A															MISSENSE,L1014Q																		
+MBCproject_0095	FRAMESHIFT,P98Lfs*25																MISSENSE,S3554Y																	FRAMESHIFT,K1399Lfs*4			FRAMESHIFT,Y2391Lfs*3			SILENT,T3342=										
+TCGA-A7-A4SE	SPLICE,X261_splice																MISSENSE,D2260N																																	
+TCGA-AO-A0J6	FRAMESHIFT,T211Lfs*36																SILENT,G1864=	FRAMESHIFT,L3220Wfs*9																																
+11BR030	FRAMESHIFT,T118Qfs*5		SILENT,V647=															MISSENSE,D5515H							MISSENSE,T3570I				MISSENSE,E2532Q							MISSENSE,E401Q														
+TCGA-C8-A1HK	NONSENSE,R280*																	MISSENSE,D1828H																																
+TCGA-AR-A24U	NONSENSE,E51*																		FRAMESHIFT,V269Qfs*13									MISSENSE,R1547C																						
+TCGA-AR-A254	NONSENSE,C124*																		FRAMESHIFT,Q186Rfs*24																															
+TCGA-AR-A1AN	FRAMESHIFT,R110Vfs*13																		MISSENSE,L134P																															
+TCGA-AR-A2LR	FRAMESHIFT,C242Afs*5																			MISSENSE,A565T																														
+TCGA-E2-A574	SPLICE,X261_splice																				MISSENSE,S4367F					MISSENSE,R442Q																								
+TCGA-A8-A097	FRAMESHIFT,I251Sfs*94																				MISSENSE,P4616T																													MISSENSE,P1173T
+TCGA-AQ-A54N	NONSENSE,R306*																					SPLICE,X1449_splice																												
+05BR029	FRAMESHIFT,V217Wfs*30																					MISSENSE,E956K		FRAMESHIFT,M2065Nfs*7																			FRAMESHIFT,I2304Lfs*2							
+TCGA-E2-A155	SPLICE,X33_splice																							FRAMESHIFT,V77*																										
+TCGA-E2-A14N	NONSENSE,R196*																							MISSENSE,H970D						PROTEINDEL,Q579_Y580del																				
+TCGA-BH-A18V	NONSENSE,E56*																							MISSENSE,K3116N																			MISSENSE,R1630H							
+ER-ABF0	SPLICE,X187_splice																							MISSENSE,G3641V																				MISSENSE,E860K						
+MBCProject_4718	NONSENSE,Q192*																							MISSENSE,E2718Q																										
+TCGA-A2-A0YM	FRAMESHIFT,R333Vfs*12																							MISSENSE,S3576Y																										
+TCGA-BH-A0RX	NONSENSE,R342*																							MISSENSE,S2509R																										
+TCGA-EW-A1OZ	NONSENSE,E258*																									FRAMESHIFT,P1466Sfs*112																								
+11BR016	NONSENSE,R196*																									MISSENSE,D580E																	FRAMESHIFT,L2301Pfs*3							
+MBCProject_1001	FRAMESHIFT,N131Kfs*39																											MISSENSE,H9R																						
+TCGA-E2-A1II	SPLICE,X126_splice																											MISSENSE,M1799V																						
+C685110	FRAMESHIFT,P316Lfs*30														SILENT,G1282=															FRAMESHIFT,N378Lfs*3																				
+TCGA-C8-A135	FRAMESHIFT,C242Afs*5																													MISSENSE,D440G						MISSENSE,D769H														
+TCGA-A7-A56D	FRAMESHIFT,T304Ifs*41																													PROTEINDEL,L380del																				
+TCGA-E9-A248	FRAMESHIFT,H115Ifs*8																													PROTEINDEL,H450_R461delinsQ																				
+TCGA-BH-A18U	FRAMESHIFT,E285Rfs*54																									SILENT,P3056=								MISSENSE,S2152L			MISSENSE,S656F													
+MBCProject_0186	NONSENSE,Y107*																																	MISSENSE,D2403Y																
+TCGA-A8-A06Z	FRAMESHIFT,P128Lfs*42																																			MISSENSE,G309A										SILENT,L2375=			MISSENSE,P1095H	
+TCGA-OL-A5RW	FRAMESHIFT,R209Kfs*6																																					NONSENSE,R1646*		MISSENSE,H216R			SILENT,C1342=							
+TCGA-E2-A1LK	FRAMESHIFT,A86Cfs*63																																					MISSENSE,N1186K												
+TCGA-A2-A0YG	SPLICE,X125_splice																																							MISSENSE,R796Q										
+TCGA-A2-A0YE	FRAMESHIFT,I162Tfs*8																																								NONSENSE,L206*									
+TCGA-AR-A1AQ	FRAMESHIFT,R342Efs*3		SILENT,V4327=																																						NONSENSE,S215*									
+TCGA-S3-AA10	FRAMESHIFT,T118Dfs*31																																								MISSENSE,V288E									
+TCGA-LL-A73Y	SPLICE,X225_splice																																									MISSENSE,E2369Q			MISSENSE,T1499I					
+TCGA-A7-A5ZV	FRAMESHIFT,T211Ffs*4																SILENT,L1205=																									MISSENSE,D2412H								
+TCGA-B6-A0X1	SPLICE,X331_splice																																														FRAMESHIFT,E23Sfs*8		FRAMESHIFT,T470Yfs*21	
+TCGA-C8-A138	FRAMESHIFT,L308Afs*28																																																MISSENSE,G510A	
+01BR020	NONSENSE,E171*																																																	
+01BR040	FRAMESHIFT,L289Sfs*16																																																	
+05BR045	NONSENSE,R213*																																																	
+05BR051	NONSENSE,Y236*																																																	
+11BR038	NONSENSE,C124*																																																	
+604	FRAMESHIFT,E204Sfs*43																																																	
+MBCProject_0243	FRAMESHIFT,T304Ifs*41																																																	
+MBCProject_6876	FRAMESHIFT,R156Afs*14																																																	
+TCGA-A2-A04U	FRAMESHIFT,Y107Cfs*16																																									SILENT,E1455=								
+TCGA-A2-A0CM	FRAMESHIFT,E204Sfs*43																																																	
+TCGA-A2-A0D2	FRAMESHIFT,P318Tfs*15																																																	
+TCGA-A7-A13D	NONSENSE,E221*													SILENT,S2908=																																				SILENT,V595=
+TCGA-A8-A07U	FRAMESHIFT,F328Sfs*17																																																	
+TCGA-AN-A0AR	FRAMESHIFT,E171Lfs*2																																																	
+TCGA-AN-A0FL	SPLICE,X225_splice																																																	
+TCGA-AN-A0G0	NONSENSE,R342*																																																	
+TCGA-AN-A0XN	SPLICE,X126_splice													SILENT,P799=								SILENT,D1293=																												
+TCGA-AN-A0XT	SPLICE,X126_splice																																																	
+TCGA-AR-A0TS	NONSENSE,E198*																																																	
+TCGA-AR-A0U3	FRAMESHIFT,Q167Hfs*3																																																	
+TCGA-AR-A1AR	FRAMESHIFT,S90Pfs*33																																																	
+TCGA-B6-A0I2	FRAMESHIFT,I162Wfs*10																																																	
+TCGA-B6-A0RU	NONSENSE,R196*																																																	
+TCGA-B6-A0WX	NONSENSE,L114*																																																	
+TCGA-B6-A1KF	SPLICE,X125_splice																																																	
+TCGA-B6-A409	FRAMESHIFT,T253Hfs*11																																																	
+TCGA-BH-A0B7	SPLICE,X187_splice																																																	
+TCGA-BH-A18Q	FRAMESHIFT,P77Cfs*73					SILENT,S793=																																												
+TCGA-D8-A13Y	FRAMESHIFT,A138Cfs*27																																																	
+TCGA-D8-A1Y3	NONSENSE,R213*																																																	SILENT,S615=
+TCGA-E2-A150	NONSENSE,C176*																																																	
+TCGA-E2-A1B6	NONSENSE,R342*																																		SILENT,D1591=															
+TCGA-E9-A243	NONSENSE,W91*																																																	
+TCGA-EW-A1PA	NONSENSE,R213*																																																	
+TCGA-EW-A1PH	FRAMESHIFT,K292Gfs*52																																																	
+TCGA-GM-A2DF	SPLICE,X225_splice																																													SILENT,A944=				
+TCGA-OL-A66I	NONSENSE,R342*																																																	
+TCGA-AN-A046	MISSENSE,E11K	MISSENSE,Y1021C	NONSENSE,E430*			NONSENSE,R4478*		NONSENSE,S59*	SPLICE,X392_splice	MISSENSE,R3866Q	NONSENSE,R2598*		NONSENSE,E1734*	NONSENSE,R1542*	MISSENSE,E2149K		MISSENSE,K89T	MISSENSE,K4470N		MISSENSE,E720K	MISSENSE,R2225I	MISSENSE,V741M		NONSENSE,R3308*	MISSENSE,D242N	NONSENSE,R652*	MISSENSE,F873L	MISSENSE,D825Y	NONSENSE,E3152*	NONSENSE,R557*		MISSENSE,S1097Y		MISSENSE,G1623V	NONSENSE,R559*	MISSENSE,T306M	NONSENSE,E1522*		MISSENSE,R337H		SPLICE,X313_splice	MISSENSE,I1048L			MISSENSE,E3342K	MISSENSE,R2024Q	MISSENSE,L1098I		MISSENSE,V417I	MISSENSE,R882H
+TCGA-AR-A24S	MISSENSE,D281V	MISSENSE,E542K	MISSENSE,M4672I			NONSENSE,E690*																		SILENT,L1184=																										
+TCGA-B6-A0IK	MISSENSE,L194R	MISSENSE,H1047R	MISSENSE,G10293E										FRAMESHIFT,P2696Tfs*14				MISSENSE,G2179E																					SILENT,S1975=												
+TCGA-A2-A0EY	MISSENSE,Y234C	MISSENSE,G118D	MISSENSE,M3209I											MISSENSE,E2583K												MISSENSE,S2869L													MISSENSE,P1587T											
+TCGA-A2-A0EQ	PROTEINDEL,I162_Y163delinsN	MISSENSE,H1047R	MISSENSE,K14116N														MISSENSE,P519S					MISSENSE,E1011Q			MISSENSE,H406Q																									
+TCGA-A8-A092	MISSENSE,C238Y	MISSENSE,H1047R	MISSENSE,T9349A																					MISSENSE,G1062E																										
+TCGA-BH-A0B0	MISSENSE,R175H	MISSENSE,E545K	MISSENSE,S114C																																		MISSENSE,R2197C													
+01BR044	MISSENSE,C176Y	MISSENSE,E542K	MISSENSE,K3653Q																																															
+TCGA-A7-A0CJ	MISSENSE,R175H	MISSENSE,Q546R	MISSENSE,T5613I																																															
+TCGA-LD-A74U	MISSENSE,R280K	MISSENSE,E545K		FRAMESHIFT,N238*		SPLICE,X338_splice						NONSENSE,Q163*	MISSENSE,L2073V															MISSENSE,D714N																					MISSENSE,S445L	
+HCM-CSHL-0514-C50	MISSENSE,R158H	MISSENSE,E545K		NONSENSE,Q448*		FRAMESHIFT,N2842Kfs*2																				MISSENSE,P2983S										MISSENSE,V777L						MISSENSE,R1749G								
+TCGA-E2-A2P5	MISSENSE,F341S	MISSENSE,N345K		NONSENSE,Q383*		FRAMESHIFT,E648Vfs*8																																												
+TCGA-AR-A24T	MISSENSE,R273H	MISSENSE,H1047R		FRAMESHIFT,I650Yfs*13										FRAMESHIFT,M3658Pfs*60																								NONSENSE,E1497*												
+MBCProject_0595	MISSENSE,C275Y	MISSENSE,E542K		MISSENSE,R524W								MISSENSE,R134W																																						
+TCGA-PE-A5DE	MISSENSE,M169I	MISSENSE,E545K	SILENT,L12122=	MISSENSE,G278V													MISSENSE,S2973F	MISSENSE,S4359L														MISSENSE,R484K											MISSENSE,D1306N			SILENT,E2062=	MISSENSE,E1419K		MISSENSE,V99M	
+TCGA-GM-A2DD	MISSENSE,R175H	MISSENSE,H1047R		MISSENSE,T251K																																														
+TCGA-D8-A1JJ	MISSENSE,C141Y	MISSENSE,H1047R			MISSENSE,M293R				MISSENSE,P2397L																																									
+TCGA-AC-A5EH	MISSENSE,L194R	MISSENSE,H1047R				NONSENSE,K4391*							SPLICE,X1290_splice																MISSENSE,E2909D																		SILENT,S1483=			
+TCGA-A2-A0YT	MISSENSE,I255S	MISSENSE,E545K				FRAMESHIFT,N621*																																												
+TCGA-A7-A6VX	MISSENSE,P250L	MISSENSE,H1047R				NONSENSE,Q396*																																												
+TCGA-AO-A0JE	MISSENSE,Y220C	MISSENSE,E542K				NONSENSE,E1120*																																												
+05BR038	MISSENSE,R175H	PROTEINDEL,I102_E103delinsK					NONSENSE,S398*					MISSENSE,L223F		NONSENSE,S1680*	SILENT,L3582=																													NONSENSE,Q1808*						
+MBCProject_0799	MISSENSE,R248Q	MISSENSE,E542K					NONSENSE,Q881*									FRAMESHIFT,T238Ifs*159															MISSENSE,I55N																			
+TCGA-B6-A401	MISSENSE,R175H	MISSENSE,N345K					FRAMESHIFT,E1294Kfs*13																																											
+MBCProject_3808	PROTEINDEL,P191del	MISSENSE,H1047R						NONSENSE,Q149*		SILENT,D4217=			SILENT,L1221=																																					
+MBCProject_5809	MISSENSE,R175H	MISSENSE,Q546R						FRAMESHIFT,T319Kfs*22																																										
+MBCProject_6215	MISSENSE,H193R	MISSENSE,Q546K							FRAMESHIFT,Q1127Nfs*5																																									
+05BR043	MISSENSE,R273H	MISSENSE,L156H								MISSENSE,S2244R													SILENT,L405=					SILENT,A1858=																						
+TCGA-AO-A03O	MISSENSE,R175H	PROTEINDEL,K111_L113del									MISSENSE,S256C								FRAMESHIFT,S191Afs*4																		MISSENSE,F1384L													
+TCGA-BH-A1FE	MISSENSE,N247I	MISSENSE,K111E									MISSENSE,D3058N																								MISSENSE,E1892K	MISSENSE,D769Y														
+HCM-CSHL-0773-C50	MISSENSE,C135G	MISSENSE,H1047R									MISSENSE,T68N														SILENT,S433=																									
+01BR015	MISSENSE,P278T	PROTEINDEL,H419_C420del										FRAMESHIFT,K260Dfs*7															MISSENSE,P974S																							
+MBCProject_5094	MISSENSE,Y220C	MISSENSE,H1047R										FRAMESHIFT,I225Lfs*51																																						
+TCGA-B6-A0RH	MISSENSE,Y220S	MISSENSE,E545K										SPLICE,X211_splice																																						
+TCGA-E2-A9RU	MISSENSE,F113C	MISSENSE,G106R										FRAMESHIFT,H79Tfs*9																																						
+TCGA-AR-A1AS	MISSENSE,R175H	MISSENSE,E545A			SILENT,S138=							MISSENSE,S257F																																						
+TCGA-BH-A0GY	MISSENSE,R175H	MISSENSE,H1047R										MISSENSE,V290F																																						
+TCGA-A1-A0SI	MISSENSE,R175H	MISSENSE,E726K											NONSENSE,Q209*																												NONSENSE,S829*			SILENT,R1712=			MISSENSE,E9Q	SILENT,V503=		
+TCGA-AR-A1AW	MISSENSE,R273C	MISSENSE,H1047R	SILENT,S13154=										MISSENSE,Q1447H																																					
+HCM-CSHL-0155-C50	MISSENSE,R273H	MISSENSE,H1047R													MISSENSE,R782C											NONSENSE,R608*										MISSENSE,R517Q				MISSENSE,L2482V										
+TCGA-BH-A203	MISSENSE,R273H	MISSENSE,H1047R																MISSENSE,Q3905L											SILENT,Q4803=					MISSENSE,R655H																
+TCGA-AN-A04C	MISSENSE,H179R	MISSENSE,S629C															SILENT,A821=	MISSENSE,R3626W																																
+TCGA-C8-A26X	MISSENSE,V173M	PROTEINDEL,E103_G106delinsD																MISSENSE,T3765R																																
+TCGA-C8-A131	MISSENSE,R175H	MISSENSE,R108H																		FRAMESHIFT,N211Tfs*32							MISSENSE,R1898C																							
+TCGA-C8-A12L	MISSENSE,C238F	MISSENSE,H1047R																				MISSENSE,E912D																												
+TCGA-A2-A04W	MISSENSE,V272M	MISSENSE,H1047R	SILENT,S5509=																						MISSENSE,S4816C										NONSENSE,E1634*					SILENT,F4685=										
+TCGA-OL-A5D6	MISSENSE,C242G	MISSENSE,N345K																																		MISSENSE,V777L														
+TCGA-A2-A04T	MISSENSE,D208G	MISSENSE,H1047Y																																				NONSENSE,Q323*												
+MBCProject_0786	MISSENSE,I195S	MISSENSE,E545K																																						MISSENSE,V4169L										
+MBCProject_1334	MISSENSE,C135R	MISSENSE,H1047R																																						MISSENSE,T348K										
+TCGA-D8-A1XL	MISSENSE,R248W	MISSENSE,C420R																																							SPLICE,X830_splice				FRAMESHIFT,E1646Kfs*24					SILENT,V860=
+TCGA-E2-A1IN	MISSENSE,V157G	MISSENSE,E542K								SILENT,L3309=																																MISSENSE,R1215T								
+TCGA-BH-A0DL	MISSENSE,E286A	MISSENSE,H1047R																																														SPLICE,X207_splice		
+11BR056	MISSENSE,L194R	MISSENSE,H1047R																																																
+MBCProject_1046	MISSENSE,H179R	MISSENSE,E545K																																																
+MBCProject_2517	MISSENSE,H193R	MISSENSE,E542K																SILENT,A2133=																																
+TCGA-A2-A0YH	MISSENSE,P278L	MISSENSE,N345K																																																
+TCGA-A8-A06Q	MISSENSE,C238Y	MISSENSE,H1047R																																																
+TCGA-A8-A081	MISSENSE,C141Y	MISSENSE,H1047R									SILENT,C2137=																																							
+TCGA-BH-A0BC	MISSENSE,R248W	MISSENSE,H1047L																																																
+TCGA-BH-A0BF	MISSENSE,G245S	MISSENSE,N345K																																																
+TCGA-BH-A0BT	MISSENSE,R158G	MISSENSE,H1047R																																																
+TCGA-C8-A1HF	MISSENSE,H179Y	MISSENSE,H1047R																	SILENT,L226=																															
+TCGA-C8-A26W	MISSENSE,R273L	MISSENSE,H1047R																																																
+TCGA-C8-A278	MISSENSE,H168P	MISSENSE,H1047L																																																
+TCGA-D8-A1JF	MISSENSE,H179R	MISSENSE,E545K																																																
+TCGA-E2-A14Y	MISSENSE,Q136E	MISSENSE,H1047R																																																
+TCGA-E2-A15E	MISSENSE,H193R	MISSENSE,H1047R																																																
+TCGA-E9-A1N5	MISSENSE,H193R	MISSENSE,E542K																																																
+TCGA-AR-A0TX	MISSENSE,Y205C		NONSENSE,S7060*			MISSENSE,G722E								NONSENSE,E2583*							MISSENSE,S4252F					NONSENSE,Q900*	MISSENSE,H1025D											MISSENSE,K1412N												
+HCM-CSHL-0907-C50	MISSENSE,H179R		NONSENSE,S2397*																																															
+MBCProject_6747	MISSENSE,R248Q		MISSENSE,R3573C		FRAMESHIFT,K358Efs*13							MISSENSE,L87R											MISSENSE,A232S								FRAMESHIFT,R90Efs*8																			
+TCGA-D8-A1XK	PROTEINALTERING,F270_G279delinsLF		MISSENSE,I2848M					FRAMESHIFT,K267Rfs*9		MISSENSE,E1682G	MISSENSE,V2609M		SPLICE,X1325_splice		MISSENSE,T4012A		SILENT,C2020=				MISSENSE,I235L	MISSENSE,R764C			SILENT,H1837=	MISSENSE,T1839A	MISSENSE,K1464E			MISSENSE,H669Q					SILENT,T349=											MISSENSE,S1737G				
+TCGA-C8-A1HM	MISSENSE,L194P		MISSENSE,P9393L									MISSENSE,R170K						MISSENSE,G3844V																	MISSENSE,D1857N															
+TCGA-BH-A0BP	MISSENSE,K132N		MISSENSE,S496C														MISSENSE,D3002E																																	
+TCGA-E2-A15M	MISSENSE,L130V		MISSENSE,I3493T																	MISSENSE,S363W																														
+TCGA-C8-A27B	MISSENSE,H193R		MISSENSE,G2023R																							MISSENSE,S1002C		MISSENSE,E1882K							MISSENSE,P90Q															
+MBCProject_0068	MISSENSE,G279E		MISSENSE,E9881V																													MISSENSE,L42V																		
+MBCProject_2290	MISSENSE,Y163D		MISSENSE,V11400I																			SILENT,R1641=												PROTEINDEL,K1621_F1629del											MISSENSE,K3267R					
+TCGA-B6-A0RS	MISSENSE,R273C		MISSENSE,P12847T																								SILENT,V136=								MISSENSE,I296M			MISSENSE,P1966A												
+TCGA-E9-A244	MISSENSE,R175H		MISSENSE,S4033I																																								FRAMESHIFT,I2304Lfs*2			MISSENSE,N524H				MISSENSE,G682R
+TCGA-BH-A0AW	MISSENSE,F270S		MISSENSE,S6608L																																								MISSENSE,R1604S							
+MBCProject_0075	MISSENSE,R248G		MISSENSE,M1664L																																															
+MBCProject_2200	MISSENSE,C242S		MISSENSE,P3724S																																															
+TCGA-A8-A09N	MISSENSE,H193R		MISSENSE,E8227Q																																															
+TCGA-AR-A0TP	MISSENSE,R273P		MISSENSE,G398A																																															
+TCGA-LD-A7W5	MISSENSE,L257R		MISSENSE,S12624I																																															
+TCGA-LL-A6FR	MISSENSE,R273H		MISSENSE,Q13653E																																															
+TCGA-A8-A09X	MISSENSE,M246I			FRAMESHIFT,D291Mfs*3																																														
+MBCProject_0170	MISSENSE,L130R			MISSENSE,D756N																																														
+TCGA-BH-A0BR	MISSENSE,V274F				SPLICE,X350_splice																						MISSENSE,T342M						MISSENSE,E17K																	
+TCGA-C8-A26V	MISSENSE,I232S				SPLICE,X308_splice																												MISSENSE,E17K																	
+MBCProject_0178	MISSENSE,H193R				NONSENSE,ATGGGTTAGAGCCCTGCTCGATGCTCACAGGGCCCCCAGCGAGAGTCCCT>-																																													
+TCGA-A8-A079	MISSENSE,S215I				FRAMESHIFT,P386Qfs*6																																													
+TCGA-AQ-A04H	MISSENSE,V197G				FRAMESHIFT,S410Qfs*97																																													
+TCGA-AR-A0U2	MISSENSE,C176F				FRAMESHIFT,P408Afs*99																																													
+TCGA-B6-A0I9	MISSENSE,C135Y				FRAMESHIFT,P408Afs*99																														SILENT,K1226=															
+TCGA-AR-A24P	MISSENSE,Y234C				MISSENSE,L327H																										FRAMESHIFT,P70Sfs*13																			
+TCGA-E2-A1LG	PROTEINDEL,I255del					FRAMESHIFT,L1217*			MISSENSE,Q978H													SILENT,K1248=					SILENT,V424=		MISSENSE,A4356P																					
+11BR075	MISSENSE,Y234N					FRAMESHIFT,Q3474Kfs*21								MISSENSE,L3093R					FRAMESHIFT,I150Tfs*29													MISSENSE,S773Y																		
+TCGA-A2-A0SV	PROTEINDEL,F113_H115del					MISSENSE,I1381V		PROTEINDEL,H64_Y65del		MISSENSE,A3105T																																								
+TCGA-BH-A1EY	MISSENSE,Y126C					MISSENSE,S3394N						SPLICE,X363_splice																																						
+TCGA-A8-A07R	MISSENSE,R248W					MISSENSE,V3524A								MISSENSE,K583N		MISSENSE,G882W																			NONSENSE,W608*															
+TCGA-AR-A0U0	MISSENSE,L194R					MISSENSE,C977Y																		MISSENSE,Q1130E						PROTEINDEL,K567_L570del																				
+TCGA-B6-A0IJ	MISSENSE,Y220C					MISSENSE,C134Y															SILENT,Q762=											MISSENSE,K1207N			MISSENSE,D316H														MISSENSE,I222M	
+TCGA-C8-A1HG	MISSENSE,C141R					MISSENSE,C302Y																																												
+HCM-CSHL-0464-C50	MISSENSE,R248Q						FRAMESHIFT,I776Cfs*4											MISSENSE,R3554P		FRAMESHIFT,G386Afs*242														SILENT,L1757=																
+TCGA-AN-A0AS	PROTEINDEL,R110del						FRAMESHIFT,S588Ffs*3																																											
+01BR031	MISSENSE,R273C						PROTEINDEL,R763_T779delinsS			MISSENSE,S2244N																																								
+TCGA-BH-A0DZ	MISSENSE,E258Q						MISSENSE,L639P							SILENT,V2718=																						MISSENSE,A1160V						MISSENSE,L133V	SILENT,Q921=							
+TCGA-D8-A13Z	MISSENSE,C141Y							FRAMESHIFT,F257Vfs*41										MISSENSE,M5332I																																
+TCGA-A8-A06O	MISSENSE,G279E							FRAMESHIFT,E288Rfs*7												PROTEINDEL,N212del																														
+TCGA-A7-A26F	MISSENSE,C176F							FRAMESHIFT,E73*																						PROTEININS,K459_S460du																				
+HCM-CSHL-0366-C50	MISSENSE,G245S							FRAMESHIFT,E242*																										MISSENSE,L2590Q														MISSENSE,E999Q		
+TCGA-BH-A1FN	MISSENSE,R280T							SPLICE,X154_splice			SILENT,T3336=																													MISSENSE,L5296V	NONSENSE,Q93*									
+TCGA-E2-A14Z	MISSENSE,R282W							FRAMESHIFT,D252Rfs*42																																				SILENT,I1034=						
+TCGA-AR-A24Q	MISSENSE,R175H	SILENT,L156=						MISSENSE,H123D		MISSENSE,D3624Y	SPLICE,X474_splice								SILENT,P310=																			MISSENSE,R1713Q					MISSENSE,L566F					SPLICE,X1392_splice		
+TCGA-LL-A5YP	MISSENSE,R280K							MISSENSE,A126G																																							MISSENSE,D96H		MISSENSE,I775T	
+TCGA-A7-A26G	MISSENSE,Y220H							MISSENSE,I135K																																										
+TCGA-AR-A1AJ	MISSENSE,R273H							MISSENSE,S10R																																										
+TCGA-E9-A1NF	MISSENSE,F113C								FRAMESHIFT,T525Nfs*11																		MISSENSE,S797F																							
+TCGA-E2-A1L7	MISSENSE,I255F								FRAMESHIFT,P1467Dfs*3																																									MISSENSE,T77R
+TCGA-AR-A0TV	MISSENSE,V216M								MISSENSE,K1215R	MISSENSE,N3843K																																								
+TCGA-AR-A251	MISSENSE,E285K								MISSENSE,Q1174H																																									
+TCGA-AO-A0JD	MISSENSE,H193L									NONSENSE,E620*																											MISSENSE,S34F													
+MBCProject_3717	MISSENSE,R248Q									MISSENSE,E1215K	MISSENSE,H2388Y							MISSENSE,E3256K							MISSENSE,Q3578H															MISSENSE,A2329S						MISSENSE,S1001F				
+TCGA-D8-A147	MISSENSE,C176F									MISSENSE,N2395Y	PROTEININS,L474_N475insK																																							
+TCGA-AN-A0AL	MISSENSE,R175H									MISSENSE,R4388W			FRAMESHIFT,D176Vfs*23																																					
+MBCProject_1037	MISSENSE,C176Y									MISSENSE,P4227S																						MISSENSE,D4A																		
+TCGA-A1-A0SK	MISSENSE,M133K									MISSENSE,F2337Y																									MISSENSE,G89V												SILENT,A521=			
+TCGA-BH-A0WA	MISSENSE,S241C									MISSENSE,P2227R																																					SPLICE,X1559_splice			
+MBCProject_0582	MISSENSE,V218E									MISSENSE,H3377D																																								
+TCGA-A8-A07W	MISSENSE,H179R									MISSENSE,G427C				SILENT,V2023=																																				
+TCGA-AO-A0J4	MISSENSE,R282W									MISSENSE,G2826W																																								
+TCGA-C8-A134	MISSENSE,R273H									MISSENSE,P1767S																																								
+TCGA-D8-A142	MISSENSE,P278A									MISSENSE,V4230G													SILENT,Y197=																											
+TCGA-A7-A0DA	MISSENSE,I195T										MISSENSE,E2173Q					SPLICE,X1136_splice																		MISSENSE,D1504N																
+TCGA-AC-A7VC	MISSENSE,P278S										MISSENSE,G137V							NONSENSE,W1491*																				PROTEINALTERING,A38_Q43delinsI			NONSENSE,Q383*									
+TCGA-C8-A12P	MISSENSE,R248W										MISSENSE,L2791F																																MISSENSE,Y217F			FRAMESHIFT,H2538Pfs*26				
+MBCProject_0852	MISSENSE,R273C										MISSENSE,P1258T																																				MISSENSE,R1085I			
+TCGA-E2-A1B0	MISSENSE,K132N										MISSENSE,V1550A																																					SPLICE,X148_splice		
+TCGA-BH-A0BL	MISSENSE,P151H										MISSENSE,G1730C																																							
+TCGA-EW-A1P4	MISSENSE,H179R										MISSENSE,A521T																																							
+TCGA-GM-A3XL	PROTEINDEL,R156del										MISSENSE,S331G																																							
+TCGA-A2-A4S1	MISSENSE,R280S												FRAMESHIFT,Y2698Hfs*39				MISSENSE,I719F																																	
+TCGA-E2-A1LS	MISSENSE,E286K												FRAMESHIFT,E318Kfs*11									NONSENSE,Q1878*																												
+ASCProject_0055	MISSENSE,R249T												SPLICE,X2235_splice																																					
+MBCProject_3542	MISSENSE,C135Y												SILENT,L1411=	FRAMESHIFT,K3240Qfs*27																																				
+MBCProject_0346	MISSENSE,G245V													MISSENSE,R231I																																				
+TCGA-E9-A22E	MISSENSE,G245S														NONSENSE,S3029*																			SILENT,Y775=																
+TCGA-LL-A5YO	MISSENSE,L194R														MISSENSE,I2008M	MISSENSE,G927A								MISSENSE,P3859S																										
+TCGA-A7-A0CE	MISSENSE,T155P														MISSENSE,D2076N																							SILENT,P1869=												
+TCGA-AN-A0FV	MISSENSE,L252P														MISSENSE,P3207A																																			
+TCGA-EW-A6SB	MISSENSE,R282W																MISSENSE,G1055R		MISSENSE,F70L																															
+TCGA-AC-A2BK	MISSENSE,S215I																	FRAMESHIFT,Q4235Gfs*98				FRAMESHIFT,S1111Tfs*23																												
+TCGA-AC-A2QH	MISSENSE,D281Y																	NONSENSE,L2255*																															SILENT,G510=	
+TCGA-BH-A0B9	MISSENSE,P278T																	MISSENSE,D1954H											MISSENSE,E3033Q																					
+21BR001	MISSENSE,R248W																	MISSENSE,R191Q																					FRAMESHIFT,I665Lfs*2										SILENT,L840=	
+11BR073	MISSENSE,S127F																	MISSENSE,A4655S																																
+TCGA-BH-A0C3	MISSENSE,G187S																		MISSENSE,D171G																															
+TCGA-C8-A12O	MISSENSE,R273H																		MISSENSE,G141R																															
+MBCproject_0227	MISSENSE,Y205D																			MISSENSE,N296D																														
+TCGA-Z7-A8R6	MISSENSE,E285K																			PROTEINDEL,D160del																														
+TCGA-D8-A1JL	MISSENSE,H193L																				MISSENSE,T3865I																NONSENSE,K1725*													
+20BR007	PROTEINDEL,V218del																				MISSENSE,S1039A																													
+TCGA-D8-A27N	MISSENSE,R175H																					NONSENSE,E1531*		MISSENSE,S1866R																										
+01BR008	MISSENSE,Y220C																					MISSENSE,S114L			MISSENSE,I1619T																									
+TCGA-BH-A18T	MISSENSE,Y107D																						MISSENSE,A153V																											
+MBCProject_2811	MISSENSE,C141Y																							MISSENSE,D204G										SILENT,R1635=																
+TCGA-LL-A8F5	MISSENSE,R273L																								MISSENSE,G1819V																						NONSENSE,Q1408*	FRAMESHIFT,V1113Gfs*38		
+11BR024	MISSENSE,R273C																									MISSENSE,D2760Y																								
+TCGA-AN-A0FT	MISSENSE,H193R																											MISSENSE,S1681C																						
+TCGA-E2-A14P	MISSENSE,V157F																											MISSENSE,V2277I																						
+TCGA-E2-A1LH	MISSENSE,K132T																											MISSENSE,R2366I																						
+TCGA-A2-A0SW	MISSENSE,R273C																													PROTEININS,E468_E469insGLYE																				MISSENSE,V1713M
+TCGA-BH-A0DI	MISSENSE,I255N																													PROTEINDEL,N564_L573del																				
+TCGA-BH-A1FD	MISSENSE,V173L																													MISSENSE,I559T																				
+TCGA-C8-A12Z	MISSENSE,R342P																													PROTEINDEL,R574del																				
+11BR044	MISSENSE,V217G																														SPLICE,X55_splice																			
+11BR059	MISSENSE,Y236C																																MISSENSE,E17K																	
+TCGA-GM-A2DL	MISSENSE,D281E																																MISSENSE,E17K																	
+TCGA-A2-A0CL	MISSENSE,R273L																																		MISSENSE,L1049V															
+TCGA-BH-A1FU	MISSENSE,R175H																																			MISSENSE,R340G														
+TCGA-OL-A6VO	MISSENSE,V157D																																				SPLICE,X7_splice													
+MBCProject_2741	MISSENSE,I195T																																				MISSENSE,S917Y													
+TCGA-EW-A1PB	MISSENSE,Y163C																																				MISSENSE,S703C													
+TCGA-UU-A93S	MISSENSE,Q136P		SILENT,T9395=																																			MISSENSE,V1964L										MISSENSE,E206K		
+TCGA-AC-A5XU	MISSENSE,R342P																																					PROTEININS,I1344du												
+TCGA-C8-A27A	MISSENSE,G199V																																					MISSENSE,K717N												
+TCGA-D8-A1J9	MISSENSE,V173L		SILENT,L14074=																																				MISSENSE,E642K										MISSENSE,F524L	
+11BR053	MISSENSE,S127Y																																							MISSENSE,E4552K										
+TCGA-PL-A8LV	MISSENSE,C275Y																																							MISSENSE,R604S										
+TCGA-AN-A0FY	MISSENSE,V173M																																								NONSENSE,R552*									
+TCGA-C8-A275	MISSENSE,G266E																																								NONSENSE,C853*									
+TCGA-E2-A159	MISSENSE,V216M																																								FRAMESHIFT,E551Nfs*60									
+TCGA-S3-AA0Z	MISSENSE,S127Y																																								MISSENSE,L694P									
+TCGA-EW-A1P8	MISSENSE,R282W																																										NONSENSE,R2400*							
+01BR018	MISSENSE,H193R																																											MISSENSE,R1941T						
+MBCproject_0093	MISSENSE,A276D																																											MISSENSE,R2889G						
+TCGA-AN-A0FX	MISSENSE,R248W																																											MISSENSE,R2319K						
+TCGA-D8-A1XW	MISSENSE,Y126N																SILENT,Q1524=																											MISSENSE,D1939H						
+TCGA-AR-A1AI	MISSENSE,F270I																																												MISSENSE,R2336C					
+MBCProject_0006	MISSENSE,R248W																																													NONSENSE,W1101*				
+TCGA-E9-A1NC	MISSENSE,R273H																																													MISSENSE,S1373I	NONSENSE,Q139*			
+TCGA-A1-A0SO	MISSENSE,Y220C																																														SPLICE,X27_splice			
+TCGA-A7-A6VW	MISSENSE,H179R																																														FRAMESHIFT,C903Wfs*97			
+TCGA-OL-A5D7	MISSENSE,V272M																																															FRAMESHIFT,Y126Tfs*54		
+01BR001	MISSENSE,R249K																																																	
+01BR027	MISSENSE,R248Q																																																	
+09BR005	MISSENSE,Y205C																																																	
+11BR011	MISSENSE,C238Y																																																	
+11BR020	MISSENSE,Y220C																																												SILENT,L1491=			SILENT,D589=		
+11BR023	MISSENSE,R110P																																																	
+11BR058	MISSENSE,H193R																																																	
+MBCProject_0065	MISSENSE,R273C																																																	
+MBCProject_0217	MISSENSE,V173M																																																	
+MBCProject_0246	MISSENSE,R280G																								SILENT,P1839=																									
+MBCProject_0857	MISSENSE,E285K																																																	
+MBCProject_0934	PROTEINDEL,T155_R156del																																																	
+MBCProject_1160	MISSENSE,R175H																																																	
+MBCProject_1244	MISSENSE,R248Q																																																	
+MBCProject_4589	MISSENSE,V173M																																																	
+MBCProject_5965	MISSENSE,R248Q																																																	
+MBCProject_7559	MISSENSE,R248W																																																	
+TCGA-A2-A0SX	MISSENSE,G199V																																																	
+TCGA-A2-A0T1	MISSENSE,R273C																																																	
+TCGA-A2-A0T2	MISSENSE,Y220C																																																	
+TCGA-A2-A4S3	MISSENSE,K132E																																																	
+TCGA-A7-A26I	MISSENSE,G266E																																																	
+TCGA-A8-A08X	MISSENSE,C176F																																																	
+TCGA-AC-A62X	MISSENSE,I195T																																																	
+TCGA-AC-A6IW	MISSENSE,R175H																												SILENT,L4455=																					
+TCGA-AO-A03R	MISSENSE,L265R																																																	
+TCGA-AO-A03V	MISSENSE,G245D																																																	
+TCGA-AO-A0J2	MISSENSE,R175H																																																	
+TCGA-AQ-A04J	MISSENSE,L111P																																									SILENT,E2405=								
+TCGA-AR-A0U1	MISSENSE,Y220C																																																	
+TCGA-AR-A2LH	MISSENSE,R273H																																																	
+TCGA-B6-A0RT	MISSENSE,P278T																																																	
+TCGA-B6-A1KN	MISSENSE,L265P																																																	
+TCGA-BH-A0AV	MISSENSE,R248Q																																																	
+TCGA-BH-A0B3	MISSENSE,V216M									SILENT,L1894=																																								
+TCGA-BH-A0E0	MISSENSE,R175H																																																	
+TCGA-BH-A0H7	MISSENSE,G245D																																																	
+TCGA-BH-A0HX	MISSENSE,C135W																																																	
+TCGA-BH-A0HY	MISSENSE,G245D																																		SILENT,G1117=															
+TCGA-BH-A1F2	MISSENSE,E285K																																																	
+TCGA-BH-A1F6	MISSENSE,S127P																																																	
+TCGA-BH-A5IZ	MISSENSE,R273H																																																	
+TCGA-C8-A12K	MISSENSE,I195T																																					SILENT,V1439=												
+TCGA-C8-A12Q	MISSENSE,Y205N																																																	
+TCGA-C8-A12W	MISSENSE,H193Y																																																	
+TCGA-D8-A1JM	MISSENSE,R273H																																																	
+TCGA-D8-A1X5	MISSENSE,C238F																																																	
+TCGA-D8-A1XJ	MISSENSE,R282G																																																	
+TCGA-D8-A1XT	MISSENSE,A276P																																																	
+TCGA-E2-A14R	MISSENSE,I195T																																																	
+TCGA-E2-A152	MISSENSE,K132E																																																	
+TCGA-E2-A158	MISSENSE,I195T																																																	
+TCGA-E2-A573	MISSENSE,Y220C																																																	
+TCGA-E9-A1ND	MISSENSE,Y220C																																																	
+TCGA-E9-A1RB	MISSENSE,E286Q																																																	
+TCGA-E9-A5FL	MISSENSE,H193R																																																	
+TCGA-EW-A1P1	MISSENSE,R273H																																																	
+TCGA-EW-A6S9	MISSENSE,H179R																																																	
+TCGA-EW-A6SD	MISSENSE,E286K																																																	
+TCGA-PL-A8LZ	MISSENSE,R175H																																																	
+14BR008		FRAMESHIFT,N1068Kfs*5		FRAMESHIFT,P484Sfs*2																																														
+TCGA-BH-A2L8		MISSENSE,G1049R	NONSENSE,S10847*	FRAMESHIFT,P801Lfs*15	MISSENSE,E262K			NONSENSE,S287*						NONSENSE,S760*									MISSENSE,S250F					MISSENSE,E2284K						MISSENSE,E878K	MISSENSE,E1497Q								MISSENSE,S801L				MISSENSE,D1578H		MISSENSE,M960I	
+HCM-WCMC-0747-C50		MISSENSE,R88Q	NONSENSE,G5600*			NONSENSE,R3995*	NONSENSE,E1343*			NONSENSE,E379*	MISSENSE,D678N		MISSENSE,L1095S	NONSENSE,R1542*	MISSENSE,S1609Y			MISSENSE,L3900R			MISSENSE,R1075Q			MISSENSE,E372D	MISSENSE,R1014Q	FRAMESHIFT,M2780Dfs*3	MISSENSE,F1227L	MISSENSE,K873E	NONSENSE,R3960*				MISSENSE,E85K	MISSENSE,E2194D		SILENT,T166=	NONSENSE,E351*	SPLICE,X1350_splice				MISSENSE,R2152C	MISSENSE,L1740I	MISSENSE,E1984K	MISSENSE,S1259R	NONSENSE,E927*	NONSENSE,L598*			
+TCGA-AC-A23H		MISSENSE,L989V	NONSENSE,Q8466*			NONSENSE,Q1218*	MISSENSE,R283T			MISSENSE,D3632H			MISSENSE,S1896L	MISSENSE,D667H	MISSENSE,S2060F	MISSENSE,M1273I	MISSENSE,L4235F				MISSENSE,E4422K	MISSENSE,S1114C	MISSENSE,D226N	MISSENSE,D3873N	SILENT,V2584=	MISSENSE,S3377L	MISSENSE,E782K		MISSENSE,E5023K			MISSENSE,S1512L		MISSENSE,D1571H	MISSENSE,E1310Q		MISSENSE,E1090D		SILENT,I105=		SILENT,G802=	SILENT,V2326=	MISSENSE,A2331S	NONSENSE,S2515*	MISSENSE,D1033H	NONSENSE,S791*		MISSENSE,P110R	MISSENSE,D1121H	MISSENSE,Q1563E
+TCGA-A8-A06R		MISSENSE,E545K	FRAMESHIFT,P10900Wfs*2					FRAMESHIFT,T319*																																										
+18BR003		MISSENSE,E545K	MISSENSE,D6069H	NONSENSE,S9*	MISSENSE,M293K	MISSENSE,H367Y	MISSENSE,P666S			MISSENSE,E2055K				MISSENSE,Q3621E		NONSENSE,Q1424*	MISSENSE,S4007C				NONSENSE,Q3451*		MISSENSE,G239S				MISSENSE,E529Q	MISSENSE,G2157E	MISSENSE,R2823W						MISSENSE,D452N				MISSENSE,E1199Q	MISSENSE,L3729V					NONSENSE,Q1562*					
+TCGA-5L-AAT1		MISSENSE,E542K	MISSENSE,D7956N	FRAMESHIFT,R54Qfs*5	MISSENSE,M293K		NONSENSE,S531*			SILENT,L3678=			NONSENSE,Q535*	NONSENSE,Q2848*		NONSENSE,Q393*	MISSENSE,D4101N	MISSENSE,Q3471H		FRAMESHIFT,D160Gfs*5	SILENT,L3086=	MISSENSE,E465Q	MISSENSE,E8K					MISSENSE,S1875F	MISSENSE,R3822K						MISSENSE,Q717E		MISSENSE,S67F												SILENT,L897=	
+TCGA-D8-A27G		MISSENSE,H1047R	MISSENSE,S8117F	FRAMESHIFT,G169Rfs*5		NONSENSE,R4478*			NONSENSE,Q120*																	SILENT,I3285=	NONSENSE,Q193*		SILENT,I788=					SILENT,G438=				MISSENSE,D913Y					MISSENSE,H151Y		MISSENSE,E2175Q	NONSENSE,S815*				SILENT,I1279=
+TCGA-EW-A1J5		MISSENSE,E726K	MISSENSE,S9945L	FRAMESHIFT,F499Lfs*38		MISSENSE,E97Q			SILENT,E220=						MISSENSE,P954S							MISSENSE,E530K	MISSENSE,D226G		MISSENSE,S2512F					MISSENSE,E515K		MISSENSE,S907C														MISSENSE,R1509T				
+TCGA-A2-A0CR		MISSENSE,E542K	MISSENSE,S9180L	NONSENSE,R63*									NONSENSE,R366*			NONSENSE,Q479*																			MISSENSE,K1003N															
+TCGA-5L-AAT0		MISSENSE,H1047L	MISSENSE,E13026K	NONSENSE,Q23*			SILENT,L584=									NONSENSE,Q944*						MISSENSE,P726S												MISSENSE,S2372L																
+TCGA-AC-A5XS		MISSENSE,E545K	MISSENSE,P4151T	FRAMESHIFT,L731Gfs*38													MISSENSE,I1947M							MISSENSE,E2213Q								SILENT,L1476=														MISSENSE,E2119K			SILENT,V169=	
+TCGA-OL-A5DA		MISSENSE,E453K	MISSENSE,V9849M	FRAMESHIFT,N181Tfs*34																		MISSENSE,E530K																												
+TCGA-A8-A0A9		MISSENSE,H1047R	MISSENSE,S1734Y	NONSENSE,Q503*																																														
+TCGA-A2-A25A		MISSENSE,E542K	MISSENSE,P2752T	MISSENSE,R732Q																MISSENSE,P134S						SILENT,P1367=												MISSENSE,F833L												
+TCGA-C8-A8HQ		MISSENSE,E545K	MISSENSE,S8574C		FRAMESHIFT,S437Pfs*39							NONSENSE,W175*				FRAMESHIFT,V2093Gfs*49								MISSENSE,H3016Y					SILENT,L4021=					MISSENSE,H2369Y																
+TCGA-D8-A1JN		MISSENSE,E545K	MISSENSE,D1612N		FRAMESHIFT,K357Lfs*2								NONSENSE,Q347*										MISSENSE,W214C												SPLICE,X34_splice															MISSENSE,E167K
+TCGA-GM-A2D9		MISSENSE,E453K	MISSENSE,S13779W			MISSENSE,Q982K	NONSENSE,Q345*											MISSENSE,D1848N	MISSENSE,E289K												MISSENSE,G123C				NONSENSE,W1301*												MISSENSE,S915C			
+MBCProject_3896		MISSENSE,H1047R	MISSENSE,G7376V			MISSENSE,A2413V																										MISSENSE,R22C																		
+TCGA-B6-A0RP		MISSENSE,N345K	MISSENSE,G10311S			MISSENSE,D4425Y																																												
+TCGA-A7-A0DB		MISSENSE,H1047R	MISSENSE,L13327I				FRAMESHIFT,E672Rfs*14																																											
+TCGA-AO-A0JC		MISSENSE,R108H	MISSENSE,E3037D				MISSENSE,E384K										MISSENSE,S633C																																MISSENSE,D815N	
+TCGA-E2-A10C		MISSENSE,E545K	MISSENSE,N9785D					FRAMESHIFT,D324Tfs*8																															MISSENSE,D1693N											MISSENSE,E820Q
+TCGA-BH-A1F8		MISSENSE,H1047R	MISSENSE,E9221K					MISSENSE,N48I							MISSENSE,S2060F												MISSENSE,F1203L																							
+TCGA-A8-A093		MISSENSE,Q546K	MISSENSE,E4617K						NONSENSE,Q1008*			MISSENSE,E273K													MISSENSE,Q2933H																									
+11BR003		MISSENSE,R88Q	MISSENSE,A13237T							FRAMESHIFT,F3259Lfs*52	MISSENSE,S2922N						MISSENSE,R1871C							FRAMESHIFT,T2122Nfs*6				FRAMESHIFT,E2121Kfs*28														MISSENSE,H1988R								
+MBCProject_0076		MISSENSE,E81K	MISSENSE,D8472H												MISSENSE,D1798N		MISSENSE,E1854Q						SILENT,I402=		MISSENSE,L3728F										MISSENSE,R944Q													MISSENSE,E736K		
+TCGA-A8-A07J		PROTEINDEL,H450_P458del	MISSENSE,L13885M													FRAMESHIFT,Y1055Cfs*49																																		
+TCGA-EW-A1IW		MISSENSE,Q546R	MISSENSE,E14065Q																			SILENT,L127=	MISSENSE,F266I								MISSENSE,R83L																			
+TCGA-A8-A095		MISSENSE,E726K	MISSENSE,L8886I																								SILENT,F1873=		MISSENSE,G3238S												NONSENSE,E864*									
+TCGA-A8-A08L		MISSENSE,H1047R	MISSENSE,R2045S																													MISSENSE,T1537S					MISSENSE,D896H								SPLICE,X2602_splice				FRAMESHIFT,N1085Kfs*20	
+TCGA-GM-A3NW		MISSENSE,N345H	MISSENSE,P223A																														MISSENSE,V4L																	
+MBCProject_1321		MISSENSE,H1047R	MISSENSE,T3540P																																															
+TCGA-A2-A25D		PROTEINDEL,E110del	MISSENSE,T8895P																																															
+TCGA-D8-A1JS		MISSENSE,H1047R	MISSENSE,S3684N																																															
+TCGA-E9-A1R3		MISSENSE,H1047R	MISSENSE,S6253L																																															
+TCGA-C8-A274		MISSENSE,H1047R		FRAMESHIFT,T627Hfs*36		NONSENSE,E1260*					MISSENSE,Q3370E								FRAMESHIFT,L134Pfs*52																	MISSENSE,I767M										MISSENSE,R1625L				
+TCGA-LL-A6FP		MISSENSE,E545K		FRAMESHIFT,T141Rfs*63		NONSENSE,Q1478*																					MISSENSE,R1536C																							
+TCGA-LL-A50Y		MISSENSE,H1047R		NONSENSE,Q23*		NONSENSE,Q1719*																																												
+TCGA-AC-A2FF		MISSENSE,D350N		FRAMESHIFT,R87Afs*6			FRAMESHIFT,L717Sfs*9	MISSENSE,M198K																																										
+TCGA-A2-A0YK		MISSENSE,H1047L	SILENT,G231=	NONSENSE,R63*			NONSENSE,S1077*						MISSENSE,E524Q								MISSENSE,L3826V														MISSENSE,E807K				MISSENSE,D2720N											
+TCGA-OK-A5Q2		MISSENSE,H1047R		SPLICE,X177_splice			NONSENSE,R532*								MISSENSE,A2088V								MISSENSE,I176M													PROTEININS,P885_I886insMP														
+TCGA-D8-A3Z6		MISSENSE,H1047R		FRAMESHIFT,N431Qfs*14			FRAMESHIFT,L380Kfs*4																															SILENT,K762=												
+TCGA-LL-A9Q3		MISSENSE,G118D		NONSENSE,Q673*				FRAMESHIFT,I300Sfs*7															MISSENSE,S250F			MISSENSE,I1401F																								
+03BR010		MISSENSE,G1049R		NONSENSE,Q610*				MISSENSE,R130Q																							MISSENSE,V4F																			
+MBCProject_1181		MISSENSE,E545D		SPLICE,X440_splice				MISSENSE,Y155D																																										
+TCGA-EW-A1IZ		MISSENSE,S673T		SPLICE,X522_splice					SPLICE,X1006_splice	NONSENSE,E2864*				FRAMESHIFT,L1407Yfs*2			SILENT,F1613=									FRAMESHIFT,K1270Efs*2												SILENT,G1958=												
+TCGA-A2-A0YL		MISSENSE,H1047R		FRAMESHIFT,T364Hfs*4					NONSENSE,E1193*				NONSENSE,W1048*																																					
+TCGA-AR-A2LK		MISSENSE,H1047R		FRAMESHIFT,A788Efs*14						MISSENSE,A2299E																																								
+TCGA-BH-A18F		MISSENSE,H1047R		FRAMESHIFT,L583Pfs*6							MISSENSE,P2820S		FRAMESHIFT,F1247Ifs*18																																					
+TCGA-D8-A1Y1		MISSENSE,E542K		SPLICE,X646_splice								FRAMESHIFT,D173Tfs*24		FRAMESHIFT,P2495Lfs*4												FRAMESHIFT,K3825Rfs*31																								
+05BR009		MISSENSE,N345K		FRAMESHIFT,Q677Pfs*11										NONSENSE,E1008*																																				
+MBCProject_5548		MISSENSE,E542K		NONSENSE,K668*												NONSENSE,Q479*				MISSENSE,M123V																														
+MBCProject_0315		MISSENSE,G118D		FRAMESHIFT,P309Lfs*47														MISSENSE,E3117K																																
+TCGA-AC-A3W7		MISSENSE,E545K		FRAMESHIFT,T199Nfs*10															FRAMESHIFT,P76Afs*31																															
+TCGA-E9-A3X8		MISSENSE,N345K		NONSENSE,T515_F516ins*															FRAMESHIFT,I315Hfs*258																															
+TCGA-E2-A576		MISSENSE,H1047Y		FRAMESHIFT,G775Afs*8															MISSENSE,S229F																															
+TCGA-Z7-A8R5		MISSENSE,H1047R		FRAMESHIFT,L71Sfs*12																SPLICE,X367_splice		MISSENSE,R639W																												
+TCGA-A2-A4S2		MISSENSE,E545K		NONSENSE,Y835*																FRAMESHIFT,M184Gfs*25			PROTEINALTERING,F254_N256delinsC												MISSENSE,G267V															
+TCGA-OL-A6VQ		MISSENSE,H1047R		FRAMESHIFT,T560Rfs*5																FRAMESHIFT,D326*																														
+TCGA-XX-A899		MISSENSE,F83S		NONSENSE,Q511*																FRAMESHIFT,K164Sfs*10																														
+TCGA-XX-A89A		MISSENSE,E542K		NONSENSE,Q129*													SILENT,L2183=				MISSENSE,C4770F	MISSENSE,E94K																												
+TCGA-A8-A0A6		MISSENSE,G118D		SPLICE,X522_splice																	MISSENSE,T1601I				MISSENSE,T4686I											MISSENSE,L755S														
+MBCProject_4232		MISSENSE,E545K		NONSENSE,Q264*																		MISSENSE,S114L	MISSENSE,S250F																		PROTEINDEL,T12_A14del									
+MBCProject_3946		MISSENSE,T1025A		NONSENSE,Q23*																		MISSENSE,R639Q																											SILENT,S1287=	
+TCGA-A2-A0SY		MISSENSE,E545K		FRAMESHIFT,S19Pfs*38											SILENT,L3498=								MISSENSE,H247Y																											
+TCGA-B6-A0RQ		MISSENSE,E542G		NONSENSE,Q23*																								MISSENSE,S2140F																						
+TCGA-EW-A1J2		MISSENSE,H1047R		NONSENSE,K668*																											MISSENSE,I102N																			
+TCGA-AN-A03Y		MISSENSE,H1047R	SILENT,T10238=	NONSENSE,R63*																												MISSENSE,K905T																		
+TCGA-A8-A0A1		MISSENSE,E545K		FRAMESHIFT,Q307Hfs*2																															MISSENSE,G1323E															
+TCGA-AC-A23G		MISSENSE,E545K		NONSENSE,Q346*																																				FRAMESHIFT,G543Afs*35										
+TCGA-PE-A5DD		MISSENSE,H1047R		NONSENSE,R335*																	SILENT,T2821=																			MISSENSE,R5286S										
+TCGA-D8-A1XO		MISSENSE,E542K		NONSENSE,Q23*																																			SILENT,L432=					NONSENSE,Q1390*						
+TCGA-A2-A0T4		MISSENSE,H1047R		FRAMESHIFT,E757*																																												SPLICE,X218_splice		
+HCM-CSHL-0153-C50		MISSENSE,H1047Y		FRAMESHIFT,K268*																																														
+MBCProject_5774		MISSENSE,E545K		FRAMESHIFT,F810Yfs*2																																														
+TCGA-A2-A0EW		MISSENSE,Q546R		SPLICE,X230_splice																																														
+TCGA-A2-A0EX		MISSENSE,E545K		NONSENSE,Q511*																																														
+TCGA-AC-A2FO		MISSENSE,E545K		FRAMESHIFT,A824Gfs*5																																														
+TCGA-AC-A8OS		MISSENSE,H1047L		NONSENSE,Q647*																																														
+TCGA-AR-A1AL		MISSENSE,E545K		FRAMESHIFT,I505Sfs*17																																														
+TCGA-AR-A2LM		MISSENSE,N345K		FRAMESHIFT,P147Hfs*27																												SILENT,V1275=																		
+TCGA-AR-A5QM		MISSENSE,H1047R		NONSENSE,R74*																																														
+TCGA-BH-A8FY		MISSENSE,E545A		FRAMESHIFT,R108Hfs*56																																														
+TCGA-E2-A1L8		MISSENSE,H1047R		SPLICE,X278_splice																																														
+TCGA-EW-A6SC		MISSENSE,E545K		FRAMESHIFT,F205Lfs*10																																														
+TCGA-LD-A66U		MISSENSE,E545K		SPLICE,X722_splice																																														
+MBCproject_0280		MISSENSE,E545K		MISSENSE,D402N					MISSENSE,R19C							NONSENSE,Q537*						NONSENSE,Q877*									MISSENSE,D115V																			
+11BR018		MISSENSE,E365K		MISSENSE,D288N						NONSENSE,Q1885*					MISSENSE,G943E																																			
+TCGA-A2-A1G0		MISSENSE,E542K		MISSENSE,N867S								FRAMESHIFT,Q319Sfs*11																																						
+MBCProject_0771		MISSENSE,E542K		MISSENSE,D402V						SILENT,A3943=							SILENT,F1596=			MISSENSE,S244C	MISSENSE,L3232V						MISSENSE,D1056N																							
+TCGA-A8-A0A7		MISSENSE,E726K		MISSENSE,E243K											SILENT,T2581=						MISSENSE,G2773E	MISSENSE,L92V		MISSENSE,H2457N	MISSENSE,P4486S																				MISSENSE,E3175K					
+MBCProject_3947		MISSENSE,E545K		MISSENSE,A634V																																														
+TCGA-AC-A2B8		MISSENSE,E545K		PROTEINDEL,C603del							SILENT,T1007=																																							
+TCGA-BH-A0BA		MISSENSE,H1047R		MISSENSE,P260H																																														
+TCGA-OL-A5RX		MISSENSE,D939G			NONSENSE,K346*	NONSENSE,Q1392*			FRAMESHIFT,I1618Lfs*8																																									
+22BR006		MISSENSE,H1047R			SPLICE,X308_splice	SPLICE,X1694_splice																									FRAMESHIFT,E130Afs*14																			
+TCGA-A2-A0D3		MISSENSE,H1047R			FRAMESHIFT,Y344Lfs*8	FRAMESHIFT,L145*																																					SILENT,G2381=							
+TCGA-BH-A0DT		MISSENSE,E545K			SPLICE,X308_splice		FRAMESHIFT,S397*																								NONSENSE,M1?																			
+TCGA-AN-A0AK		MISSENSE,E545K	SILENT,P5355=		FRAMESHIFT,P408Afs*99			SPLICE,X343_splice	SPLICE,X1651_splice					FRAMESHIFT,P2495Lfs*4		SILENT,P1873=		FRAMESHIFT,A221Lfs*40			MISSENSE,I127T				MISSENSE,E314K	SILENT,P654=	MISSENSE,G1825D	FRAMESHIFT,E2121Kfs*28															MISSENSE,V1015A							
+TCGA-BH-A0H3		MISSENSE,N345K			SPLICE,X308_splice				NONSENSE,K689*										FRAMESHIFT,D96Gfs*11																															
+TCGA-C8-A133		MISSENSE,E545K			FRAMESHIFT,K387Gfs*113				MISSENSE,A1817D																																									
+TCGA-B6-A0RG		MISSENSE,H1047R			FRAMESHIFT,D335Pfs*16							FRAMESHIFT,D263Cfs*4				NONSENSE,Q2037*											MISSENSE,H1606P																	MISSENSE,G1511V						
+TCGA-E9-A1NI		MISSENSE,E542K			FRAMESHIFT,R330Efs*23							FRAMESHIFT,Y113Lfs*19																																						
+MBCProject_1527		MISSENSE,E545K			FRAMESHIFT,P408Afs*99											FRAMESHIFT,Q1424Sfs*21																																		
+TCGA-E2-A154		MISSENSE,H1047L			FRAMESHIFT,R364Kfs*4														FRAMESHIFT,F232Sfs*338																															
+TCGA-AC-A6NO		MISSENSE,E545A			FRAMESHIFT,A313Efs*42														MISSENSE,P76S																															
+TCGA-AO-A0J5		MISSENSE,H1047R			FRAMESHIFT,R330Lfs*24																MISSENSE,C2346S											MISSENSE,R297C																		
+TCGA-BH-A0EA		MISSENSE,H1047R			SPLICE,X308_splice																										MISSENSE,N104S																			
+TCGA-E9-A1NH		MISSENSE,H1047R			SPLICE,X308_splice																										MISSENSE,N63S																			
+TCGA-E9-A1RC		MISSENSE,H1047R			FRAMESHIFT,M356Efs*14																																				NONSENSE,R455*									
+TCGA-BH-A0BQ		MISSENSE,E545K			NONSENSE,K357*																																							MISSENSE,I1138N						
+TCGA-AO-A12A		MISSENSE,E542K			SPLICE,X308_splice																																											MISSENSE,L1119P		
+TCGA-AR-A1AV		MISSENSE,H1047R			FRAMESHIFT,A441Wfs*33																																													
+TCGA-BH-A0DK		MISSENSE,C420R	SILENT,G138=		FRAMESHIFT,G431Wfs*76																																													
+TCGA-C8-A12U		MISSENSE,H1047R			FRAMESHIFT,D335Gfs*17																																													
+TCGA-D8-A27K		PROTEINDEL,K111del			FRAMESHIFT,I350Kfs*3																																													
+TCGA-E9-A1RA		MISSENSE,E542K			NONSENSE,Y345*																																													
+TCGA-D8-A1J8		MISSENSE,E545K	SILENT,L11564=		MISSENSE,R305Q	FRAMESHIFT,V3370Qfs*11		MISSENSE,C124G					FRAMESHIFT,E41Dfs*3	MISSENSE,V952M			MISSENSE,L3714F				NONSENSE,Q2651*			MISSENSE,E1160Q																		MISSENSE,A1517V	MISSENSE,E1780K							MISSENSE,E1459K
+TCGA-BH-A0HF		MISSENSE,E542K			MISSENSE,H281R					MISSENSE,T1610I	MISSENSE,L2265F			MISSENSE,S1222F	MISSENSE,H3931Y	MISSENSE,R1511K									MISSENSE,S3672F	MISSENSE,R613Q			MISSENSE,S4401N							MISSENSE,N427K	MISSENSE,G2250E	NONSENSE,E260*					MISSENSE,A422T		MISSENSE,S879F					
+TCGA-D8-A27L		MISSENSE,E545K				NONSENSE,S1225*	FRAMESHIFT,A1290Sfs*19	FRAMESHIFT,Y16Lfs*28																		SILENT,K1185=																								
+TCGA-AO-A0JF		MISSENSE,E545K				FRAMESHIFT,E633Kfs*2	FRAMESHIFT,F354Sfs*8					MISSENSE,L385V																																						
+TCGA-C8-A12N		MISSENSE,E545K				FRAMESHIFT,K3870Rfs*19	FRAMESHIFT,L1486Tfs*32											FRAMESHIFT,L520Cfs*410																																
+11BR014		MISSENSE,E726K				FRAMESHIFT,T3577Nfs*19	FRAMESHIFT,Q390Rfs*46																								FRAMESHIFT,K20Sfs*2																			
+TCGA-BH-A0DV		MISSENSE,E726K				SPLICE,X3820_splice	FRAMESHIFT,R273Sfs*27																																											
+TCGA-EW-A1IX		MISSENSE,H1047R				SPLICE,X4047_splice	MISSENSE,A801T																																											
+TCGA-A2-A0CS		MISSENSE,H1047R				FRAMESHIFT,S4081Ifs*12		FRAMESHIFT,V166Sfs*14																																										
+MBCProject_0003		MISSENSE,C420R				FRAMESHIFT,S2984Lfs*6		MISSENSE,Y225F							SILENT,L118=																																			
+TCGA-A8-A07Z		MISSENSE,H1047R				FRAMESHIFT,L4157*						NONSENSE,Y165*																																						
+TCGA-AQ-A1H2		MISSENSE,H1047R				FRAMESHIFT,S207Ffs*3								FRAMESHIFT,E2846Dfs*44	MISSENSE,A1762T																																			
+TCGA-AN-A0XP		MISSENSE,E545K				FRAMESHIFT,P4577Cfs*4									NONSENSE,Q3825*																																			
+TCGA-BH-A0DE		MISSENSE,E545A				FRAMESHIFT,Q2018Sfs*7														PROTEINDEL,K247_R256del						SPLICE,X2050_splice																							NONSENSE,W606*	
+TCGA-E2-A153		MISSENSE,E545K				FRAMESHIFT,N3815Kfs*72																									FRAMESHIFT,E76Tfs*6																			
+TCGA-D8-A27P		MISSENSE,H1047R				SPLICE,X130_splice																											MISSENSE,E17K																	
+TCGA-D8-A1JP		MISSENSE,K111N	SILENT,T774=			NONSENSE,C417*																																							FRAMESHIFT,L1965Ffs*39					
+05BR031		MISSENSE,E453K				FRAMESHIFT,P2437Lfs*15																																												
+TCGA-A2-A0EM		MISSENSE,H1047L				FRAMESHIFT,P2437Tfs*8																																												
+TCGA-A7-A5ZW		MISSENSE,H1047R				MISSENSE,H252Y	FRAMESHIFT,Y1258Ifs*11								SILENT,D3035=									MISSENSE,E3074Q																										
+TCGA-E2-A15P		MISSENSE,E542K				PROTEINDEL,Y308del								FRAMESHIFT,P1704Qfs*11																																				
+TCGA-AR-A0TZ		MISSENSE,H1047R				MISSENSE,K4499R																																												
+TCGA-BH-A0HN		MISSENSE,N345K				MISSENSE,H367Y																																												
+TCGA-S3-AA11		MISSENSE,E545A					FRAMESHIFT,H1454Tfs*10	NONSENSE,Y76*												MISSENSE,L112V			MISSENSE,Y243S																											
+TCGA-E2-A156		MISSENSE,E542K					FRAMESHIFT,R480Kfs*7		FRAMESHIFT,V188Nfs*10			SPLICE,X129_splice																																						
+TCGA-EW-A1J1		MISSENSE,N1044Y					FRAMESHIFT,L764*		FRAMESHIFT,K532Rfs*2																																									
+TCGA-A8-A08Z		MISSENSE,H1047R					FRAMESHIFT,L838Rfs*24			MISSENSE,I745F									FRAMESHIFT,R142Kfs*44																	MISSENSE,V842I														
+16BR012		PROTEINDEL,E9_I20delinsD					FRAMESHIFT,M641Lfs*49																FRAMESHIFT,F266Sfs*53																									MISSENSE,S1063R		
+MBCProject_0471		MISSENSE,E542K					FRAMESHIFT,I761Yfs*37				SILENT,A1517=												MISSENSE,F204L								MISSENSE,G112S	MISSENSE,S509F														MISSENSE,Q1352E				
+TCGA-E2-A15C		MISSENSE,H1047R					FRAMESHIFT,E1185Gfs*12																				MISSENSE,S1683F																							
+TCGA-BH-A0W5		MISSENSE,H1047R					FRAMESHIFT,S1077Qfs*5																									MISSENSE,S1227R																		
+TCGA-D8-A73X		MISSENSE,H1047R					NONSENSE,Q535*																												MISSENSE,R874Q															
+TCGA-E2-A15G		MISSENSE,H1047R					FRAMESHIFT,A858Lfs*16																																					MISSENSE,Y2132C						
+TCGA-E2-A1BD		MISSENSE,H1047R					FRAMESHIFT,Q1247Sfs*26																																								MISSENSE,D2E			
+TCGA-D8-A1JH		MISSENSE,H1047R					FRAMESHIFT,I1217Nfs*23																																									FRAMESHIFT,Q517Tfs*9		
+03BR012		MISSENSE,E545K					FRAMESHIFT,E903Sfs*6																																											
+06BR014		MISSENSE,R357Q					SPLICE,X1464_splice																																											
+TCGA-A2-A04N		MISSENSE,E542K					FRAMESHIFT,S497Ffs*60																																											
+TCGA-A2-A0CP		MISSENSE,E726K					NONSENSE,E601*																																											
+TCGA-A8-A06P		MISSENSE,E545K					FRAMESHIFT,N1125*																																											
+TCGA-A8-A09B		PROTEINDEL,P447_L455del					NONSENSE,S431*											SILENT,A899=																																
+TCGA-AN-A03X		MISSENSE,H1047L					FRAMESHIFT,R1278Kfs*5																																											
+TCGA-AN-A049		MISSENSE,H1047R					FRAMESHIFT,D1000Sfs*81																																											
+TCGA-AN-A0XS		MISSENSE,E545K					FRAMESHIFT,R273Sfs*27																																											
+TCGA-AO-A0J7		MISSENSE,Q546K					FRAMESHIFT,I1204Sfs*7																																											
+TCGA-B6-A1KI		MISSENSE,Q546P					FRAMESHIFT,Y736*																																											
+TCGA-BH-A0BO		MISSENSE,H1047R					FRAMESHIFT,R1385Kfs*35																																											
+TCGA-D8-A1JU		MISSENSE,H1047R					FRAMESHIFT,R273Sfs*27																																											
+TCGA-E2-A15L		MISSENSE,H1047R					FRAMESHIFT,Q965Vfs*2																																											
+TCGA-E2-A1B4		MISSENSE,E542K					FRAMESHIFT,T1148Nfs*3																																											
+TCGA-E9-A1RD		MISSENSE,E542K					FRAMESHIFT,T1145Nfs*6																																											
+TCGA-S3-AA14		MISSENSE,E542K					FRAMESHIFT,T1145Nfs*6																																											
+HCM-CSHL-0462-D05		MISSENSE,H1047R					MISSENSE,E1404K																																											
+TCGA-D8-A1XB		PROTEINDEL,V105_R108del					MISSENSE,R790M																																											
+TCGA-EW-A1OV		MISSENSE,E81K						FRAMESHIFT,H259Qfs*7		MISSENSE,R3864H																																								
+TCGA-B6-A0WW		MISSENSE,H1047R						FRAMESHIFT,N48Tfs*6			MISSENSE,S3666L																																							
+11BR032		MISSENSE,H1047R						SPLICE,X70_splice																																										
+18BR016		MISSENSE,C901F						FRAMESHIFT,T319*																																										
+TCGA-AO-A0JA		MISSENSE,E542K						NONSENSE,Y88*																																										
+MBCProject_0096		PROTEINDEL,H450_D454del						PROTEINDEL,I33_A34del																																										
+21BR010		MISSENSE,H1047R							FRAMESHIFT,H1464Lfs*8			NONSENSE,Y189*																																						
+TCGA-D8-A1JD		MISSENSE,E726K							SPLICE,X1961_splice							MISSENSE,Q1947H																																		
+TCGA-B6-A0WY		PROTEINDEL,E109_I112delinsD							NONSENSE,Q313*																					PROTEINDEL,I571_L573del																				
+11BR022		MISSENSE,H1047R							SPLICE,X897_splice																						SPLICE,X55_splice																			
+MBCProject_0915		MISSENSE,H1047R							NONSENSE,G166*																														NONSENSE,L991*											
+TCGA-A2-A0EV		MISSENSE,H1047R							NONSENSE,E592*																																									
+TCGA-A2-A0YC		MISSENSE,E545K							FRAMESHIFT,Y1065Afs*7																																									
+TCGA-AC-A23E		MISSENSE,H1047R							NONSENSE,E724*																																									
+TCGA-BH-A0B6		MISSENSE,E81K							MISSENSE,E1845K		MISSENSE,D285N	NONSENSE,Q69*		NONSENSE,Q743*															MISSENSE,P2560A					MISSENSE,E329K			MISSENSE,E929D		MISSENSE,G1998E											
+TCGA-3C-AALK		MISSENSE,E542K							MISSENSE,P7S			NONSENSE,R281*																																						
+TCGA-A7-A13G		MISSENSE,H1047R								MISSENSE,D1707Y																																								
+TCGA-EW-A1P0		MISSENSE,D939G								MISSENSE,M1431I																																								
+TCGA-AR-A1AO		MISSENSE,E542K									MISSENSE,V1625A			MISSENSE,D2401N									MISSENSE,S401Y											MISSENSE,A2491S																
+MBCProject_0946		MISSENSE,H1047R										FRAMESHIFT,Y189Tfs*8	FRAMESHIFT,I581*															SILENT,I528=																						
+TCGA-BH-A0HA		PROTEINDEL,E110del										SPLICE,X297_splice		FRAMESHIFT,A2105Gfs*18											MISSENSE,I2153M									MISSENSE,G729D								MISSENSE,Q1241R						MISSENSE,N1151S	MISSENSE,R1067W	
+TCGA-EW-A1PE		MISSENSE,T1025A										FRAMESHIFT,D263Cfs*4																																	MISSENSE,K1191N					
+18BR010		MISSENSE,E545K										SPLICE,X229_splice																																						
+MBCProject_0814		MISSENSE,E545K										NONSENSE,E107*																																						
+TCGA-BH-A0W7		MISSENSE,E726K										NONSENSE,Q316*																																						
+TCGA-BH-A0DP		MISSENSE,E542K										MISSENSE,S184L										MISSENSE,Y573C																												
+TCGA-D8-A1XY		MISSENSE,E545K										MISSENSE,P306R												MISSENSE,A15V																										
+TCGA-A7-A26H		MISSENSE,H1047R										MISSENSE,L385P	SILENT,L852=																																		FRAMESHIFT,T688Vfs*12			
+TCGA-WT-AB41		MISSENSE,G118D											FRAMESHIFT,K2664*			SPLICE,X960_splice																																		
+MBCProject_0289		MISSENSE,H1047R											FRAMESHIFT,N1984Mfs*28																																					
+TCGA-D8-A73U		MISSENSE,H1047R											NONSENSE,Q2492*																																					
+TCGA-E2-A1BC		MISSENSE,H1047R											SPLICE,X1575_splice																																					
+MBCProject_2346		MISSENSE,E542K											PROTEINALTERING,E225_Y227delinsV																																			FRAMESHIFT,K151Sfs*7		
+MBCProject_4574		MISSENSE,H1047R											MISSENSE,G949E																																					
+TCGA-BH-A0H9		MISSENSE,G1007R											MISSENSE,N2679S																																					
+TCGA-B6-A0RO		MISSENSE,P539R							SILENT,P1159=					NONSENSE,L1426*																																				
+TCGA-BH-A0DO		MISSENSE,M1043I												MISSENSE,D3442V																																				
+TCGA-A8-A08T		MISSENSE,E545K													MISSENSE,P3493L																NONSENSE,W73*																			
+TCGA-AR-A255		MISSENSE,N345K									SILENT,H446=				MISSENSE,Q2477K																								NONSENSE,Q2269*											
+TCGA-B6-A0X5		MISSENSE,H1047R													MISSENSE,F2671L																																			
+TCGA-BH-A0DX		MISSENSE,E545K													MISSENSE,Q4085H																																			
+TCGA-C8-A12T		MISSENSE,E542K														NONSENSE,Q528*																												NONSENSE,S2918*	MISSENSE,E3177Q		MISSENSE,D1344H			
+ASCProject_0221		MISSENSE,T957P														FRAMESHIFT,S1807Vfs*8																																		
+MBCProject_0235		MISSENSE,H1047R														NONSENSE,Q481*																																		
+TCGA-BH-A0HU		PROTEINDEL,G106_R108del															MISSENSE,T1341I																																	
+TCGA-B6-A0I5		MISSENSE,Q546R																PROTEINDEL,Q3861_Q3863del																																
+TCGA-BH-A18J		MISSENSE,E545K																MISSENSE,K3235N																																
+TCGA-A7-A26E		MISSENSE,E545K															SILENT,F2633=		FRAMESHIFT,D96Gfs*15																															
+TCGA-BH-A0BM		MISSENSE,N345K																	FRAMESHIFT,L261Tfs*24																															
+TCGA-AQ-A7U7		MISSENSE,E600K												SILENT,V2562=						FRAMESHIFT,D160Rfs*5		MISSENSE,I1029T																												
+TCGA-AN-A0FS		MISSENSE,E545K																		FRAMESHIFT,T290Nfs*37																														
+TCGA-E2-A1IF		MISSENSE,H1047R																		MISSENSE,W113R																														
+TCGA-BH-A42V		MISSENSE,E545K																			MISSENSE,S3048F																													
+TCGA-B6-A0RN		MISSENSE,H1047R																				PROTEINALTERING,E859delinsVL									MISSENSE,A99V																			
+TCGA-A2-A1FZ		MISSENSE,H1047R																					FRAMESHIFT,L415Afs*143																											
+TCGA-E9-A1RE		MISSENSE,P104L																					MISSENSE,Y259C				MISSENSE,S569P																							
+TCGA-OL-A66L		MISSENSE,E542K																					MISSENSE,E11K											MISSENSE,R1283W									SILENT,L1690=							
+TCGA-AR-A24O		MISSENSE,H1047L																					MISSENSE,I176V																											
+TCGA-D8-A1JE		MISSENSE,H1047R																							FRAMESHIFT,M1760Afs*8																									
+TCGA-A7-A0D9		MISSENSE,N345T																										MISSENSE,L536F																						
+TCGA-AR-A24M		MISSENSE,E542K																												MISSENSE,E510V																				
+HCM-CSHL-0151-C50		PROTEINDEL,V105_G106del																													MISSENSE,R40H																			
+TCGA-A2-A0EO		MISSENSE,E542K																													MISSENSE,A132T																			
+TCGA-A8-A096		MISSENSE,H1047R																													MISSENSE,G121D																			
+TCGA-AN-A0XO		MISSENSE,E453K																														MISSENSE,R155W																		
+TCGA-E9-A1R4		MISSENSE,E545K																														MISSENSE,Q102E																		
+TCGA-E9-A1NG		MISSENSE,E545K																																	MISSENSE,R1149W															
+TCGA-D8-A1XM		MISSENSE,E542K																																		MISSENSE,L755S														
+TCGA-BH-A5J0		MISSENSE,E542K																																			MISSENSE,T810N							FRAMESHIFT,D1395Vfs*6						
+MBCproject_0253		MISSENSE,E545K																																			MISSENSE,E1832K													
+TCGA-BH-A0B5		PROTEINDEL,K111del																																			MISSENSE,M1596I													
+TCGA-A2-A0T7		MISSENSE,E542K																																					NONSENSE,R3047*											
+TCGA-LL-A5YN		MISSENSE,H1047R																																					FRAMESHIFT,L663Ffs*42											
+MBCProject_0351		MISSENSE,H1047R																																					MISSENSE,N2875S											
+TCGA-E9-A295		MISSENSE,H1047L																																						MISSENSE,Q4951K										
+11BR036		MISSENSE,H1047R																																							FRAMESHIFT,T620Sfs*31									
+TCGA-BH-A0HI		MISSENSE,E545K																																							MISSENSE,L174F									
+TCGA-LL-A7T0		MISSENSE,E545K																																								NONSENSE,Q2223*								
+TCGA-E9-A227		MISSENSE,H1047R																																									FRAMESHIFT,I2304Hfs*9							
+MBCProject_0044		MISSENSE,E542K																																										MISSENSE,D304G						
+TCGA-A8-A08B		MISSENSE,E545K																						SILENT,L1346=																					PROTEINDEL,V1270del					
+TCGA-E2-A14V		MISSENSE,N1044Y																																												MISSENSE,C1501R				
+TCGA-AO-A1KR		MISSENSE,H1047R								SILENT,G505=																																					PROTEINDEL,C644del			
+ASCProject_0089		MISSENSE,M1043V																																																MISSENSE,W1105R
+01BR010		PROTEINDEL,L113del																																																
+11BR013		MISSENSE,H1047R																																																
+11BR042		PROTEINDEL,R108_K111del																																																
+11BR047		MISSENSE,H1047L																																																
+11BR072		MISSENSE,N345K																																																
+20BR008		MISSENSE,N345K																																																
+21BR002		MISSENSE,H1047R																																																
+ASCProject_0003		MISSENSE,N1044K																																																
+ASCProject_0011		MISSENSE,E542Q																																																
+ASCProject_0045		MISSENSE,R88Q																																																
+HCM-CSHL-0261-C50		MISSENSE,E726K																																																
+MBCProject_0128		MISSENSE,K111E																																																
+MBCProject_0251		MISSENSE,E545K																																					SILENT,V835=											
+MBCProject_0399		MISSENSE,E545K																																																
+MBCProject_0419		MISSENSE,E545K																																																
+MBCProject_1353		MISSENSE,M1043I																																																
+MBCProject_2185		MISSENSE,H1047R																																																
+MBCProject_3135		MISSENSE,H1047L																																																
+MBCProject_4766		MISSENSE,N345K																																																
+MBCProject_5927		MISSENSE,E545K																																																
+MBCProject_5953		MISSENSE,H1047R																																																
+TCGA-A2-A04V		MISSENSE,G118D																																																
+TCGA-A2-A0YI		MISSENSE,N345K																																																
+TCGA-A2-A25C		MISSENSE,H1047R																																																
+TCGA-A7-A0CG		MISSENSE,H1047R																																					SILENT,Y454=											
+TCGA-A7-A0CH		MISSENSE,E545K																																																
+TCGA-A7-A4SF		MISSENSE,E542K																																																
+TCGA-A8-A07G		MISSENSE,H1047R																																																
+TCGA-A8-A08O		MISSENSE,H1047R																																																
+TCGA-A8-A09C		MISSENSE,H1047R																																																
+TCGA-A8-A09D		MISSENSE,H1047R	SILENT,G313=																									SILENT,E1150=		SILENT,K419=																				SILENT,A1534=
+TCGA-AN-A0FF		MISSENSE,H1047R																																																
+TCGA-AQ-A0Y5		MISSENSE,E453K																																																
+TCGA-AQ-A54O		MISSENSE,E545K																																																
+TCGA-AR-A0TR		MISSENSE,N345K																																																
+TCGA-AR-A2LO		MISSENSE,D520V																																																
+TCGA-AR-A5QP		MISSENSE,E545K																																																
+TCGA-B6-A0IC		MISSENSE,E545K																																																
+TCGA-BH-A0BD		MISSENSE,H1047R																																																
+TCGA-BH-A0BJ		MISSENSE,N345K													SILENT,R628=																																			
+TCGA-BH-A0BV		MISSENSE,E545K																																																
+TCGA-BH-A0EB		MISSENSE,H1047R												SILENT,R648=																																				
+TCGA-BH-A0W3		MISSENSE,E542K																																																
+TCGA-BH-A18I		MISSENSE,E542K																																																
+TCGA-BH-A1ET		MISSENSE,E542K																																																
+TCGA-BH-A1EU		MISSENSE,H1047L																																																
+TCGA-BH-A201		PROTEINDEL,L452_G460del																																																
+TCGA-BH-A6R9		PROTEINDEL,E109_I112del																																																
+TCGA-C8-A12Y		MISSENSE,H1047R																																																
+TCGA-C8-A1HE		MISSENSE,H1047R																			SILENT,F4655=																													
+TCGA-D8-A145		MISSENSE,C420R																																																
+TCGA-D8-A146		MISSENSE,E545K																																																
+TCGA-D8-A1XS		MISSENSE,E545K																																																
+TCGA-D8-A1Y2		MISSENSE,E545K																																																
+TCGA-D8-A27T		MISSENSE,E545K																																																
+TCGA-E2-A15K		MISSENSE,H1047R																																																
+TCGA-E2-A1IL		MISSENSE,H1047R																																																
+TCGA-E2-A1L6		MISSENSE,H1047R																																																
+TCGA-E9-A1R0		MISSENSE,E545K																																																
+TCGA-E9-A1RI		MISSENSE,H1047L																																																
+TCGA-E9-A229		MISSENSE,H1047R																																																
+TCGA-EW-A1P5		PROTEINDEL,P447_L455del																																																
+TCGA-HN-A2OB		MISSENSE,E542K																																																
+TCGA-OL-A5S0		MISSENSE,E542K																																																
+TCGA-D8-A27V			FRAMESHIFT,S12310Afs*13	FRAMESHIFT,H121Tfs*94				MISSENSE,F347L		FRAMESHIFT,P1618Rfs*3																								FRAMESHIFT,A1772Pfs*14	SILENT,V1858=										FRAMESHIFT,K936Nfs*24					
+TCGA-GM-A2DO			NONSENSE,S2547*	MISSENSE,D288N	SILENT,L141=																	MISSENSE,L347F							SILENT,A350=																					
+TCGA-A2-A4RW			NONSENSE,E1826*													NONSENSE,Q944*																																		
+09BR007			FRAMESHIFT,N14345Kfs*9																				MISSENSE,F266C																			MISSENSE,E2462K								
+TCGA-BH-A0BZ			FRAMESHIFT,D3911Gfs*35															SILENT,I4569=						NONSENSE,S2698*		SPLICE,X3609_splice																							SILENT,T850=	
+TCGA-BH-A18P			MISSENSE,D4025N	FRAMESHIFT,S36Afs*20		MISSENSE,E1992Q	FRAMESHIFT,P233Qfs*30				MISSENSE,V2074I												MISSENSE,I176M	MISSENSE,S2609L												MISSENSE,L755S														
+TCGA-AR-A2LE			MISSENSE,Q14194H	NONSENSE,Q255*					SPLICE,X361_splice					MISSENSE,D168N		NONSENSE,S711*					MISSENSE,S2045F	MISSENSE,E498K			NONSENSE,S4652*												MISSENSE,S719C							SILENT,P674=						
+TCGA-AC-A3YI			MISSENSE,E9510K	FRAMESHIFT,D764Gfs*5																																														
+TCGA-BH-A209			MISSENSE,D8666N	NONSENSE,R63*																																														
+TCGA-A1-A0SE			MISSENSE,D1531N	MISSENSE,E243K																																														
+TCGA-D8-A1JT			MISSENSE,T2271I		FRAMESHIFT,L354*	FRAMESHIFT,K4647Vfs*2									SILENT,P509=																																			
+TCGA-A8-A08C			MISSENSE,A9978S		SPLICE,X308_splice	MISSENSE,R4584W												NONSENSE,Y1514*		MISSENSE,N211T											NONSENSE,Y85*																			
+TCGA-A8-A083			MISSENSE,N8025S		SPLICE,X308_splice								MISSENSE,R1306Q																									MISSENSE,D234V												
+MBCProject_6109			MISSENSE,A4523S		FRAMESHIFT,D335Gfs*17											MISSENSE,Q1145H												MISSENSE,R284C																						
+TCGA-E2-A1B5			MISSENSE,I6031V		FRAMESHIFT,M438Nfs*69																	MISSENSE,R1898C							MISSENSE,Q670K																					
+TCGA-BH-A0AZ			MISSENSE,S91P		FRAMESHIFT,*444Lfs*63																																					MISSENSE,L1759R								
+06BR003			MISSENSE,T4540I		FRAMESHIFT,T418Hfs*89																																													
+MBCProject_3602			MISSENSE,T3654K		FRAMESHIFT,T418Hfs*89																																													
+TCGA-BH-A1FH			MISSENSE,S8053F		FRAMESHIFT,R398Qfs*109																																													
+TCGA-B6-A0X4			MISSENSE,G13230R			NONSENSE,E640*						MISSENSE,R134W																																						
+TCGA-A1-A0SF			MISSENSE,G5075V			NONSENSE,S2123*																					SILENT,E1159=																							
+TCGA-BH-A18G			MISSENSE,T3535A				MISSENSE,S333I			FRAMESHIFT,G969Vfs*17			FRAMESHIFT,Y1607Ifs*17				FRAMESHIFT,N2900Mfs*28	FRAMESHIFT,A2112Hfs*32			MISSENSE,A3714T	MISSENSE,Q1864P					SILENT,K523=		MISSENSE,G3220D								MISSENSE,R390H		NONSENSE,R2993*					FRAMESHIFT,K3245Rfs*39				MISSENSE,Y1256H	FRAMESHIFT,S1341Afs*56	SILENT,P1682=
+TCGA-A8-A09G			MISSENSE,L10898V						FRAMESHIFT,T525Nfs*11																				FRAMESHIFT,V2138*										NONSENSE,Q2800*			SILENT,L387=		MISSENSE,G1080A						
+TCGA-D8-A1JA			MISSENSE,F5552L						MISSENSE,E1109K													SILENT,L868=															MISSENSE,Q42E				SILENT,V714=					NONSENSE,S618*				
+11BR060			MISSENSE,S8823Y								MISSENSE,L788V																																							
+TCGA-AO-A03T			MISSENSE,S10386R									FRAMESHIFT,D173*																						SILENT,V590=			SILENT,E1223=						MISSENSE,R268S			MISSENSE,N579S				
+TCGA-A8-A07I			MISSENSE,F13637L													MISSENSE,S1916C																													MISSENSE,D1355Y					
+TCGA-A8-A09A			MISSENSE,F5897C													MISSENSE,E1111K																																		
+TCGA-FA-A7DS			MISSENSE,T14445P															FRAMESHIFT,S4034Qfs*15							MISSENSE,G2712D																									
+TCGA-BH-A1FJ			MISSENSE,P13476L																		PROTEINDEL,N770del																													
+TCGA-D8-A1XC			MISSENSE,E6944D																				FRAMESHIFT,E410Afs*2																											
+11BR050			MISSENSE,S8858F																						MISSENSE,A1511V																									
+100002921			MISSENSE,P1758T																													MISSENSE,F1239Y													NONSENSE,L2926*					
+TCGA-A2-A0T0			MISSENSE,P1758T																									SILENT,S1641=				MISSENSE,F1239Y													NONSENSE,L2926*					
+TCGA-AO-A1KT			MISSENSE,S5046P															SILENT,P711=																MISSENSE,T608M					SPLICE,X1474_splice											
+TCGA-E2-A1IE			MISSENSE,Q9633H																																				MISSENSE,L2780R											
+TCGA-EW-A1J6			MISSENSE,A7295S																																				MISSENSE,N2875S											
+TCGA-E9-A228			MISSENSE,V5597M																																							MISSENSE,L738F								
+100004028			MISSENSE,S12221R																																															
+11BR006			MISSENSE,A9632S																																															
+14BR005			MISSENSE,T2456P																																															
+MBCProject_0203			MISSENSE,T11632N																																															
+TCGA-5T-A9QA			MISSENSE,H8816N																						SILENT,V3021=																									
+TCGA-A8-A09V			MISSENSE,R12602M																																															
+TCGA-AN-A04D			MISSENSE,A7413T																																															
+TCGA-BH-A0B4			MISSENSE,G13114D																																															
+TCGA-D8-A1XF			MISSENSE,E9770K																																															
+TCGA-D8-A27H			MISSENSE,K12556N																																															
+TCGA-A8-A09Z				FRAMESHIFT,P127Afs*41	FRAMESHIFT,W328Efs*23	NONSENSE,Q1771*		FRAMESHIFT,K267Rfs*9		MISSENSE,K4087E	SILENT,P3237=		SILENT,R1846=	MISSENSE,G2744D	MISSENSE,V135A	FRAMESHIFT,L1591Cfs*21	MISSENSE,N4035D		MISSENSE,A217V		SILENT,H485=			NONSENSE,Y3623*	SILENT,D1205=				SILENT,L4260=											MISSENSE,A563V			SILENT,T2159=					FRAMESHIFT,Y362*		
+TCGA-BH-A28Q				FRAMESHIFT,P127Afs*41	FRAMESHIFT,Q362Efs*38															SPLICE,X130_splice																														
+TCGA-AC-A6IV				NONSENSE,R74*	FRAMESHIFT,*444Efs*62																						MISSENSE,T1100M																							
+TCGA-AR-A24X				SPLICE,X722_splice	SPLICE,X308_splice																												MISSENSE,E17K																	
+TCGA-OL-A66K				FRAMESHIFT,A575Gfs*13	SPLICE,X308_splice																																													
+TCGA-BH-A0HP				SPLICE,X230_splice	MISSENSE,M293K			SPLICE,X212_splice	MISSENSE,S158F					NONSENSE,Q1727*					FRAMESHIFT,R142Kfs*44																							MISSENSE,E2388Q		SILENT,Q2108=						
+TCGA-B6-A40C				NONSENSE,Q23*	MISSENSE,R329K																																													
+MBCProject_0004				SPLICE,X177_splice		NONSENSE,Y4440*														FRAMESHIFT,F116Lfs*22																MISSENSE,L313V														
+TCGA-A2-A0YD				FRAMESHIFT,P339Lfs*17			FRAMESHIFT,I1216Nfs*23			SILENT,V2505=	MISSENSE,R447T		SPLICE,X1066_splice																																					
+TCGA-OL-A66N				FRAMESHIFT,K314Hfs*2			FRAMESHIFT,P1044Qfs*42																													MISSENSE,V777L														
+TCGA-A8-A07F				FRAMESHIFT,M656*			FRAMESHIFT,T945Nfs*57																																											
+MBCProject_0063				NONSENSE,Q23*				FRAMESHIFT,T319*																																										
+TCGA-BH-A0E9				FRAMESHIFT,E757Mfs*14				SPLICE,X70_splice																																										
+TCGA-E2-A1IH				FRAMESHIFT,P597Efs*11				FRAMESHIFT,E73Dfs*25																																	SILENT,Y498=									
+TCGA-GM-A5PV				SPLICE,X722_splice				FRAMESHIFT,W274Gfs*2																										SILENT,G1878=																
+TCGA-A7-A4SC				FRAMESHIFT,D288Gfs*4				MISSENSE,R130Q														MISSENSE,A1659T																					MISSENSE,R1630G							
+MBCProject_3672				FRAMESHIFT,P127Afs*41				MISSENSE,D107V																								SILENT,F885=																		
+TCGA-A8-A09W				SPLICE,X646_splice						FRAMESHIFT,I1891Yfs*12																					NONSENSE,W73*										NONSENSE,Y606*									
+TCGA-S3-A6ZG				FRAMESHIFT,G352Rfs*2						MISSENSE,R2428Q																														NONSENSE,S73*										
+09BR001				NONSENSE,Q673*								PROTEINDEL,N330_S337delinsT											MISSENSE,F254L																											
+TCGA-AC-A4ZE				SPLICE,X17_splice													MISSENSE,R1661C						MISSENSE,D226G																	MISSENSE,R4653C										
+TCGA-AR-A1AT			SILENT,S2099=	FRAMESHIFT,N315Ifs*41															FRAMESHIFT,L85Cfs*10			FRAMESHIFT,K1020Nfs*9				SILENT,P1367=																								
+HCM-CSHL-0250-C50				NONSENSE,Q23*															FRAMESHIFT,P98Qfs*8																	PROTEINDEL,E698del												FRAMESHIFT,W1096Vfs*7		
+TCGA-AC-A2FB				NONSENSE,W103*															NONSENSE,K90*																															
+TCGA-AO-A0J8				FRAMESHIFT,P708Lfs*14															FRAMESHIFT,D96Gfs*15																															
+TCGA-A8-A0AB				FRAMESHIFT,A401Sfs*2															MISSENSE,N112S																	MISSENSE,L755S														
+TCGA-BH-A0C1				FRAMESHIFT,P159Lfs*56															MISSENSE,G108D																	MISSENSE,V777L														
+TCGA-OL-A5RV				NONSENSE,E512*															MISSENSE,G95R																															
+TCGA-A7-A5ZX				FRAMESHIFT,L731Ffs*39																FRAMESHIFT,E327Dfs*33															MISSENSE,R864W															
+MBCProject_0744				FRAMESHIFT,F57Dfs*20																FRAMESHIFT,N211Tfs*31																MISSENSE,L755S														
+TCGA-A8-A0A4				FRAMESHIFT,Q765Pfs*4																NONSENSE,Y149*																														
+TCGA-E2-A1IJ				FRAMESHIFT,T679Dfs*9																FRAMESHIFT,I294*																														
+TCGA-WT-AB44				FRAMESHIFT,A289Tfs*6																MISSENSE,F204S													MISSENSE,E17K																	
+TCGA-AR-A24H				FRAMESHIFT,A788Efs*14																	MISSENSE,T1033A																													
+TCGA-GM-A5PX			SILENT,T4858=	FRAMESHIFT,I304Nfs*7																		MISSENSE,P522L																												
+TCGA-AO-A0J9				FRAMESHIFT,E518Nfs*4																								MISSENSE,R2062K																						
+TCGA-AC-A3QQ				NONSENSE,Q23*																											MISSENSE,N63I			MISSENSE,D1447E																
+MBCProject_1078				SPLICE,X230_splice																											MISSENSE,R35P																			
+03BR011				SPLICE,X130_splice																													MISSENSE,E17K					MISSENSE,R18Q												
+TCGA-D8-A1X8				FRAMESHIFT,M272Lfs*7																													MISSENSE,E17K													FRAMESHIFT,V2256Rfs*49				
+TCGA-AC-A6IX				FRAMESHIFT,N570Mfs*14																													MISSENSE,E17K																	
+MBCProject_2622				NONSENSE,Q673*																																MISSENSE,L755S														
+TCGA-4H-AAAK				SPLICE,X571_splice																																MISSENSE,V777L														
+TCGA-A2-A0T6				FRAMESHIFT,S829*																																MISSENSE,L755M														
+HCM-CSHL-0460-C50				FRAMESHIFT,T368Nfs*4																																	MISSENSE,E110K													
+TCGA-LD-A7W6				NONSENSE,Q23*																																												SPLICE,X1392_splice		
+MBCProject_0226				FRAMESHIFT,D291Efs*3																																														
+MBCProject_0564				SPLICE,X336_splice																																														
+MBCProject_1554				NONSENSE,Q23*																																														
+MBCProject_2991				FRAMESHIFT,T199Nfs*10																																														
+TCGA-A2-A1FV				FRAMESHIFT,P160Rfs*8																																														
+TCGA-A8-A09T				FRAMESHIFT,P127Afs*41																																														
+TCGA-AC-A2FG				FRAMESHIFT,V202Cfs*7																																														
+TCGA-AO-A0JJ				FRAMESHIFT,V365Tfs*26																																														
+TCGA-AR-A2LN				FRAMESHIFT,P127Afs*41																																														
+TCGA-B6-A2IU				NONSENSE,Q195*																																														
+TCGA-D8-A27I				FRAMESHIFT,N166Mfs*49																																														
+TCGA-E9-A5FK				FRAMESHIFT,S19Rfs*39																																														
+TCGA-W8-A86G				FRAMESHIFT,Y190Lfs*9																																														
+TCGA-C8-A1HO				MISSENSE,D644N	FRAMESHIFT,R330Lfs*24							NONSENSE,K207*																												SILENT,S895=										
+TCGA-BH-AB28				PROTEINDEL,L343del	FRAMESHIFT,D335Gfs*21																																													
+TCGA-LL-A73Z				MISSENSE,D254Y				FRAMESHIFT,V290Sfs*8																																										
+TCGA-AR-A2LL				MISSENSE,G278R				MISSENSE,C124S																																										
+TCGA-A8-A0A2				PROTEINDEL,E165_P170del					FRAMESHIFT,G956Dfs*22										FRAMESHIFT,D96Gfs*11																															
+TCGA-GI-A2C8				MISSENSE,W409L							SPLICE,X2517_splice				MISSENSE,R806H																																			
+TCGA-B6-A0IH				PROTEINDEL,E283_T287del															NONSENSE,Q239*																															
+MBCProject_0381				MISSENSE,D400N																																														
+TCGA-A8-A091				MISSENSE,E243K																																														
+TCGA-E9-A2JT				MISSENSE,D402H																																														
+TCGA-D8-A1X6					SPLICE,X308_splice	FRAMESHIFT,K4764Gfs*3	FRAMESHIFT,L319Tfs*7													MISSENSE,H187Y																														
+TCGA-AC-A8OP					FRAMESHIFT,N331Efs*21	NONSENSE,Q1677*			MISSENSE,E721K							FRAMESHIFT,P728Afs*11																																		
+TCGA-A8-A06X					FRAMESHIFT,D335Gfs*17	FRAMESHIFT,M3878Lfs*9					SILENT,A3657=		MISSENSE,S1352G																				SILENT,V416=			SILENT,T652=			MISSENSE,S378R								NONSENSE,E272*			
+TCGA-E2-A1L9					FRAMESHIFT,N351Qfs*19	FRAMESHIFT,R907Pfs*7																									MISSENSE,A56G		MISSENSE,E17K														MISSENSE,S1027I			
+11BR040					SPLICE,X308_splice	FRAMESHIFT,R1351Kfs*4																											MISSENSE,L52R																	
+TCGA-B6-A0WV					FRAMESHIFT,G334Wfs*18	FRAMESHIFT,V1694Cfs*7																																												SILENT,K1927=
+MBCProject_0026					FRAMESHIFT,L396Qfs*109		FRAMESHIFT,L1477Cfs*13																														MISSENSE,K1018N													
+TCGA-B6-A0IM					FRAMESHIFT,P408Afs*99		FRAMESHIFT,Q1492Nfs*12																																											
+TCGA-E2-A10A					FRAMESHIFT,P425Afs*82		FRAMESHIFT,G172Rfs*7																																											
+MBCProject_1323					FRAMESHIFT,G431Tfs*74		MISSENSE,I869F									FRAMESHIFT,G1210Afs*7																																		
+TCGA-A1-A0SD					FRAMESHIFT,S436Pfs*40			NONSENSE,R130*																																										
+MBCProject_0960					FRAMESHIFT,S407Afs*99			MISSENSE,F271S																																				NONSENSE,Q2455*						
+TCGA-OL-A5D8					FRAMESHIFT,R306Kfs*46				NONSENSE,R1794*												FRAMESHIFT,L4037*																													
+TCGA-A2-A0T5					FRAMESHIFT,K346Lfs*7				FRAMESHIFT,T525Nfs*11																						FRAMESHIFT,Y85*																			
+TCGA-E9-A1RF					FRAMESHIFT,C320Lfs*32				NONSENSE,S1046*																																							MISSENSE,D261H		
+TCGA-AR-A0TW					FRAMESHIFT,S401Vfs*106				NONSENSE,R1854*	SILENT,N2594=																																							MISSENSE,G322W	
+TCGA-E2-A15J					SPLICE,X308_splice				SPLICE,X686_splice																																									
+TCGA-GM-A2DN					SPLICE,X308_splice				MISSENSE,P1029Q																								MISSENSE,E17K																	
+TCGA-AN-A0FZ					FRAMESHIFT,D335Gfs*17					MISSENSE,A4145T																	NONSENSE,G574*																							
+TCGA-C8-A12M					FRAMESHIFT,P408Afs*99						MISSENSE,R1158C																																							NONSENSE,R1650*
+TCGA-AN-A0XR					FRAMESHIFT,P408Afs*99							FRAMESHIFT,Y160Ifs*14								FRAMESHIFT,F219Ifs*8													MISSENSE,L52R																	
+TCGA-BH-A0C7					FRAMESHIFT,N331Sfs*20							FRAMESHIFT,R373Sfs*29		SILENT,Q2946=																											FRAMESHIFT,R254Gfs*10									
+11BR019					FRAMESHIFT,S436Lfs*71							MISSENSE,S184L			MISSENSE,T3026I																																			
+MBCProject_0589					FRAMESHIFT,S437Afs*38								FRAMESHIFT,G>-																	PROTEINDEL,K567_L570delinsN																				
+TCGA-BH-A0E2					FRAMESHIFT,D335Gfs*17								MISSENSE,L529P																																					
+TCGA-E2-A570					NONSENSE,W328*									NONSENSE,R724*																			MISSENSE,E17K																	
+15BR003					FRAMESHIFT,S401Vfs*106									SILENT,L2137=	MISSENSE,D3281H						MISSENSE,L4246F												MISSENSE,E17K									SILENT,L219=		MISSENSE,E1978K						
+01BR030					FRAMESHIFT,T322Dfs*30											FRAMESHIFT,P703Sfs*114																																		
+TCGA-C8-A1HL					FRAMESHIFT,S407Cfs*10											FRAMESHIFT,R727Lfs*12																																		
+TCGA-E9-A1NA			SILENT,L9065=		FRAMESHIFT,D335Gfs*17												MISSENSE,W1709C																																	
+TCGA-EW-A2FW					FRAMESHIFT,S407Afs*99												MISSENSE,D2944A																																	
+TCGA-LL-A5YM					FRAMESHIFT,P432Tfs*41												MISSENSE,L1881F																																	
+TCGA-3C-AALJ					FRAMESHIFT,H423Afs*84													MISSENSE,T1681N		FRAMESHIFT,Y265Lfs*17																														
+TCGA-A2-A25B					FRAMESHIFT,M400Vfs*106													MISSENSE,P1021S																													NONSENSE,E720*			
+TCGA-B6-A0X0					SPLICE,X308_splice														PROTEINDEL,E116_A120del																								MISSENSE,V1666F							
+TCGA-C8-A1HN					FRAMESHIFT,P408Rfs*99															FRAMESHIFT,K104Vfs*8												MISSENSE,R692Q																		
+TCGA-D8-A140			SILENT,S13122=		FRAMESHIFT,D335Gfs*17																MISSENSE,H3969Y				MISSENSE,V3391F																								MISSENSE,V529L	
+TCGA-A8-A06T					SPLICE,X308_splice																			MISSENSE,D313V																		SILENT,E2014=								
+MBCProject_1852					FRAMESHIFT,N331Efs*21																				MISSENSE,M2333L																MISSENSE,Y606C					MISSENSE,T2500S				
+TCGA-BH-A1FM					FRAMESHIFT,D335Gfs*17																				MISSENSE,N1835H																									
+TCGA-BH-A0HL					FRAMESHIFT,H433Afs*38																					FRAMESHIFT,P1705Efs*15																								
+MBCProject_0054					FRAMESHIFT,R330Efs*22							SILENT,Q126=														MISSENSE,E2759K																								
+TCGA-AO-A0J3					FRAMESHIFT,F430Wfs*76										SILENT,D1062=											MISSENSE,C2065Y																								
+TCGA-AC-A5EI					SPLICE,X308_splice																									SPLICE,X579_splice	FRAMESHIFT,P70Sfs*13																			
+TCGA-AR-A0TQ					FRAMESHIFT,R330Sfs*22																									MISSENSE,D464N																				
+TCGA-A2-A1FW					FRAMESHIFT,S426Vfs*78																											MISSENSE,S859N																		
+TCGA-BH-A0BS					SPLICE,X308_splice																												MISSENSE,E17K																	
+TCGA-EW-A1IY					FRAMESHIFT,D335Gfs*21																												MISSENSE,E17K																	
+TCGA-LL-A6FQ					SPLICE,X308_splice										SILENT,N2113=																		MISSENSE,E17K																	
+TCGA-AN-A04A					FRAMESHIFT,P419Dfs*85																																MISSENSE,I402N													
+TCGA-A8-A06Y					FRAMESHIFT,L354Pfs*17																																					MISSENSE,I2500F						FRAMESHIFT,L246Yfs*4		
+TCGA-A2-A0SU					FRAMESHIFT,P408Afs*99																																								NONSENSE,Y3308*					
+TCGA-BH-A0DS					FRAMESHIFT,R364Hfs*10																																										MISSENSE,Q1811L			
+11BR054					FRAMESHIFT,M400Vfs*106																																													
+11BR069					FRAMESHIFT,S407Afs*99																																													
+MBCProject_0103					FRAMESHIFT,G334Wfs*18																																													
+MBCProject_0943					FRAMESHIFT,H27Afs*26																																													
+MBCProject_0988					FRAMESHIFT,M438Ifs*38																																													
+MBCProject_1186					FRAMESHIFT,S426Ifs*81																																													
+MBCProject_1892					FRAMESHIFT,S407Ffs*100																																													
+MBCProject_3020					FRAMESHIFT,T417Dfs*90																																													
+TCGA-3C-AAAU					FRAMESHIFT,P408Afs*99																																													
+TCGA-A1-A0SQ					FRAMESHIFT,S436Lfs*71																																					SILENT,L521=								
+TCGA-A2-A0CV					SPLICE,X308_splice																																													
+TCGA-A8-A08G					FRAMESHIFT,S402Yfs*107																								SILENT,P2862=																					
+TCGA-A8-A08J					FRAMESHIFT,S426Ifs*81																																													
+TCGA-AC-A62V					FRAMESHIFT,R329Kfs*21																																													
+TCGA-AN-A041					FRAMESHIFT,R329Efs*22																																													
+TCGA-AN-A0AM					FRAMESHIFT,A332Gfs*20																																													
+TCGA-AN-A0FD					FRAMESHIFT,A394Gfs*113																					SILENT,P3956=																								
+TCGA-AO-A03P					FRAMESHIFT,M442Ifs*65																																													
+TCGA-AR-A0TY					FRAMESHIFT,H434Pfs*42																																													SILENT,A65=
+TCGA-AR-A252					FRAMESHIFT,S413Qfs*94																																													
+TCGA-B6-A0IN					FRAMESHIFT,S437Qfs*70																																													
+TCGA-B6-A0WS					SPLICE,X308_splice																																													
+TCGA-BH-A0DG					FRAMESHIFT,P408Afs*99																																													
+TCGA-C8-A1HI					FRAMESHIFT,H434Pfs*73																																													
+TCGA-C8-A273					FRAMESHIFT,D335Gfs*17																																													
+TCGA-E2-A14T					FRAMESHIFT,P408Afs*99																																													
+TCGA-E2-A15D					SPLICE,X350_splice																																													
+TCGA-E2-A15H					FRAMESHIFT,M400Nfs*107																																													
+TCGA-E2-A56Z					FRAMESHIFT,P408Qfs*97																																													
+TCGA-E9-A1N3					FRAMESHIFT,S436Lfs*71																																													
+TCGA-E9-A1R7					FRAMESHIFT,G431Wfs*76																																													
+TCGA-E9-A22D					FRAMESHIFT,P408Afs*99																																													
+TCGA-E9-A245					FRAMESHIFT,S426Yfs*50																																													
+TCGA-E9-A5UO					FRAMESHIFT,S404Qfs*97																																													
+TCGA-EW-A1OX					FRAMESHIFT,*444Yfs*63																																													
+TCGA-GM-A2DM					FRAMESHIFT,S426Ifs*81																																													
+TCGA-OL-A66O					FRAMESHIFT,H423Tfs*52																																													
+11BR074					MISSENSE,Y344C	NONSENSE,E1249*		SPLICE,X212_splice																																										
+TCGA-BH-A18M					MISSENSE,K119M		NONSENSE,E1182*																																											
+TCGA-S3-AA12					PROTEINDEL,K358del											MISSENSE,L2056R																																		
+MBCProject_1509					MISSENSE,M293K																		MISSENSE,G241A																											
+01BR032					MISSENSE,K357T																																													
+TCGA-BH-A0HQ						FRAMESHIFT,A3756Hfs*22	NONSENSE,Y317*												SPLICE,X90_splice	MISSENSE,H187Y																								NONSENSE,R2158*						
+MBCProject_1667			SILENT,V9766=			NONSENSE,E3662*	FRAMESHIFT,R414Hfs*23																										MISSENSE,E40K																	
+MBCProject_0644						FRAMESHIFT,G3584Dfs*13	FRAMESHIFT,T1021Nfs*15																																											
+TCGA-A2-A259						NONSENSE,Q109*	FRAMESHIFT,I1386Vfs*25																																											
+TCGA-BH-A18N						FRAMESHIFT,K4391Nfs*22	FRAMESHIFT,T779Qfs*3																																											
+TCGA-C8-A26Y						NONSENSE,S1712*		NONSENSE,S287*			MISSENSE,R2563K				MISSENSE,R2545K			MISSENSE,D1438N						MISSENSE,S2925L				MISSENSE,I1343N										MISSENSE,G220R										MISSENSE,S531L		
+MBCProject_0067						NONSENSE,E644*		FRAMESHIFT,E7Dfs*2				SPLICE,X74_splice																														MISSENSE,K2218E								
+20BR001						FRAMESHIFT,P2341Qfs*24					NONSENSE,Q812*																																							
+TCGA-BH-A6R8						NONSENSE,E640*						NONSENSE,R281*												MISSENSE,T1334N									MISSENSE,E17K																	
+TCGA-AO-A12H						FRAMESHIFT,L804Sfs*2							MISSENSE,R1250W																				MISSENSE,E17K																	
+TCGA-A2-A0EN						FRAMESHIFT,K3735Nfs*10								FRAMESHIFT,F609Lfs*2					FRAMESHIFT,D96Mfs*10																					MISSENSE,D4805Y										
+TCGA-C8-A26Z						NONSENSE,S771*																					MISSENSE,R28Q																							
+MBCProject_6838						FRAMESHIFT,S4872Gfs*31																																												
+TCGA-AN-A0XV						NONSENSE,S682*																																												
+TCGA-AR-A24N						NONSENSE,Q3312*																																												
+TCGA-E2-A572						NONSENSE,S4050*																																												
+TCGA-OL-A66H						FRAMESHIFT,G1309Afs*22																																												
+TCGA-PL-A8LX						FRAMESHIFT,T2824Nfs*9																						SILENT,E2684=																						
+TCGA-AN-A0XW						MISSENSE,E3845Q		MISSENSE,K128N					MISSENSE,F2351L								MISSENSE,C4770Y																													
+TCGA-BH-A18K						MISSENSE,V3284F																								PROTEININS,D569du							MISSENSE,N247S													
+TCGA-AO-A0JG						MISSENSE,E547K																								MISSENSE,N406K																				
+TCGA-D8-A1XU						PROTEINDEL,S4239_N4240del																											MISSENSE,E17K																	
+TCGA-BH-A0BW						MISSENSE,G3106D																																FRAMESHIFT,Q1836Lfs*57			FRAMESHIFT,A74Efs*4									
+TCGA-BH-A1ES						MISSENSE,G3584R																																												
+11BR025							FRAMESHIFT,K1160Rfs*12				MISSENSE,G2865A									FRAMESHIFT,M184Gfs*25																														
+TCGA-A2-A0EU			SILENT,E6866=				FRAMESHIFT,L319Tfs*7				MISSENSE,R1417H												FRAMESHIFT,S194Afs*127																											
+TCGA-BH-A1FG							FRAMESHIFT,V647Kfs*7									FRAMESHIFT,Q625Hfs*14																																		
+TCGA-BH-A0E7							FRAMESHIFT,G222Dfs*4									MISSENSE,A1239T				FRAMESHIFT,N693Tfs*196																							MISSENSE,S2153A							
+TCGA-A8-A082							FRAMESHIFT,Q1408Nfs*14																MISSENSE,S250F																											
+TCGA-BH-A0AY							SPLICE,X346_splice																				MISSENSE,G1638A																							
+TCGA-V7-A7HQ							FRAMESHIFT,Q886Afs*18																									MISSENSE,E1295K																		
+TCGA-A1-A0SG							FRAMESHIFT,D1038Rfs*4																															MISSENSE,Q2159R												
+TCGA-E9-A1N4							NONSENSE,E1184*																															MISSENSE,R1716Q												
+TCGA-E2-A15O							FRAMESHIFT,P286Tfs*14																																			MISSENSE,I1973F								
+14BR014							FRAMESHIFT,N605Ifs*51																																											
+TCGA-A8-A090							FRAMESHIFT,S292Ffs*9																																											
+TCGA-A8-A09M							FRAMESHIFT,V211Cfs*9																																											
+TCGA-B6-A0RM							NONSENSE,Q525*																																											
+TCGA-BH-A0H6							FRAMESHIFT,R1428Vfs*7																																											
+TCGA-BH-A1F5							FRAMESHIFT,R307Vfs*5										SILENT,E589=																																	
+TCGA-E9-A1R6							FRAMESHIFT,R763Cfs*35																																											
+TCGA-EW-A1P6							FRAMESHIFT,D1040Rfs*2																																											
+TCGA-EW-A6SA							MISSENSE,P614L									NONSENSE,Q1631*																																		
+TCGA-E9-A22H							MISSENSE,Y392C																										MISSENSE,E17K					FRAMESHIFT,L1730Tfs*2												
+TCGA-A2-A0YF							PROTEINDEL,V1346del																																											
+TCGA-S3-A6ZH								NONSENSE,Q149*			MISSENSE,C860Y																																							
+TCGA-B6-A0IB								SPLICE,X165_splice				SPLICE,X73_splice	MISSENSE,E1894Q																																					
+TCGA-D8-A1JB								FRAMESHIFT,A137Tfs*39							MISSENSE,S4172Y																																			
+TCGA-D8-A1JI								NONSENSE,Y16*								FRAMESHIFT,P725Afs*13																																		SILENT,L1830=
+MBCProject_6136			SILENT,T4824=					NONSENSE,Q261*												FRAMESHIFT,F325Vfs*2								SILENT,Q1852=																						
+MBCProject_3632								FRAMESHIFT,T319Nfs*6																					SILENT,L4689=	FRAMESHIFT,Q572Kfs*27																				
+TCGA-AC-A62Y								FRAMESHIFT,N117Kfs*9																													MISSENSE,D2217N													
+TCGA-C8-A12V								NONSENSE,L146*																														MISSENSE,L1077Q												
+TCGA-A8-A09E								NONSENSE,Y46*																																						MISSENSE,R2490Q				
+11BR055								FRAMESHIFT,K313Mfs*19																			SILENT,S701=																							
+TCGA-AR-A24W								FRAMESHIFT,T319*																																										
+11BR028							SILENT,P298=	MISSENSE,Q171E																																										
+TCGA-B6-A0WT								MISSENSE,R130Q																																										
+TCGA-OL-A66P								MISSENSE,V217G																																										
+TCGA-A8-A09I									NONSENSE,R1275*					FRAMESHIFT,E800Gfs*21													MISSENSE,R216G	SILENT,A2206=																						
+MBCProject_4424									NONSENSE,R1189*																																									
+TCGA-AR-A0TT									SPLICE,X145_splice																																									
+TCGA-B6-A0I8			SILENT,P7152=						NONSENSE,Q2230*													SILENT,R1703=																												
+TCGA-LL-A5YL									MISSENSE,E220K				NONSENSE,S2601*			NONSENSE,Q528*																		SILENT,T1350=																
+TCGA-A1-A0SN									MISSENSE,E531Q															FRAMESHIFT,E756Kfs*9																										
+ASCProject_0047										NONSENSE,R2350*																	SILENT,T998=									MISSENSE,R226H														
+TCGA-A8-A07L										MISSENSE,T1610P	MISSENSE,V1345L																										MISSENSE,R2028P	MISSENSE,K174N												
+TCGA-BH-A1EV										MISSENSE,G2449A																																								
+TCGA-E2-A1B1										MISSENSE,D2547E																																								
+TCGA-E9-A1QZ										MISSENSE,A2631E																																								
+TCGA-OL-A97C											MISSENSE,L49V							FRAMESHIFT,T3179Sfs*2																FRAMESHIFT,H870*																
+MBCProject_3710											MISSENSE,Q2077K																																							
+TCGA-A2-A0ET											MISSENSE,S2022A														SILENT,G4683=																									
+TCGA-BH-A0DQ											MISSENSE,S1428C																																							
+TCGA-E9-A22B											MISSENSE,R395Q																																							
+TCGA-B6-A0RI												FRAMESHIFT,C266Hfs*8		MISSENSE,S3389C						NONSENSE,Y248*																														
+TCGA-E2-A1IG												NONSENSE,E299*				MISSENSE,S1992P																MISSENSE,R363Q																		
+TCGA-B6-A0RV												SPLICE,X362_splice												MISSENSE,L2798V															SPLICE,X2032_splice											
+06BR005												FRAMESHIFT,S115Lfs*13																																						
+TCGA-AR-A1AU												FRAMESHIFT,S339Rfs*25																																						
+TCGA-BH-A204												MISSENSE,S251I		FRAMESHIFT,H216Yfs*151																																				
+TCGA-B6-A0WZ			SILENT,I8478=									MISSENSE,S184L																			SILENT,V86=		MISSENSE,E17K																	
+MBCProject_0487												MISSENSE,K357Q																																						
+MBCProject_2076												MISSENSE,P272R																																						
+TCGA-A2-A1G4												MISSENSE,S251I																																						
+TCGA-BH-A0EI												MISSENSE,D186G																																						
+TCGA-A8-A0AD													SPLICE,X218_splice						MISSENSE,L290F																									FRAMESHIFT,P2058Afs*98						
+MBCProject_0209													NONSENSE,R304*													MISSENSE,S1654F																								
+TCGA-A2-A04Q													NONSENSE,W571*																	PROTEININS,K575_T576du																				
+MBCProject_6127										SILENT,V2619=			SPLICE,X2704_splice																																					
+TCGA-A8-A08F													FRAMESHIFT,V2627Nfs*8																																					
+TCGA-UL-AAZ6													MISSENSE,P360A																																					
+MBCProject_0540														NONSENSE,E2214*						FRAMESHIFT,S443Qfs*247																														
+TCGA-BH-A0B8														FRAMESHIFT,H3638Pfs*7																										MISSENSE,E4963K			NONSENSE,G476*							
+TCGA-A1-A0SJ														FRAMESHIFT,P2059Kfs*3																																				
+18BR006														MISSENSE,H1616Y													MISSENSE,D1607N													SILENT,F5349=										SILENT,R1940=
+TCGA-EW-A2FV															FRAMESHIFT,A2833Hfs*40			FRAMESHIFT,E4245Sfs*33								FRAMESHIFT,S3416Lfs*5																							FRAMESHIFT,N1157Tfs*11	
+TCGA-S3-AA17															FRAMESHIFT,Q2933Pfs*3																									MISSENSE,P105A					PROTEINDEL,F3090_N3099delinsY					
+MBCProject_5971															MISSENSE,V2204M		SILENT,A4180=		FRAMESHIFT,D96Gfs*11					MISSENSE,K3491E																										
+TCGA-AR-A1AK															MISSENSE,T3342K					FRAMESHIFT,E195Gfs*32																														
+100003304															MISSENSE,K1044R						MISSENSE,S3504N																													
+TCGA-A2-A0CX															MISSENSE,D2373N														MISSENSE,D5058Y									SILENT,I190=		MISSENSE,S135L				NONSENSE,Q2035*						
+MBCProject_0297															MISSENSE,V2691D																																			
+TCGA-BH-A0AU															MISSENSE,V2360L																																			
+TCGA-PE-A5DC				SILENT,A634=											MISSENSE,E2749D																																			
+TCGA-D8-A27R																FRAMESHIFT,M1154Wfs*7								MISSENSE,R1132C																										
+MBCproject_0080																FRAMESHIFT,S558Vfs*65																																		
+TCGA-B6-A1KC																FRAMESHIFT,T1150Pfs*11																																		
+TCGA-BH-A0HW																NONSENSE,Q723*																																		
+TCGA-BH-A1EO																NONSENSE,Q548*																																		
+TCGA-D8-A27W																NONSENSE,R1989*																																		
+TCGA-EW-A2FS																NONSENSE,R1335*																																		
+TCGA-AQ-A1H3																	MISSENSE,I4123V			FRAMESHIFT,N296Kfs*31											FRAMESHIFT,R90Kfs*7				MISSENSE,R864Q															
+TCGA-C8-A9FZ																	MISSENSE,G3945R						MISSENSE,S217C																											
+TCGA-E2-A14Q																	MISSENSE,T1673M													PROTEINDEL,K575_L581del																				
+MBCProject_0102																	MISSENSE,D916H																																	
+TCGA-BH-A0HB																	MISSENSE,R2166T																																	
+TCGA-A1-A0SB																		FRAMESHIFT,P3246Tfs*5																																
+TCGA-A8-A076																		MISSENSE,R3582W																					MISSENSE,E738K											
+TCGA-A2-A0CT																		MISSENSE,E3587V																																
+TCGA-D8-A141																			SPLICE,X143_splice														MISSENSE,E17K																	
+TCGA-E9-A1R5																			FRAMESHIFT,S257Dfs*22																	MISSENSE,D769Y														
+TCGA-AR-A24R																			FRAMESHIFT,S287Cfs*285																															
+05BR026																			PROTEINDEL,G95_D96del						MISSENSE,S1138C																									
+06BR006																			MISSENSE,F146S																	MISSENSE,L377V														
+MBCProject_2575																			MISSENSE,I3S																															
+TCGA-D8-A73W																				FRAMESHIFT,N333Kfs*28																														
+01BR017																					MISSENSE,R3872T														MISSENSE,R1885H															
+TCGA-A7-A13F																					MISSENSE,S4596I																													
+20BR005																						MISSENSE,Q1686H																		SILENT,V5276=										
+05BR016																							FRAMESHIFT,G284Afs*32																											
+TCGA-D8-A1XG																							FRAMESHIFT,M34Qfs*6																											
+TCGA-D8-A1XV																							FRAMESHIFT,Q412Rfs*28																											
+MBCProject_1937																							MISSENSE,D226N																											
+TCGA-D8-A1XR																							PROTEINDEL,D391_N397del																											
+TCGA-D8-A4Z1																							MISSENSE,D226E																											
+TCGA-OL-A66J																							MISSENSE,H247Q																											
+MBCProject_5799																								FRAMESHIFT,T1876Sfs*2																						NONSENSE,E1200*				
+05BR005																								MISSENSE,E2931G					MISSENSE,R3425K												MISSENSE,K319N									
+TCGA-LD-A9QF																								MISSENSE,K1147I																										
+TCGA-BH-A0HK																		SILENT,L3462=							NONSENSE,S2339*			MISSENSE,E2610K																						
+MBCProject_0281																									MISSENSE,T2613N									MISSENSE,S2180T																
+TCGA-BH-A0DH																									MISSENSE,S621F																									
+TCGA-E9-A247																									MISSENSE,G3509R																									
+TCGA-A8-A07P																										NONSENSE,Q1195*													FRAMESHIFT,L1574Ffs*11											
+TCGA-E9-A54Y																										NONSENSE,E1464*																MISSENSE,R2368Q								
+TCGA-A2-A25E																										NONSENSE,S901*																								
+TCGA-AN-A0FW																										FRAMESHIFT,P1865Qfs*3																								
+11BR015																										MISSENSE,E1677K																								
+TCGA-A1-A0SM																										MISSENSE,V3012I																								
+TCGA-E2-A15A																											NONSENSE,E661*																							
+11BR012																											MISSENSE,S1247T		NONSENSE,Y589*											SILENT,D4273=										
+TCGA-E2-A1IU																												MISSENSE,H1946L		PROTEININS,R577_D578du																				
+TCGA-OL-A5RZ																					SILENT,L4246=							MISSENSE,R23G																						
+HCM-CSHL-0463-C50																													MISSENSE,Q218E										MISSENSE,C489G											
+TCGA-E2-A1LB			SILENT,T3615=														SILENT,Q583=												MISSENSE,Y2170C																					
+TCGA-A8-A08S																														PROTEININS,S460_R465du	MISSENSE,Q67H											MISSENSE,A9T								
+TCGA-AR-A1AX																														PROTEINDEL,D578_M582delinsE					MISSENSE,R962H															
+TCGA-LL-A740																														PROTEINDEL,K567_L570del						MISSENSE,E939G														
+TCGA-A2-A0CQ																														PROTEININS,K459_E462du																				
+TCGA-GM-A3XG																														PROTEINDEL,R562_D569del																				
+TCGA-EW-A1P3																															NONSENSE,Q134*																			
+TCGA-BH-A1FL																															MISSENSE,I102M																			
+11BR009																																NONSENSE,S1437*																		
+TCGA-C8-A12X																																MISSENSE,H1152D																		
+05BR044																																	MISSENSE,E17K																	
+MBCProject_6246																																	MISSENSE,E17K																	
+TCGA-BH-A0W4																																	MISSENSE,E17K																	
+TCGA-E2-A15I																																	MISSENSE,E17K																	
+TCGA-OL-A5RU																																	MISSENSE,E17K																	
+MBCProject_1540																																		MISSENSE,E1266Q																
+MBCProject_5856																																		MISSENSE,H1600P																
+TCGA-BH-A0E1																																			MISSENSE,R864W															
+TCGA-EW-A1PD																																				MISSENSE,H470Q					FRAMESHIFT,I804Ffs*8									
+TCGA-AO-A0JM																																							NONSENSE,R2993*											
+TCGA-B6-A0RL																																							MISSENSE,R2443Q											
+MBCProject_4647																																								MISSENSE,A2414V										
+ASCProject_0026																																										MISSENSE,C1483Y								
+TCGA-D8-A1Y0																																										MISSENSE,W2101L								
+TCGA-BH-A1EN																																											MISSENSE,L1717I							
+TCGA-A8-A085																																													FRAMESHIFT,E260Sfs*15					
+TCGA-E2-A14W																																SILENT,Q717=													FRAMESHIFT,S599*					
+TCGA-E9-A1R2																																													FRAMESHIFT,V2151Ffs*17					
+TCGA-AN-A0AT																																													MISSENSE,E2650Q					
+TCGA-E2-A1IK																																														FRAMESHIFT,H2514Qfs*6				
+TCGA-BH-A0GZ																																														MISSENSE,F1668L				
+TCGA-A1-A0SH																																															NONSENSE,Q934*			
+HCM-CSHL-0655-C50																																																NONSENSE,Q330*		
+TCGA-AR-A0TU																													SILENT,A3468=																				NONSENSE,E1176*	
+TCGA-D8-A1JC																																																	MISSENSE,E1175K	
+ASCProject_0201																																																		FRAMESHIFT,V791Efs*36
+TCGA-AR-A24Z																																																		NONSENSE,E1535*
+11BR043																																SILENT,S1227=																		
+11BR051			SILENT,Q14203=															SILENT,P3101=																																
+ASCProject_0076											SILENT,V1447=																																							
+ASCProject_0202																												SILENT,A2079=																						
+MBCProject_1542																														SILENT,L190=																				
+MBCProject_3692														SILENT,Q405=																																				
+TCGA-A8-A08H							SILENT,L1128=																						SILENT,L5046=																					
+TCGA-AN-A0FK			SILENT,T8689=																																															
+TCGA-BH-A18L			SILENT,S8258=																																															
+TCGA-BH-A18R			SILENT,V8145=																																															
+TCGA-BH-A18S							SILENT,S823=																																											
+TCGA-E2-A1LA																SILENT,E672=																																		
+TCGA-EW-A1J3			SILENT,T12052=																																															

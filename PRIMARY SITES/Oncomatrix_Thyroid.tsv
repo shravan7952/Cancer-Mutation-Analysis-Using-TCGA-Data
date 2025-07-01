@@ -1,0 +1,387 @@
+Case	BRAF	NRAS	HRAS	MUC16	ZFHX3	EIF1AX	KMT2A	AKT1	ATM	KRAS	CUX1	CSMD3	WNK2	KMT2C	PPM1D	ARID2	CHEK2	SGK1	DICER1	PTPRD	NSD1	PIK3CA	ZNRF3	SF3B1	SLC34A2	TNC	MEN1	KMT2D	DNMT3A	TP53	RET	FAT3	IL7R	ATR	FAM135B	ABL2	CTNND2	SETBP1	KAT6B	ALK	FBXO11	ATP1A1	BCL2L12	ASXL1	MAP2K1	GRIN2A	HSP90AA1	EXT1	TRIP11	CDK12
+TCGA-EL-A3T1	MISSENSE,V640E			MISSENSE,G9964R							NONSENSE,E1065*																																							
+TCGA-EL-A3H4	MISSENSE,V640E			MISSENSE,H6006Q																															MISSENSE,S811P															
+TCGA-DJ-A3V4	MISSENSE,V640E			MISSENSE,P10126L																																														
+TCGA-DJ-A3V7	MISSENSE,V640E			MISSENSE,E583Q																																														
+TCGA-EM-A22P	MISSENSE,V640E			MISSENSE,T432N																																														
+TCGA-EL-A3CL	MISSENSE,V640E				FRAMESHIFT,R2988Efs*33																																													
+TCGA-J8-A3YH	MISSENSE,V640E				FRAMESHIFT,K1572Rfs*19																																													
+TCGA-DO-A1K0	MISSENSE,V640E				MISSENSE,H1571R																																													
+TCGA-EM-A22I	MISSENSE,V640E				MISSENSE,P1595A																																													
+TCGA-EM-A2P0	MISSENSE,V640E				MISSENSE,L2474R																																													
+TCGA-FK-A3SB	MISSENSE,V640E				MISSENSE,A1214G																																													
+TCGA-EM-A4FV	MISSENSE,V640E					SPLICE,X113_splice				MISSENSE,Q61K																																								
+TCGA-E8-A418	MISSENSE,V640E						MISSENSE,S3515F	MISSENSE,E17K							FRAMESHIFT,T483Kfs*4																																			
+TCGA-DJ-A13P	MISSENSE,V640E						MISSENSE,D2718V																																											
+TCGA-E8-A419	MISSENSE,V640E						MISSENSE,Q3621H																																											
+TCGA-FY-A3BL	MISSENSE,V640E						MISSENSE,N3061S																																											
+TCGA-MK-A4N6	MISSENSE,V640E						MISSENSE,K2779E																																											
+TCGA-BJ-A4O9	MISSENSE,V640E							MISSENSE,E133D																																										
+TCGA-DE-A4MB	MISSENSE,V640E							MISSENSE,L52R																																										
+TCGA-DJ-A3VJ	MISSENSE,V640E							MISSENSE,E17K																																										
+TCGA-FY-A4B4	MISSENSE,V640E							MISSENSE,E17K																																										
+TCGA-EL-A3CT	MISSENSE,V640E								FRAMESHIFT,E16Nfs*18																																									
+TCGA-EM-A1CT	MISSENSE,V640E								FRAMESHIFT,T1908Kfs*9																																									
+TCGA-EM-A22O	MISSENSE,V640E								MISSENSE,L2132V														MISSENSE,H423R																											
+TCGA-J8-A3YE	MISSENSE,V640E								MISSENSE,T2228I																																									
+TCGA-DJ-A2PW	MISSENSE,V640E											MISSENSE,G1891S		NONSENSE,Q3591*	FRAMESHIFT,S575Cfs*2																																			
+TCGA-ET-A39P	MISSENSE,V640E											MISSENSE,Y2131H																					MISSENSE,R267M																	
+TCGA-BJ-A18Z	MISSENSE,V640E												MISSENSE,S2123N																																					
+TCGA-EM-A2P3	MISSENSE,V640E												MISSENSE,P1555A																																					
+TCGA-EL-A4KG	MISSENSE,V640E													MISSENSE,K3847N																		MISSENSE,E2504K																		
+TCGA-DJ-A2QA	MISSENSE,V640E													MISSENSE,S3213L																																				
+TCGA-ET-A3DU	MISSENSE,V640E													MISSENSE,S2184C																																				
+TCGA-ET-A3BW	MISSENSE,V640E														FRAMESHIFT,C407Vfs*2																																			
+TCGA-4C-A93U	MISSENSE,V640E															FRAMESHIFT,D230Sfs*59																							MISSENSE,R406W											
+TCGA-EM-A4FN	MISSENSE,V640E															FRAMESHIFT,Q1575Sfs*51																																		
+TCGA-E8-A3X7	MISSENSE,V640E																			MISSENSE,Q1836R																														
+TCGA-DJ-A4UW	MISSENSE,V640E																				MISSENSE,N1488S																													
+TCGA-BJ-A3EZ	MISSENSE,V640E																					MISSENSE,M1043I														SILENT,V316=														
+TCGA-EL-A3CR	MISSENSE,V640E																					PROTEINDEL,E110del																												
+TCGA-FE-A3PC	MISSENSE,V640E																					MISSENSE,G118D																												
+TCGA-MK-A4N7	MISSENSE,V640E																						MISSENSE,S659C																											
+TCGA-E8-A433	MISSENSE,V640E																							MISSENSE,T7I																										
+TCGA-L6-A4EP	MISSENSE,V640E																							MISSENSE,M876L																										
+TCGA-ET-A3DW	MISSENSE,V640E				SILENT,S3649=																				FRAMESHIFT,A200Gfs*10																									
+TCGA-BJ-A2NA	MISSENSE,V640E																								MISSENSE,T688M																									
+TCGA-FE-A232	MISSENSE,V640E																								MISSENSE,C622R																									
+TCGA-IM-A41Y	MISSENSE,V640E																									MISSENSE,L1776V																								
+TCGA-DE-A4MD	MISSENSE,V640E																										NONSENSE,Q171*																							
+TCGA-FY-A3ON	MISSENSE,V640E																												FRAMESHIFT,K766Efs*15																					
+TCGA-IM-A3U2	MISSENSE,V640E			SILENT,T7342=																									FRAMESHIFT,E240Sfs*8																					
+TCGA-EL-A3D6	MISSENSE,V640E																													NONSENSE,Q375*																				
+TCGA-DJ-A3VI	MISSENSE,V640E																														MISSENSE,V945M																			
+TCGA-KS-A4I5	MISSENSE,V640E																															MISSENSE,S3347T																		
+TCGA-BJ-A290	MISSENSE,V640E																																MISSENSE,R291T																	
+TCGA-EL-A3D1	MISSENSE,V640E																																MISSENSE,S360G																	
+TCGA-DJ-A4V2	MISSENSE,V640E																																	NONSENSE,Q1073*																
+TCGA-BJ-A0ZB	MISSENSE,V640E																																		MISSENSE,V989A															
+TCGA-ET-A2MY	MISSENSE,V640E																																			NONSENSE,Q1045*														
+TCGA-EL-A3H7	MISSENSE,V640E																																					MISSENSE,E446D												
+TCGA-DJ-A4V4	MISSENSE,V640E																																						MISSENSE,E999Q											
+TCGA-EL-A3GQ	MISSENSE,V640E																																													MISSENSE,V617L				
+TCGA-EL-A3ZO	MISSENSE,V640E																																													MISSENSE,E877K				
+TCGA-EL-A3ZL	MISSENSE,V640E																																															MISSENSE,Y629F		
+TCGA-ET-A3BV	MISSENSE,V640E																																																MISSENSE,E842K	
+TCGA-BJ-A0Z3	MISSENSE,V640E																																																	
+TCGA-BJ-A0Z9	MISSENSE,V640E																																																	
+TCGA-BJ-A0ZH	MISSENSE,V640E			SILENT,V12969=																																														
+TCGA-BJ-A28R	MISSENSE,V640E																																																	
+TCGA-BJ-A28X	MISSENSE,V640E																																																	
+TCGA-BJ-A3PU	MISSENSE,V640E																																																	
+TCGA-BJ-A45H	MISSENSE,V640E																																																	
+TCGA-BJ-A45I	MISSENSE,V640E																																																	
+TCGA-BJ-A45J	MISSENSE,V640E																																																	
+TCGA-BJ-A4O8	MISSENSE,V640E																																																	
+TCGA-CE-A3ME	MISSENSE,V640E																																																	
+TCGA-CE-A483	MISSENSE,V640E																																																	
+TCGA-DE-A0XZ	MISSENSE,V640E																																																	
+TCGA-DE-A0Y3	MISSENSE,V640E																																																	
+TCGA-DE-A4MA	MISSENSE,V640E																																																	
+TCGA-DE-A69J	MISSENSE,V640E																																																	
+TCGA-DE-A7U5	MISSENSE,V640E																																																	
+TCGA-DJ-A13L	MISSENSE,V640E																																																	
+TCGA-DJ-A13O	MISSENSE,V640E																																																	
+TCGA-DJ-A13T	MISSENSE,V640E																																																	
+TCGA-DJ-A13U	MISSENSE,V640E																																																	
+TCGA-DJ-A13V	MISSENSE,V640E			SILENT,L13935=																																														
+TCGA-DJ-A13X	MISSENSE,V640E																																																	
+TCGA-DJ-A1QD	MISSENSE,V640E																																																	
+TCGA-DJ-A1QE	MISSENSE,V640E																																															SILENT,A663=		
+TCGA-DJ-A1QF	MISSENSE,V640E			SILENT,A4321=																																														
+TCGA-DJ-A1QH	MISSENSE,V640E																																																	
+TCGA-DJ-A1QI	MISSENSE,V640E																																																	
+TCGA-DJ-A1QM	MISSENSE,V640E																																																	
+TCGA-DJ-A1QN	MISSENSE,V640E																																																	
+TCGA-DJ-A1QO	MISSENSE,V640E																																																	
+TCGA-DJ-A1QQ	MISSENSE,V640E																																																	
+TCGA-DJ-A2PN	MISSENSE,V640E																																																	
+TCGA-DJ-A2PQ	MISSENSE,V640E																																																	
+TCGA-DJ-A2PR	MISSENSE,V640E																																																	
+TCGA-DJ-A2PS	MISSENSE,V640E																																																	
+TCGA-DJ-A2PT	MISSENSE,V640E																																																	
+TCGA-DJ-A2PU	MISSENSE,V640E																																																	
+TCGA-DJ-A2PV	MISSENSE,V640E																																																	
+TCGA-DJ-A2PY	MISSENSE,V640E																	SILENT,L58=																																
+TCGA-DJ-A2PZ	MISSENSE,V640E																																																	
+TCGA-DJ-A2Q3	MISSENSE,V640E																																																	
+TCGA-DJ-A2Q4	MISSENSE,V640E																																																	
+TCGA-DJ-A2Q5	MISSENSE,V640E																																																	
+TCGA-DJ-A2Q6	MISSENSE,V640E																																																	
+TCGA-DJ-A2Q7	MISSENSE,V640E																																																	
+TCGA-DJ-A2QC	MISSENSE,V640E																																																	
+TCGA-DJ-A3UK	MISSENSE,V640E																																																	
+TCGA-DJ-A3UM	MISSENSE,V640E																																																	
+TCGA-DJ-A3UN	MISSENSE,V640E																																																	
+TCGA-DJ-A3UO	MISSENSE,V640E																																																	
+TCGA-DJ-A3UQ	MISSENSE,V640E																																																	
+TCGA-DJ-A3UR	MISSENSE,V640E																																																	
+TCGA-DJ-A3UU	MISSENSE,V640E																																																	
+TCGA-DJ-A3UW	MISSENSE,V640E																																																	
+TCGA-DJ-A3UX	MISSENSE,V640E																																																	
+TCGA-DJ-A3UY	MISSENSE,V640E																																																	
+TCGA-DJ-A3V0	MISSENSE,V640E																											SILENT,L3677=																						
+TCGA-DJ-A3V2	MISSENSE,V640E																																																	
+TCGA-DJ-A3V5	MISSENSE,V640E																																																	
+TCGA-DJ-A3V6	MISSENSE,V640E																																																	
+TCGA-DJ-A3V8	MISSENSE,V640E																																																	
+TCGA-DJ-A3V9	MISSENSE,V640E																																																	
+TCGA-DJ-A3VA	MISSENSE,V640E																																																	
+TCGA-DJ-A3VB	MISSENSE,V640E																																																	
+TCGA-DJ-A3VD	MISSENSE,V640E																																																	
+TCGA-DJ-A3VE	MISSENSE,V640E																																																	
+TCGA-DJ-A3VF	MISSENSE,V640E																																																	
+TCGA-DJ-A3VL	PROTEINDEL,P530_Q534del																																																	
+TCGA-DJ-A4UL	MISSENSE,V640E																																																	
+TCGA-E3-A3DY	MISSENSE,V640E																																																	
+TCGA-E3-A3E1	MISSENSE,V640E																																																	
+TCGA-E3-A3E2	MISSENSE,V640E																																																	
+TCGA-E3-A3E3	MISSENSE,V640E																																																	
+TCGA-E3-A3E5	MISSENSE,V640E																																																	
+TCGA-E8-A242	MISSENSE,V640E																																																	
+TCGA-E8-A2EA	MISSENSE,V640E																																																	
+TCGA-E8-A2JQ	MISSENSE,V640E																																																	
+TCGA-E8-A413	MISSENSE,V640E																																																	
+TCGA-E8-A414	MISSENSE,V640E																																																	
+TCGA-E8-A415	MISSENSE,V640E																																																	
+TCGA-E8-A417	MISSENSE,V640E				SILENT,V1881=																																													
+TCGA-E8-A434	MISSENSE,V640E																																																	
+TCGA-E8-A436	MISSENSE,V640E																																																	
+TCGA-E8-A437	MISSENSE,V640E																																																	
+TCGA-E8-A44K	MISSENSE,V640E																																																	
+TCGA-EL-A3CM	MISSENSE,V640E																																																	
+TCGA-EL-A3CN	MISSENSE,V640E																																																	
+TCGA-EL-A3CP	MISSENSE,V640E																																																	
+TCGA-EL-A3CU	MISSENSE,V640E																																																	
+TCGA-EL-A3CV	MISSENSE,V640E																																																	
+TCGA-EL-A3D0	MISSENSE,V640E																																																	
+TCGA-EL-A3GP	MISSENSE,V640E																																											SILENT,G742=						
+TCGA-EL-A3GR	MISSENSE,V640E																																																	
+TCGA-EL-A3GS	MISSENSE,V640E																																																	
+TCGA-EL-A3GU	MISSENSE,V640E																																																	
+TCGA-EL-A3GV	MISSENSE,V640E																																																	
+TCGA-EL-A3GX	MISSENSE,V640E																																																	
+TCGA-EL-A3GY	MISSENSE,V640E																																																	
+TCGA-EL-A3GZ	MISSENSE,V640E																																																	
+TCGA-EL-A3H5	MISSENSE,V640E																																																	
+TCGA-EL-A3H8	MISSENSE,V640E																																																	
+TCGA-EL-A3MW	MISSENSE,V640E																																																	
+TCGA-EL-A3MX	MISSENSE,V640E																																																	
+TCGA-EL-A3MY	MISSENSE,V640E																																																	
+TCGA-EL-A3MZ	MISSENSE,V640E																																																	
+TCGA-EL-A3N2	MISSENSE,V640E																																																	
+TCGA-EL-A3N3	MISSENSE,V640E																																																	
+TCGA-EL-A3T3	MISSENSE,V640E																																																	
+TCGA-EL-A3T6	MISSENSE,V640E																																																	
+TCGA-EL-A3T7	MISSENSE,V640E																																																	
+TCGA-EL-A3T8	MISSENSE,V640E																																																	
+TCGA-EL-A3TA	MISSENSE,V640E																																																	
+TCGA-EL-A3ZG	MISSENSE,V640E																																																	
+TCGA-EL-A3ZQ	MISSENSE,V640E																																																	
+TCGA-EL-A3ZT	MISSENSE,V640E																																																	
+TCGA-EL-A4JW	MISSENSE,V640E																																																	
+TCGA-EL-A4JX	MISSENSE,V640E																																																	
+TCGA-EL-A4JZ	MISSENSE,V640E																																																	
+TCGA-EL-A4K0	MISSENSE,V640E																																																	
+TCGA-EL-A4K1	MISSENSE,V640E																																																	
+TCGA-EL-A4K4	MISSENSE,V640E																																																	
+TCGA-EL-A4K7	MISSENSE,V640E																																																	
+TCGA-EL-A4K9	MISSENSE,V640E																																																	
+TCGA-EL-A4KH	MISSENSE,V640E																																																	
+TCGA-EM-A1CU	MISSENSE,V640E																																																	
+TCGA-EM-A1CV	MISSENSE,V640E																																																	
+TCGA-EM-A22M	MISSENSE,V640E																																																	
+TCGA-EM-A2CS	MISSENSE,V640E																																																	
+TCGA-EM-A2OX	MISSENSE,V640E																																																	
+TCGA-EM-A2OZ	MISSENSE,V640E																																																	
+TCGA-EM-A2P1	MISSENSE,V640E																																																	
+TCGA-EM-A2P2	PROTEINDEL,T528_P532del																																																	
+TCGA-EM-A3AK	MISSENSE,V640E																																																	
+TCGA-EM-A3AR	MISSENSE,V640E																																																	
+TCGA-EM-A3FJ	MISSENSE,V640E																																																	
+TCGA-EM-A3FK	MISSENSE,V640E																																																	
+TCGA-EM-A3FM	MISSENSE,V640E																																																	
+TCGA-EM-A3FO	MISSENSE,V640E																																																	
+TCGA-EM-A3O3	MISSENSE,V640E																																																	
+TCGA-EM-A3O7	MISSENSE,V640E																																																	
+TCGA-EM-A3O8	MISSENSE,K641E																																																	
+TCGA-EM-A3SU	MISSENSE,V640E																																																	
+TCGA-EM-A3SX	MISSENSE,V640E																																																	
+TCGA-EM-A3SZ	MISSENSE,V640E																																																	
+TCGA-EM-A4FF	MISSENSE,V640E																																																	
+TCGA-EM-A4FM	MISSENSE,V640E																																																	
+TCGA-EM-A4FO	MISSENSE,V640E																																																	
+TCGA-EM-A4FQ	MISSENSE,V640E																																																	
+TCGA-ET-A25G	MISSENSE,V640E																																																	
+TCGA-ET-A25J	MISSENSE,V640E																																																	
+TCGA-ET-A25K	MISSENSE,V640E																																																	
+TCGA-ET-A25O	MISSENSE,V640E																																																	
+TCGA-ET-A25R	MISSENSE,V640E																																																	
+TCGA-ET-A2MZ	MISSENSE,V640E																																																	
+TCGA-ET-A2N0	MISSENSE,V640E																																																	
+TCGA-ET-A2N4	MISSENSE,V640E																																																	
+TCGA-ET-A39J	MISSENSE,V640E																																																	
+TCGA-ET-A39K	MISSENSE,V640E																																																	
+TCGA-ET-A39M	MISSENSE,V640E																																																	
+TCGA-ET-A39O	MISSENSE,V640E																																																	
+TCGA-ET-A39S	MISSENSE,V640E																																																	
+TCGA-ET-A39T	MISSENSE,V640E																																							SILENT,T686=										
+TCGA-ET-A3BO	MISSENSE,V640E																																																	
+TCGA-ET-A3BP	MISSENSE,V640E																																																	
+TCGA-ET-A3BQ	MISSENSE,V640E																																																	
+TCGA-ET-A3BS	MISSENSE,V640E																																																	
+TCGA-ET-A3BT	MISSENSE,V640E																																																	
+TCGA-ET-A3BU	MISSENSE,V640E																																																	
+TCGA-ET-A3BX	MISSENSE,V640E																																																	
+TCGA-ET-A3DO	MISSENSE,V640E																																																	
+TCGA-ET-A3DP	MISSENSE,V640E																																																	
+TCGA-ET-A3DT	MISSENSE,V640E																																																	
+TCGA-ET-A40Q	MISSENSE,V640E																																																	
+TCGA-ET-A4KQ	MISSENSE,K641E																																																	
+TCGA-FE-A22Z	MISSENSE,V640E																																																	
+TCGA-FE-A230	MISSENSE,V640E																																																	
+TCGA-FE-A231	MISSENSE,V640E																																																	
+TCGA-FE-A233	MISSENSE,V640E																																																	
+TCGA-FE-A234	MISSENSE,V640E																																																	
+TCGA-FE-A235	MISSENSE,V640E																																																	
+TCGA-FE-A236	MISSENSE,V640E																																																	
+TCGA-FE-A237	MISSENSE,V640E																																																	
+TCGA-FE-A23A	MISSENSE,V640E																																																	
+TCGA-FE-A3PB	MISSENSE,V640E																																																	
+TCGA-FK-A3SH	MISSENSE,V640E																														SILENT,E480=																			
+TCGA-FY-A3I4	MISSENSE,V640E																																																	
+TCGA-FY-A3NN	MISSENSE,V640E																																																	
+TCGA-FY-A3R7	MISSENSE,V640E																																																	
+TCGA-FY-A3R8	MISSENSE,V640E																																																	
+TCGA-FY-A3RA	MISSENSE,V640E																																																	
+TCGA-FY-A3TY	MISSENSE,V640E																																																	
+TCGA-FY-A3YR	MISSENSE,V640E																																																	
+TCGA-FY-A40K	MISSENSE,V640E																																																	
+TCGA-FY-A40L	MISSENSE,V640E																																																	
+TCGA-FY-A4B3	MISSENSE,V640E																																																	
+TCGA-GE-A2C6	MISSENSE,V640E																																																	
+TCGA-H2-A26U	MISSENSE,V640E										SILENT,P985=																																							
+TCGA-H2-A3RI	MISSENSE,V640E																																																	
+TCGA-H2-A421	MISSENSE,V640E																																																	
+TCGA-H2-A422	MISSENSE,V640E																																																	
+TCGA-IM-A3EB	MISSENSE,V640E																																																	
+TCGA-IM-A3ED	MISSENSE,V640E																																																	
+TCGA-IM-A3U3	MISSENSE,V640E																																																	
+TCGA-IM-A420	MISSENSE,V640E																																																	
+TCGA-IM-A4EB	MISSENSE,V640E																																																	
+TCGA-J8-A3NZ	MISSENSE,V640E																																																	
+TCGA-J8-A3O2	MISSENSE,V640E																																																	
+TCGA-J8-A3YD	MISSENSE,V640E																																																	
+TCGA-J8-A3YF	MISSENSE,V640E																																																	
+TCGA-J8-A3YG	MISSENSE,V640E																																																	
+TCGA-J8-A42S	MISSENSE,V640E																																																	
+TCGA-J8-A4HY	MISSENSE,V640E																																																	
+TCGA-KS-A41F	MISSENSE,V640E																																																	
+TCGA-KS-A4I1	MISSENSE,V640E																																																	
+TCGA-KS-A4I3	MISSENSE,V640E																																																	
+TCGA-KS-A4I7	MISSENSE,V640E																																																	
+TCGA-KS-A4I9	MISSENSE,V640E																																																	
+TCGA-KS-A4IC	MISSENSE,V640E																																																	
+TCGA-L6-A4EQ	MISSENSE,V640E																																																	
+TCGA-L6-A4ET	MISSENSE,V640E																																																	
+TCGA-L6-A4EU	MISSENSE,V640E				SILENT,S3585=																																													
+TCGA-MK-A4N9	MISSENSE,V640E																																																	
+TCGA-EM-A3ST		MISSENSE,Q61K				NONSENSE,G124*							MISSENSE,H422Y																																					
+TCGA-EL-A3ZH		MISSENSE,Q61R					MISSENSE,N1653T																																											
+TCGA-BJ-A3PT		MISSENSE,Q61R															NONSENSE,Y390*																																	
+TCGA-DJ-A1QG		MISSENSE,Q61R															MISSENSE,L391F																																	
+TCGA-EM-A2CT		MISSENSE,Q61R																	MISSENSE,R1906S																															
+TCGA-EL-A4K6		MISSENSE,Q61K																																			MISSENSE,L679P				SILENT,C183=									
+TCGA-BJ-A2N7		MISSENSE,Q61R																																																
+TCGA-BJ-A2N8		MISSENSE,Q61R																																																
+TCGA-BJ-A45F		MISSENSE,Q61R																																																
+TCGA-BJ-A45G		MISSENSE,Q61R																																																
+TCGA-DJ-A13S		MISSENSE,Q61R																																																
+TCGA-DJ-A2PP		MISSENSE,Q61R																																																
+TCGA-DJ-A3UP		MISSENSE,Q61R																																																
+TCGA-DJ-A3UT		MISSENSE,Q61R																																																
+TCGA-DJ-A3VG		MISSENSE,Q61R																																																
+TCGA-DJ-A4UR		MISSENSE,Q61R																																																
+TCGA-EL-A3GW		MISSENSE,Q61R																																																
+TCGA-EL-A3T2		MISSENSE,Q61R																																																
+TCGA-EL-A4K2		MISSENSE,Q61R																																																
+TCGA-EL-A4KI		MISSENSE,Q61R																																																
+TCGA-EM-A22J		MISSENSE,Q61R																																																
+TCGA-EM-A22L		MISSENSE,Q61K																																																
+TCGA-EM-A22Q		MISSENSE,Q61K																																																
+TCGA-EM-A2CN		MISSENSE,Q61R																														SILENT,S3689=																		
+TCGA-EM-A2CR		MISSENSE,Q61R																																																
+TCGA-EM-A3AP		MISSENSE,Q61K																																																
+TCGA-EM-A3OA		MISSENSE,Q61K																																																
+TCGA-EM-A3OB		MISSENSE,Q61R																																																
+TCGA-EM-A4FK		MISSENSE,Q61R																																																
+TCGA-EM-A4FU		MISSENSE,Q61R																																																
+TCGA-EM-A4G1		MISSENSE,Q61R																																																
+TCGA-ET-A25I		MISSENSE,Q61K																																																
+TCGA-FY-A3NP		MISSENSE,Q61R																																																
+TCGA-FY-A3R9		MISSENSE,Q61K										SILENT,A3333=																																						
+TCGA-FY-A3W9		MISSENSE,Q61R																																																
+TCGA-H2-A2K9		MISSENSE,Q61R																																																
+TCGA-J8-A3O0		MISSENSE,Q61R																																																
+TCGA-KS-A41I		MISSENSE,Q61R																																																
+TCGA-QD-A8IV		MISSENSE,Q61R																																																
+TCGA-BJ-A0Z2			MISSENSE,Q61R	MISSENSE,P10725R																																														
+TCGA-ET-A40P			MISSENSE,Q61R										MISSENSE,P793L																																					
+TCGA-ET-A2N5			MISSENSE,Q61R																																									MISSENSE,G1299D						
+TCGA-BJ-A18Y			MISSENSE,Q61K																																															
+TCGA-BJ-A2P4			MISSENSE,Q61R																																															
+TCGA-BJ-A45D			MISSENSE,Q61R																																															
+TCGA-DJ-A13M			MISSENSE,Q61R																																															
+TCGA-DJ-A2QB			MISSENSE,Q61R																																															
+TCGA-E3-A3DZ			MISSENSE,Q61K																																															
+TCGA-EL-A3CZ			MISSENSE,Q61R																																															
+TCGA-EL-A3ZR			MISSENSE,Q61R																																															
+TCGA-EL-A4JV			MISSENSE,Q61R																																															
+TCGA-EM-A22K			MISSENSE,Q61K																																															
+TCGA-EM-A2CK			MISSENSE,Q61R																																															
+TCGA-EM-A2CM			MISSENSE,Q61R																																															
+TCGA-ET-A39I			MISSENSE,Q61R																																															
+TCGA-MK-A84Z			MISSENSE,Q61R																																															
+TCGA-EM-A3FR				MISSENSE,T4156A																																														
+TCGA-EM-A1YA						SPLICE,X113_splice																																												
+TCGA-BJ-A0ZG						MISSENSE,G9D																																												
+TCGA-EL-A3CO						MISSENSE,G9D																																												
+TCGA-EM-A2CL						MISSENSE,G9R																																												
+TCGA-EM-A3FN						MISSENSE,G8R																																												
+TCGA-EM-A1YC									MISSENSE,W2845C																																									
+TCGA-BJ-A0ZE										MISSENSE,Q61R																	FRAMESHIFT,L173Wfs*17																							
+TCGA-EM-A2CQ										MISSENSE,G12V																																								
+TCGA-H2-A3RH										MISSENSE,Q61K																																								
+TCGA-DE-A69K											SPLICE,X225_splice																																							
+TCGA-KS-A4IB											MISSENSE,V1195L						MISSENSE,H143Q														SILENT,P320=																			
+TCGA-EM-A3AI												MISSENSE,P1534S																																						
+TCGA-DJ-A1QL															FRAMESHIFT,C478*																																			
+TCGA-DO-A2HM																NONSENSE,Q1031*																									MISSENSE,R677T									
+TCGA-EM-A2OV																FRAMESHIFT,G727Rfs*5																																		
+TCGA-CE-A484																	MISSENSE,N186S																																	
+TCGA-GR-7351																		MISSENSE,L68F		MISSENSE,E1510D			MISSENSE,D550N	MISSENSE,T434A											SILENT,F1095=												SILENT,A141=			
+TCGA-FF-8062																		MISSENSE,A133P																											MISSENSE,F53L					
+TCGA-EL-A3D5																			FRAMESHIFT,S82Ifs*45											FRAMESHIFT,E343Afs*3																				
+TCGA-EL-A3GO																			FRAMESHIFT,K376Nfs*11																															
+TCGA-BJ-A0ZF																				MISSENSE,A1194T																														
+TCGA-BJ-A28V																					FRAMESHIFT,T2395Nfs*2																													
+TCGA-DJ-A4UQ																					MISSENSE,L2418F																													
+TCGA-ET-A39L																										MISSENSE,A2201T																								
+TCGA-E8-A432																												MISSENSE,P711L																						
+TCGA-ET-A2MX																										SILENT,H195=		MISSENSE,E1527K																						
+TCGA-FY-A3NM																													MISSENSE,P195L																					
+TCGA-EM-A1YB																														NONSENSE,Q192*							MISSENSE,Q1161E													
+TCGA-BJ-A28S																																		MISSENSE,L1013V																
+TCGA-DJ-A2PO																																						MISSENSE,D61V												
+TCGA-FK-A3S3																																								MISSENSE,P693S										
+TCGA-DJ-A2Q2																																										MISSENSE,V332G								
+TCGA-DJ-A4UT																																											MISSENSE,E30K							
+TCGA-FY-A3WA																																											MISSENSE,S156C							
+TCGA-FY-A76V																																													PROTEINDEL,E102_I103del					
+TCGA-KS-A4ID																																															NONSENSE,E509*			
+TCGA-FK-A4UB																																																	MISSENSE,I211V	
+TCGA-EM-A3O9																																																		MISSENSE,E1162K
+TCGA-DJ-A2Q1																																		SILENT,L537=																
+TCGA-EM-A2CJ				SILENT,G10876=																																														
+TCGA-EM-A3O6																																										SILENT,A73=								
+TCGA-FE-A3PA																											SILENT,K501=																							

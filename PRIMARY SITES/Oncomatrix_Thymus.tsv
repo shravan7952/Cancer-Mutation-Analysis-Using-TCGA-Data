@@ -1,0 +1,32 @@
+Case	HRAS	MUC16	TP53	EP300	ASXL1	CYLD	CTNND2	PTPRD	FAT4	NRAS	BCOR	CLTC	ARHGAP5	RNF213	PBRM1	DCAF12L2	BAZ1A	ERBB2	CLIP1	IRS4	DDX10	EML4	TPM3	EIF1AX	BRAF	CRTC1	PHOX2B	EXT1	LIFR	MAP3K13	SFPQ	PTCH1	MB21D2	SLC34A2	PAX7	AFDN	SETD2	SMARCA4	BRCA2	KRAS	PDE4DIP	NBEA	STAG1	FGFR3	TPM4	NRG1	MECOM	SF3B1	MYH11	BIRC6
+TCGA-ZB-A965	MISSENSE,G13V	NONSENSE,S7900*																							FRAMESHIFT,P443Lfs*8		MISSENSE,N302S																							
+TCGA-XU-A92Q	MISSENSE,L120P	MISSENSE,Y13272H																																																
+TCGA-ZB-A96E	PROTEININS,G13du										FRAMESHIFT,R1681Sfs*35																																							
+TCGA-XU-A92T	MISSENSE,G13V																												MISSENSE,Y79N																					
+TCGA-3G-AB19	MISSENSE,K117R																																																	
+TCGA-XM-A8RG	MISSENSE,G60V																																																	
+TCGA-ZL-A9V6	MISSENSE,K117N																																																	
+TCGA-XU-A933		MISSENSE,L12688I					FRAMESHIFT,Q281Pfs*46																																											
+TCGA-XU-A92Z		MISSENSE,V1103I								MISSENSE,Q61R																												MISSENSE,G1128V												
+TCGA-3S-A8YW			FRAMESHIFT,D281Afs*64																																															
+TCGA-ZB-A966			MISSENSE,R273C	MISSENSE,V1344M	FRAMESHIFT,G645Vfs*58	FRAMESHIFT,N722Mfs*13			FRAMESHIFT,A3140Cfs*16				FRAMESHIFT,N943Kfs*10		FRAMESHIFT,K909Nfs*6		FRAMESHIFT,A74Qfs*12	MISSENSE,P802S		MISSENSE,A42T						FRAMESHIFT,S572Afs*6				MISSENSE,R589H			FRAMESHIFT,L458Tfs*7	MISSENSE,A396T			MISSENSE,F1668S		MISSENSE,M3118V											
+TCGA-4V-A9QJ			MISSENSE,L194R																									MISSENSE,D647G																						
+TCGA-3G-AB14			MISSENSE,R248L																																															
+TCGA-XU-AAY1				MISSENSE,W1122L																																														
+TCGA-XU-A930					FRAMESHIFT,G645Vfs*58																																													
+TCGA-ZC-AAA7						MISSENSE,S673L		MISSENSE,R139C																							MISSENSE,Y320C				MISSENSE,L487F	MISSENSE,D943N														
+TCGA-XU-A92O							MISSENSE,D791Y			MISSENSE,Q61K									MISSENSE,S204L																															
+TCGA-X7-A8DD								MISSENSE,R1898H																																										
+TCGA-ZB-A96K									MISSENSE,Q2755L																																									
+TCGA-XM-A8RI											NONSENSE,R810*																																							
+TCGA-3G-AB0Q												MISSENSE,R610P																																						
+TCGA-XM-A8RB												MISSENSE,E586D																																						
+TCGA-4X-A9FA													MISSENSE,S1144R																																					
+TCGA-X7-A8M0														NONSENSE,E996*																																				
+TCGA-X7-A8M5																MISSENSE,W196C																																		
+TCGA-X7-A8DC																					MISSENSE,G503V																													
+TCGA-XM-A8RH																						MISSENSE,S483I																												
+TCGA-ZB-A96L																							MISSENSE,K232N																											
+TCGA-3Q-A9WF																								MISSENSE,G6S																										
+TCGA-X7-A8D8																																MISSENSE,E405K																		
+TCGA-ZB-A96H																																								MISSENSE,G12D										

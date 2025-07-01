@@ -1,0 +1,79 @@
+Case	TP53	MUC16	ATRX	RB1	CSMD3	FAT1	SETD2	MUC4	MET	KDR	DCC	PTEN	COL1A1	PTPRB	ATM	ZFHX3	BRAF	CNTNAP2	ARHGEF12	GRIN2A	ITGAV	KMT2A	ANK1	MAP3K13	CTNND2	BCR	SMARCA4	FAM131B	BCOR	CDH1	USP6	TRRAP	STAG1	VAV1	IL6ST	NF1	EIF3E	SALL4	JAK1	MPL	CLTCL1	FLT4	TCF12	ERC1	KIAA1549	MYCN	PTPRD	ZEB1	AKAP9	EIF4A2
+TCGA-CQ-A4CD	FRAMESHIFT,L383Cfs*38	MISSENSE,F12972L				FRAMESHIFT,L777Ffs*5																																												
+TARGET-40-PASEFS	NONSENSE,Q331*		FRAMESHIFT,S719Ifs*2												MISSENSE,E2037K																															MISSENSE,S399F				
+TARGET-40-PASSLM	SPLICE,X261_splice		FRAMESHIFT,V957Sfs*7																	MISSENSE,R1376C				MISSENSE,R188L																										
+TARGET-40-PASNZV	FRAMESHIFT,V122Sfs*3			NONSENSE,R552*																																														
+TARGET-40-NAASJI	SPLICE,X125_splice																SILENT,E59=																								MISSENSE,V1071I		SILENT,G128=							
+TARGET-40-0A4I48	FRAMESHIFT,V122Dfs*26																																																	
+TARGET-40-0A4I4E	SPLICE,X187_splice																																																	
+TARGET-40-PASKZZ	FRAMESHIFT,P152Rfs*18																																																	
+TARGET-40-0A4I9K	MISSENSE,D281N	MISSENSE,E7648A					NONSENSE,Q1931*																																											
+TARGET-40-PATPBS	MISSENSE,R282W	MISSENSE,L13511I																														MISSENSE,R1170Q																		
+TARGET-40-0A4I6O	MISSENSE,M133K	MISSENSE,F10618V																																																
+TARGET-40-PAMHLF	MISSENSE,Y220C	MISSENSE,M82I																																																
+TARGET-40-NAAGJP	MISSENSE,R282W		NONSENSE,R781*																											SILENT,E682=																				
+HCM-BROD-0038-C41	MISSENSE,R273H		MISSENSE,Q1105E										SILENT,G1151=																		SILENT,P1125=																			
+TARGET-40-PARDAX	MISSENSE,V216M			NONSENSE,R556*																																														
+TARGET-40-0A4HX8	MISSENSE,V157F				MISSENSE,P889T	MISSENSE,F4371S	MISSENSE,S551R												MISSENSE,E1371G																															
+TARGET-40-PAKXLD	MISSENSE,R273H													MISSENSE,A1916V																								MISSENSE,T420S												
+TARGET-40-PAKZZK	MISSENSE,R282W																															FRAMESHIFT,A1620Cfs*35																		
+HCM-BROD-0121-C41	MISSENSE,R273C																																		FRAMESHIFT,N642Sfs*4				MISSENSE,M109I											
+TARGET-40-0A4HLD	MISSENSE,P278S																											SILENT,K311=																						
+TARGET-40-NAAGKM	MISSENSE,G105V																				SILENT,G879=																													
+TARGET-40-PAMJXS	MISSENSE,C275Y																																																	
+TARGET-40-PAPVYW	MISSENSE,R273H																																																	
+TARGET-40-0A4I3W		NONSENSE,E9304*									MISSENSE,Q559E																																	MISSENSE,E445D						
+TARGET-40-PANZZJ		NONSENSE,E1449*																																	FRAMESHIFT,V530*															
+TARGET-40-PATUXZ		MISSENSE,S1525I	MISSENSE,M1800K												SILENT,A1911=											SILENT,L25=																								
+TARGET-40-PAPNVD		MISSENSE,D9497Y				MISSENSE,D2622N																											MISSENSE,R175H																	
+TCGA-ER-A2NC		MISSENSE,G9084S									MISSENSE,E586K			MISSENSE,G189E			MISSENSE,V640E					MISSENSE,A1924T			SILENT,I756=	NONSENSE,Q610*																			MISSENSE,S1725F		SILENT,I1605=			
+TARGET-40-NAAGJT		MISSENSE,M6917T																MISSENSE,K1326N																																
+TARGET-40-PAMYYJ			FRAMESHIFT,C1122Lfs*8	FRAMESHIFT,K574Ifs*11																														SILENT,L432=																
+TARGET-40-PANMIG			SPLICE,X1929_splice					PROTEINDEL,S1136_T1151del																																										
+TARGET-40-PALKDP			MISSENSE,P36A				MISSENSE,D2400N																		SILENT,N949=																									
+TARGET-40-PATMXR			MISSENSE,E1522K																																															
+TARGET-40-NAAIBU				FRAMESHIFT,A74Efs*4										MISSENSE,M235T																																				
+TARGET-40-0A4I0W				FRAMESHIFT,L64Ffs*46																																														
+TARGET-40-PAKUZU				NONSENSE,Y749*																																														
+TARGET-40-PAMRHD				PROTEINDEL,L719del				MISSENSE,S3799Y																																										
+TARGET-40-0A4I4O					MISSENSE,I865F				MISSENSE,S290Y																																									
+TARGET-40-0A4I8O					MISSENSE,R22Q																																													
+TARGET-40-PAKFVX		SILENT,T722=			MISSENSE,L1600F																																													
+TARGET-40-PAPWWC					MISSENSE,D2341V																																													
+TARGET-40-NAAGKG						MISSENSE,G1895A							SPLICE,X889_splice																																					
+TARGET-40-PATAWV								MISSENSE,H1133Q																																										
+TCGA-DX-A3UA									MISSENSE,V378I																														MISSENSE,G887W										MISSENSE,A2706V	
+TARGET-40-PAPIJR									MISSENSE,A361V																																									
+TARGET-40-NAAGJV										MISSENSE,G1284A																																								
+TARGET-40-PANGPE										MISSENSE,R1066H																																								
+TARGET-40-PANGRW										MISSENSE,D1171N																																								
+TARGET-40-PALHRL												FRAMESHIFT,T131Mfs*44																																						
+TARGET-40-PAPXGT												FRAMESHIFT,C250Wfs*2																																						
+TARGET-40-NAAIBW												MISSENSE,H64P																																						
+TARGET-40-PAMTCM													MISSENSE,A160V																											MISSENSE,C583R										
+TARGET-40-0A4I8U															MISSENSE,V2705I																										SILENT,L1570=									
+TARGET-40-PARJXU																NONSENSE,Y1960*													MISSENSE,S1358P	MISSENSE,V694D																				
+TARGET-40-PALZGU																MISSENSE,G1319V																					MISSENSE,Q247P													
+TARGET-40-0A4HY5																MISSENSE,D2967N																																		
+TARGET-40-PASRNE																		MISSENSE,K750N					MISSENSE,A1346S																						MISSENSE,A915S					
+TARGET-40-0A4I65																			MISSENSE,E238D																															
+TARGET-40-PARBGW																						FRAMESHIFT,Q554Pfs*27							FRAMESHIFT,K839Qfs*5																					
+TARGET-40-0A4HXS																								MISSENSE,V955A																										
+TARGET-40-PASUUH																											MISSENSE,R1203H																							
+TARGET-40-NAAGKC																												MISSENSE,S114C																						
+TARGET-30-PAPTJB								SILENT,L19=																							MISSENSE,A1265S											MISSENSE,P1322H								
+TARGET-40-PATEEM																																	NONSENSE,E634*																	
+HCM-BROD-0035-C49							SILENT,G613=																													FRAMESHIFT,Y1369Ifs*11														
+TARGET-40-0A4HXO																																				MISSENSE,R711H														
+TARGET-40-PANZHX																																					MISSENSE,R155T													
+TCGA-RQ-A6JB																					SILENT,E857=																	MISSENSE,S276R										SILENT,S984=		
+TARGET-40-NAAGJY																																								MISSENSE,S415F										
+TARGET-40-NAASJK																																										MISSENSE,R283C								
+TARGET-40-NAAGJK																																											MISSENSE,V419E							
+TARGET-40-NAAGJX																																												MISSENSE,R816P						
+TARGET-40-NAAGJS					SILENT,I2469=															SILENT,G92=																														
+TARGET-40-NAAGKL		SILENT,G12647=																																																
+TARGET-40-PANPUM																																		SILENT,R90=																
+TARGET-40-PANSEN																							SILENT,G1459=																											
+TARGET-40-PASEBY																											SILENT,R1356=																							
+TARGET-40-PATMPU											SILENT,R756=																																							

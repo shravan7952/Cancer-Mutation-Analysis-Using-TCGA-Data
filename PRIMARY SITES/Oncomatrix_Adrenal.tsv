@@ -1,0 +1,156 @@
+Case	MUC16	NF1	HRAS	TP53	ALK	CTNNB1	FAT3	KMT2D	RET	LRP1B	FAT1	FAT4	MEN1	ATRX	ATM	PRKAR1A	ROBO2	CSMD3	SETBP1	PTPRD	DAXX	KMT2A	TNC	LATS2	SMC1A	EPAS1	RANBP2	BCORL1	ZNRF3	UBR5	IRS4	CUX1	APC	EGFR	VAV1	ZFHX3	PTPRT	ERBB4	PDE4DIP	GNAS	ATP2B3	CTNND2	RPL22	NSD1	PIK3CA	WT1	SF3B1	BCR	XPC	PML
+TARGET-30-PATEPF	NONSENSE,S8277*																								MISSENSE,V1186L																									
+TCGA-PK-A5HB	MISSENSE,T2285A	NONSENSE,Q2002*		SPLICE,X307_splice				MISSENSE,T5429A		MISSENSE,H1004Y	MISSENSE,D3242G	MISSENSE,N3698S					SILENT,H97=	SILENT,P302=															MISSENSE,R2543K				MISSENSE,Y1329S	MISSENSE,D218G	SILENT,G1730=				FRAMESHIFT,K15Rfs*5					SILENT,E967=		
+TCGA-OR-A5JB	MISSENSE,E9292D	NONSENSE,Q1235*										MISSENSE,A389S					MISSENSE,A1138S	MISSENSE,A11E	MISSENSE,G265C																	FRAMESHIFT,P2452Qfs*76											MISSENSE,M1231T			
+TCGA-QR-A6GW	MISSENSE,D3529N		MISSENSE,Q61R																					SILENT,L886=			NONSENSE,W2404*																							
+TCGA-PK-A5HC	MISSENSE,S496R			FRAMESHIFT,V73Rfs*76																		MISSENSE,R2743T																												
+TCGA-OR-A5JG	MISSENSE,D10092G			SPLICE,X125_splice																																														
+TCGA-OR-A5KB	MISSENSE,G8303C			MISSENSE,V173L	FRAMESHIFT,P381Qfs*42		FRAMESHIFT,V4280Rfs*33		MISSENSE,G597V	MISSENSE,T3718K	MISSENSE,R2832M	NONSENSE,R2844*			MISSENSE,S3027I		MISSENSE,S450R	NONSENSE,Y118*		MISSENSE,E70D							MISSENSE,L2360F	MISSENSE,L162F			MISSENSE,P873L	MISSENSE,Q721H	MISSENSE,R1435T		FRAMESHIFT,G779Efs*82		MISSENSE,G555C	MISSENSE,G130V	NONSENSE,G2272*		NONSENSE,S254*	SILENT,T455=				MISSENSE,Q425H				
+TCGA-OR-A5J5	MISSENSE,T10826M			MISSENSE,R273C				FRAMESHIFT,P2354Lfs*30	SILENT,D1031=																			FRAMESHIFT,K769Rfs*14	MISSENSE,R307W						MISSENSE,R545H						MISSENSE,R252C		FRAMESHIFT,K15Rfs*5	MISSENSE,R1074C						
+TCGA-PK-A5HA	MISSENSE,S11389L							MISSENSE,Y4867C																																										
+TCGA-RW-A8AZ	MISSENSE,F13519L										MISSENSE,T3936K			FRAMESHIFT,D972Rfs*30		SPLICE,X168_splice																														MISSENSE,H247N				
+TCGA-OR-A5KY	MISSENSE,S9707R												NONSENSE,R420*																FRAMESHIFT,L191Qfs*19																					
+TCGA-WB-A820	MISSENSE,P8968S													FRAMESHIFT,R1302Kfs*7																																				
+TCGA-OR-A5LO	MISSENSE,E7146Q															SPLICE,X168_splice																																		
+TCGA-OR-A5JV	MISSENSE,G6436V																MISSENSE,T164S																																	
+TCGA-OR-A5L6	MISSENSE,S8099C																			MISSENSE,T998K																														
+TCGA-OR-A5K8	MISSENSE,T8997K																				NONSENSE,Q310*											MISSENSE,V290A																		
+TARGET-30-PALUDH	MISSENSE,E12105K																																	MISSENSE,P641H																
+TARGET-30-PASEGA	MISSENSE,N5863H																																														MISSENSE,L1065I			
+TARGET-30-PAKVUY	MISSENSE,S4325I																																																	
+TARGET-30-PAPPKJ	MISSENSE,A10290T						SILENT,N3337=																																											
+TARGET-30-PASGUT	MISSENSE,C13707F																																																	
+TCGA-OR-A5LD	MISSENSE,T11966S																																																	
+TCGA-OR-A5LR	MISSENSE,S8065G																																																	
+TCGA-QT-A5XO	MISSENSE,M1492I																																																	
+TCGA-S7-A7X1	MISSENSE,P5984Q																																																	
+TCGA-OR-A5JP		NONSENSE,E2155*		FRAMESHIFT,E339Afs*8																																														
+TCGA-OR-A5KZ		SPLICE,X775_splice		PROTEINDEL,E180_D184del																														MISSENSE,V159M																
+TCGA-WB-A81P		FRAMESHIFT,V2410Efs*7																	MISSENSE,S716N																															
+TCGA-OR-A5JW		FRAMESHIFT,N1861Kfs*6																																																
+TCGA-OR-A5LF		FRAMESHIFT,R1970Efs*9																							SILENT,A219=																									
+TCGA-QR-A6GS		SPLICE,X509_splice																																																
+TCGA-QR-A70V		FRAMESHIFT,S1754Lfs*11																																																
+TCGA-RW-A67Y		NONSENSE,Q400*																																																
+TCGA-RW-A688		FRAMESHIFT,K189Nfs*2																																																
+TCGA-RW-A689		FRAMESHIFT,G1532Efs*42																																																
+TCGA-RW-A7D0		NONSENSE,S413*																																																
+TCGA-S7-A7WL		FRAMESHIFT,K428Nfs*41																																																
+TCGA-S7-A7WM		FRAMESHIFT,L492Ffs*7																																																
+TCGA-SQ-A6I6		FRAMESHIFT,K874*																																																
+TCGA-TT-A6YJ		SPLICE,X574_splice																																																
+TCGA-WB-A818		FRAMESHIFT,P2310Sfs*16																																																
+TCGA-WB-A81H		FRAMESHIFT,N1004Ifs*3																																																
+TCGA-WB-A81V		FRAMESHIFT,F1346Sfs*27																																																
+TCGA-RT-A6YA		MISSENSE,R997T																																																
+TCGA-RW-A685		MISSENSE,W784R																																																
+TCGA-P8-A5KD			MISSENSE,Q61R																																															
+TCGA-PR-A5PG			MISSENSE,G13R																																															
+TCGA-QR-A6H4			MISSENSE,Q61R																																															
+TCGA-QR-A70M			MISSENSE,Q61R																																															
+TCGA-QR-A70W			MISSENSE,Q61R																																															
+TCGA-S7-A7WN			MISSENSE,Q61R																																															
+TCGA-S7-A7WR			MISSENSE,Q61K																																															
+TCGA-SP-A6QF			MISSENSE,Q61K																																															
+TCGA-SP-A6QJ			MISSENSE,Q61R																																															
+TCGA-SR-A6MY			MISSENSE,Q61R																																															
+TCGA-W2-A7HC			MISSENSE,Q61R																																															
+TCGA-W2-A7HD			MISSENSE,Q61R																																															
+TCGA-WB-A80N			MISSENSE,Q61L																																															
+TCGA-WB-A80O			MISSENSE,Q61R																																										SILENT,R230=					
+TCGA-WB-A81R			MISSENSE,Q61R																																															
+TCGA-WB-A81T			MISSENSE,Q61R																																															
+TCGA-OR-A5J2				FRAMESHIFT,H168Cfs*8		NONSENSE,Y30*				MISSENSE,C2489F																																								
+TCGA-OR-A5LJ				NONSENSE,R213*		MISSENSE,G34E	SILENT,C4299=								SILENT,S875=		MISSENSE,Y668C													FRAMESHIFT,E2121Kfs*28											MISSENSE,R537H									
+TCGA-OR-A5JL				FRAMESHIFT,R335Lfs*10												FRAMESHIFT,E44Dfs*77																																		
+TCGA-OR-A5LE				FRAMESHIFT,P27Lfs*17																													MISSENSE,N125S																	
+TCGA-OR-A5KO				NONSENSE,E339*				SILENT,P638=																	SILENT,R747=																									
+TCGA-OR-A5JJ				MISSENSE,C275S		MISSENSE,S45F														MISSENSE,S150I	MISSENSE,R362P																													
+TCGA-OR-A5K4				MISSENSE,R337H				SILENT,L5192=			MISSENSE,T439K				NONSENSE,R23*				MISSENSE,V657M									SILENT,Y1692=																						
+TCGA-OR-A5J4					SPLICE,X1172_splice			MISSENSE,P754A	MISSENSE,V425A													MISSENSE,D877H																												
+TARGET-30-PARURB					MISSENSE,R1275Q																		MISSENSE,N1476S																											
+TARGET-30-PALAKE					MISSENSE,F1174L																						NONSENSE,E2678*																							
+TARGET-30-PAKXDZ					MISSENSE,I1171N																			SILENT,L893=																										
+TARGET-30-PANZVU	SILENT,G3470=				MISSENSE,F1174L																																													
+TARGET-30-PAPTFZ					MISSENSE,R1275Q																		SILENT,C567=																											
+TARGET-30-PAPTLV					MISSENSE,R1275Q																																													
+TARGET-30-PARKNP					MISSENSE,F1174L																			SILENT,Y694=																										
+TARGET-30-PARLTG					MISSENSE,F1174C																																													
+TARGET-30-PATFCY					MISSENSE,L1240V																																													
+TCGA-QR-A6ZZ					MISSENSE,A436V																																													
+TCGA-OR-A5K6						FRAMESHIFT,A39Efs*3						MISSENSE,D3188N	FRAMESHIFT,E364Vfs*6																																					
+TCGA-OR-A5JM						PROTEINDEL,S45del									SPLICE,X633_splice																																			
+TCGA-OR-A5JY						MISSENSE,S45P										NONSENSE,E108*						MISSENSE,K1919N																												
+TCGA-OR-A5L3						MISSENSE,S45P										SPLICE,X168_splice																																		
+TCGA-OR-A5JS						MISSENSE,G34R														MISSENSE,K1464N																														
+TCGA-OR-A5K5						MISSENSE,G34V												SILENT,V2624=					MISSENSE,A1987V		SILENT,Q1008=						SILENT,L43=											MISSENSE,C910W								
+TCGA-OR-A5K9						PROTEINDEL,S45_P52del																					MISSENSE,P1137S										SILENT,V1357=	MISSENSE,P224L												
+TCGA-OR-A5KU						MISSENSE,T41A																																												
+TCGA-OR-A5L1						MISSENSE,S45P																																												
+TCGA-OR-A5L8						MISSENSE,S45P																														SILENT,G176=														
+TCGA-P6-A5OH							MISSENSE,E4527D												MISSENSE,V761M																															
+TCGA-P6-A5OG							MISSENSE,R1344S																																					MISSENSE,R2360W						
+TCGA-OR-A5J8					SILENT,H368=		MISSENSE,L2264I																																								MISSENSE,V184F			
+TARGET-30-PARVNT							MISSENSE,I3883L																																										MISSENSE,K20I	
+TARGET-30-PARASL								MISSENSE,G5505R													MISSENSE,P643S																													
+TCGA-XG-A823								MISSENSE,L5281R																																										
+TCGA-SP-A6QK									MISSENSE,C515S		MISSENSE,D3432N																																							
+TCGA-QT-A5XK									MISSENSE,M918T																																									
+TCGA-QT-A5XM									MISSENSE,M918T																																									
+TCGA-WB-A80V									MISSENSE,M918T																																									
+TCGA-WB-A819									MISSENSE,M918T																																									
+TARGET-30-PALEVG										MISSENSE,V4451L																																								
+TARGET-30-PALWVJ										MISSENSE,G1411C																																								
+TARGET-30-PAPWFY											MISSENSE,S3526P																																							
+TCGA-OR-A5LB												FRAMESHIFT,D2544Mfs*13									FRAMESHIFT,R394Sfs*22				PROTEINDEL,E381del				FRAMESHIFT,V394Sfs*4	MISSENSE,A1762D					MISSENSE,V163M								PROTEINDEL,K93del	NONSENSE,R1700*						NONSENSE,Q248*
+TCGA-WB-A81K												MISSENSE,T4308S																																						
+TCGA-OR-A5LT													FRAMESHIFT,I85Sfs*33		FRAMESHIFT,T1011Kfs*7																																			
+TCGA-P6-A5OF													NONSENSE,W270*																NONSENSE,E339*		SILENT,P139=																			
+TCGA-OR-A5KW													NONSENSE,Y317*																																					
+TARGET-30-PASUYG													MISSENSE,E561K																																					
+TCGA-OR-A5K0														NONSENSE,K467*																				MISSENSE,R377K																
+TCGA-OR-A5KT														NONSENSE,Q476*																																				
+TARGET-30-PALXHW														MISSENSE,S2017P																																				
+TCGA-OR-A5JF														MISSENSE,N1754K																																				
+TCGA-OR-A5KP															FRAMESHIFT,S629Tfs*20																																			
+TCGA-OR-A5LH																FRAMESHIFT,Q371Sfs*70																																		
+TCGA-QR-A70U																	MISSENSE,S607R																																	
+TCGA-OR-A5LC																		MISSENSE,P184S										NONSENSE,R1196*																						
+TCGA-QR-A700																			MISSENSE,M1128V																															
+TCGA-RW-A68C																				MISSENSE,A1413D																														
+TCGA-OR-A5JE							SILENT,V4536=														FRAMESHIFT,C240*																			MISSENSE,G304W		MISSENSE,R1047Q								
+TARGET-30-PAIVHE																						FRAMESHIFT,R3841Hfs*7																												
+TARGET-30-PAMZGT																							MISSENSE,C146F																											
+TARGET-30-PATHVK																								MISSENSE,E550D						MISSENSE,A1032G																				
+TCGA-QR-A7IN																										MISSENSE,P531L																								
+TCGA-QT-A5XL																										MISSENSE,P531S																								
+TCGA-RW-A68D																										MISSENSE,Y532C																								
+TCGA-SR-A6MV																										MISSENSE,Y532C						SILENT,E12=																		
+TCGA-WB-A821																										MISSENSE,A530V																								
+TCGA-WB-A817																											MISSENSE,P623T																							
+TCGA-OR-A5JH																														NONSENSE,R2333*																				
+TARGET-30-PARJEN																															MISSENSE,L655V																			
+TCGA-OR-A5L4																																MISSENSE,E220K																		
+TCGA-S7-A7WT																																	MISSENSE,Q1596H																	
+TCGA-QR-A70G																																		PROTEINDEL,E66_Y74del																
+TCGA-QR-A6GY																																			MISSENSE,G515E															
+TCGA-QT-A5XP																																				MISSENSE,L2785R														
+TARGET-30-PANPVI																																					MISSENSE,G411S													
+TARGET-30-PASGAP																																							SPLICE,X2318_splice						NONSENSE,E888*					
+TCGA-OR-A5KV																																								MISSENSE,R201C										
+TCGA-OR-A5LK																																													MISSENSE,H1047R					
+TARGET-30-PANYBL																																														MISSENSE,R480P				
+TCGA-OR-A5LG																																																MISSENSE,P774A		
+TCGA-RW-A686																																																MISSENSE,R199H		
+TCGA-OR-A5J7																							SILENT,V11=																										MISSENSE,R416C	
+TCGA-OR-A5JT																																																	MISSENSE,Y219C	
+TCGA-SQ-A6I4																																																		MISSENSE,P672R
+TARGET-30-PAKFUY		SILENT,R765=																																																
+TARGET-30-PAPRMJ																																				SILENT,G699=														
+TARGET-30-PAPUWY																								SILENT,D1048=																										
+TARGET-30-PARHUX																																								SILENT,Y391=										
+TARGET-30-PATBMM	SILENT,V12298=																																																	
+TCGA-OR-A5JK		SILENT,F443=																																																
+TCGA-OR-A5LL																																																		SILENT,T592=
+TCGA-QR-A6H1										SILENT,Q4067=																																								
+TCGA-WB-A81S																						SILENT,S3357=																												

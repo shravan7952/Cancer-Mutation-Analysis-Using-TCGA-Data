@@ -1,0 +1,39 @@
+🎯 Random Forest Classification Report (Full Data)
+
+                       precision    recall  f1-score   support
+
+              Adrenal       1.00      1.00      1.00       155
+            Bile duct       1.00      1.00      1.00        17
+              Bladder       1.00      1.00      1.00       407
+                 Bone       1.00      1.00      1.00        78
+Bone Marrow and Blood       1.00      1.00      1.00      2429
+                Brain       1.00      1.00      1.00      1061
+               Breast       1.00      1.00      1.00      1182
+               Cervix       1.00      1.00      1.00       335
+          Colonrectal       1.00      1.00      1.00       783
+            Esophagus       1.00      1.00      1.00       229
+                  Eye       1.00      1.00      1.00        80
+        Head and Neck       1.00      1.00      1.00       606
+               Kidney       1.00      1.00      1.00       799
+                Liver       1.00      1.00      1.00       374
+                Lungs       1.00      1.00      1.00      1352
+          Lymph Nodes       1.00      1.00      1.00        53
+       Nervous System       1.00      1.00      1.00         6
+                Ovary       1.00      1.00      1.00       453
+             Pancreas       1.00      1.00      1.00       377
+               Pleura       1.00      1.00      1.00        82
+             Prostate       1.00      1.00      1.00       357
+                 Skin       1.00      1.00      1.00       181
+              Stomach       1.00      1.00      1.00       449
+               Testis       1.00      1.00      1.00        71
+               Thymus       1.00      1.00      1.00        31
+              Thyroid       1.00      1.00      1.00       386
+               Uterus       1.00      1.00      1.00       843
+          soft Tissue       1.00      1.00      1.00        99
+
+             accuracy                           1.00     13275
+            macro avg       1.00      1.00      1.00     13275
+         weighted avg       1.00      1.00      1.00     13275
+
+
+Accuracy: 100.00%
