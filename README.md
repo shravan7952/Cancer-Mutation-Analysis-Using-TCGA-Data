@@ -66,6 +66,8 @@ This project focuses on analyzing somatic mutation data across 13,276 cancer sam
 ├── TMB\_Boxplot.png
 ├── Top20\_Gene\_Heatmap.png
 ├── Confusion\_Matrix.png
+├── Mutation_Heatmap.png
+├── Top20_frequent_gene_expression.png
 ├── random\_forest\_report.txt
 ├── mutation\_analysis.ipynb
 └── README.md
@@ -80,7 +82,7 @@ This project focuses on analyzing somatic mutation data across 13,276 cancer sam
 -  `Top20_Gene_Heatmap.png`
 -  `Confusion_Matrix.png`
 -  `Mutation_Heatmap.png`
--  
+-  `Top20_frequent_gene_expression.png`
 ---
 
 ## 📌 Future Enhancements
